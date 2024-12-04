@@ -8,7 +8,7 @@
                     <div class="card shadow mb-4">
                         <div class="card-body">
                             <div class="row">
-                                <div class="col-sm-12"><img src="<?php echo base_url('').$child_user["profile_photo"] ?>" width="150" height="auto"></div>
+                                <div class="col-sm-12"><img src="<?php echo base_url('').$child_user["chd_photo"] ?>" width="150" height="auto"></div>
                                 <div class="col-sm-4">Child Name</div><div class="col-sm-8">:<?php echo $child_user["full_name"];?></div>
                                 <div class="col-sm-4">Parent Name</div><div class="col-sm-8">:<?php echo $child_user["first_name"].' '.$child_user['last_name'];;?></div>
                                 <div class="col-sm-4">Email</div><div class="col-sm-8">:<?php echo $child_user["email"];?></div>

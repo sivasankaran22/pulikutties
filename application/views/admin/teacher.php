@@ -97,6 +97,7 @@
                                                 </div>
                                                 <input type="hidden" name="status" value="1">
                                                 <div class="col-sm-6 mb-3 mb-sm-0">
+                                                    <label>Profile Photo</label>
                                                     <input type="file" class="form-control" name="profile_photo"
                                                         id="profile_photo" placeholder="profile photo" required>
                                                 </div>

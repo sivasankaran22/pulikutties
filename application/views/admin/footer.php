@@ -664,7 +664,7 @@
                 success: function (response) {
                     if (response.status === 'success') {
                         alert('You Profile updated successfully!');
-                        window.location.href = "<?php echo site_url('admin/edit_your_profile') ?>";
+                        window.location.href = "<?php echo site_url('admin/user-edit-profile') ?>";
                     } else {
                         alert('Error: ' + response.message);
                     }

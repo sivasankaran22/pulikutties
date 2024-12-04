@@ -109,7 +109,7 @@
             success: function (response) {
                 if (response.status === 'success') {
                     alert('DFO added successfully!');
-                    // Optionally, clear the form or redirect
+                    window.location.href = "<?php echo site_url('dfo/dfo_list') ?>";
                 } else {
                     alert('Error: ' + response.message);
                 }
@@ -226,7 +226,7 @@
             success: function (response) {
                 if (response.status === 'success') {
                     alert('Teacher added successfully!');
-                    // Optionally, clear the form or redirect
+                    window.location.href = "<?php echo site_url('dfo/teacher_list') ?>";
                 } else {
                     alert('Error: ' + response.message);
                 }
@@ -342,7 +342,7 @@
             success: function (response) {
                 if (response.status === 'success') {
                     alert('Parent added successfully!');
-                    // Optionally, clear the form or redirect
+                    window.location.href = "<?php echo site_url('dfo/parent_list') ?>";
                 } else {
                     alert('Error: ' + response.message);
                 }
@@ -421,7 +421,7 @@
             success: function (response) {
                 if (response.status === 'success') {
                     alert('Child added successfully!');
-                    // Optionally, clear the form or redirect
+                    window.location.href = "<?php echo site_url('dfo/child_list') ?>";
                 } else {
                     alert('Error: ' + response.message);
                 }
@@ -456,7 +456,7 @@
             success: function (response) {
                 if (response.status === 'success') {
                     alert('Section added successfully!');
-                    // Optionally, clear the form or redirect
+                    window.location.href = "<?php echo site_url('dfo/section_list') ?>";
                 } else {
                     alert('Error: ' + response.message);
                 }
@@ -492,7 +492,7 @@
                 success: function (response) {
                     if (response.status === 'success') {
                         alert('DFO updated successfully!');
-                        // Optionally, clear the form or redirect
+                        window.location.href = "<?php echo site_url('dfo/dfo_list') ?>";
                     } else {
                         alert('Error: ' + response.message);
                     }
@@ -527,7 +527,7 @@
                 success: function (response) {
                     if (response.status === 'success') {
                         alert('Teacher updated successfully!');
-                        // Optionally, clear the form or redirect
+                        window.location.href = "<?php echo site_url('dfo/teacher_list') ?>";
                     } else {
                         alert('Error: ' + response.message);
                     }
@@ -562,7 +562,7 @@
                 success: function (response) {
                     if (response.status === 'success') {
                         alert('Parent updated successfully!');
-                        // Optionally, clear the form or redirect
+                        window.location.href = "<?php echo site_url('dfo/parent_list') ?>";
                     } else {
                         alert('Error: ' + response.message);
                     }
@@ -596,7 +596,7 @@
                 success: function (response) {
                     if (response.status === 'success') {
                         alert('child updated successfully!');
-                        // Optionally, clear the form or redirect
+                        window.location.href = "<?php echo site_url('dfo/child_list') ?>";
                     } else {
                         alert('Error: ' + response.message);
                     }
@@ -630,7 +630,7 @@
                 success: function (response) {
                     if (response.status === 'success') {
                         alert('Section updated successfully!');
-                        // Optionally, clear the form or redirect
+                        window.location.href = "<?php echo site_url('dfo/section_list') ?>";
                     } else {
                         alert('Error: ' + response.message);
                     }
@@ -664,7 +664,7 @@
                 success: function (response) {
                     if (response.status === 'success') {
                         alert('You Profile updated successfully!');
-                        // Optionally, clear the form or redirect
+                        window.location.href = "<?php echo site_url('dfo/user-edit-profile') ?>";
                     } else {
                         alert('Error: ' + response.message);
                     }

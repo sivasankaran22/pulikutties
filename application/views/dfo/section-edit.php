@@ -19,23 +19,23 @@
                                         </div>
                                         <form class="user" id="registerForm"  enctype="multipart/form-data">
                                         <div class="form-group row">
-                                                <div class="col-sm-6 mb-3 mb-sm-0">
+                                                <div class="col-sm-6 mb-3 mb-sm-0"><label>Title</label>
                                                 <input type="text" class="form-control" id="exampleFirstName"
                                                     placeholder="Title" name="title" value="<?=$section_data["title"]?>" required>
                                                 </div>
                                             </div>
                                             <div class="form-group row">
-                                                <div class="col-12 mb-3 mb-sm-0">
+                                                <div class="col-12 mb-3 mb-sm-0"><label>Description</label>
                                                     <textarea class="form-control" id="description" name="description"
                                                     placeholder="Description" ><?=$section_data["description"]?></textarea>
                                                 </div>
                                             </div>
                                             <div class="form-group row">
-                                                <div class="col-sm-6 mb-3 mb-sm-0">
+                                                <div class="col-sm-6 mb-3 mb-sm-0"><label>Start Date and Time</label>
                                                 <input type="datetime-local" class="form-control" id="start_datetime" name="start_datetime"
                                                     placeholder="start datetime"  value="<?=$section_data["start_datetime"]?>">
                                                 </div>
-                                                <div class="col-sm-6 mb-3 mb-sm-0">
+                                                <div class="col-sm-6 mb-3 mb-sm-0"><label>End Date and Time</label>
                                                 <input type="datetime-local" class="form-control" id="end_datetime" name="end_datetime"
                                                     placeholder="end datetime"  value="<?=$section_data["end_datetime"]?>">
                                                 </div>

@@ -101,7 +101,7 @@
                                                 </div>
                                                 <input type="hidden" name="status" value="1">
                                                 <div class="col-sm-6 mb-3 mb-sm-0">
-                                                <label>Password</label>
+                                                <label>Profile Photo</label>
                                                     <input type="file" class="form-control" name="profile_photo"
                                                         id="profile_photo" placeholder="profile photo">
                                                     <img src="<?php echo base_url('').'/'.$user_data["profile_photo"] ?>" height="auto" width="150px">

@@ -35,8 +35,8 @@ class Dfo extends CI_Controller {
     ////////////////////////////
 
     public function teacher(){
-        $data["teacher_js_script"] = true;
-        
+        $data["teacher_js_script"] = true;        
+        $data['gender'] = get_gender();
         $data['blood_groups'] = get_blood_groups();
         $data['circle'] = $this->User_model->get_circle_by_id($this->circle_id);
         $data['division'] = $this->User_model->get_division_by_id($this->circle_id);
@@ -47,7 +47,7 @@ class Dfo extends CI_Controller {
 
     public function teacher_edit_profile($user_id){
         $data["teacher_js_script_edit"] = true;
-        
+        $data['gender'] = get_gender();
         $data['user_data'] = $this->User_model->get_user_by_id($user_id);
         $data['blood_groups'] = get_blood_groups();
         $data['circle'] = $this->User_model->get_circle_by_id($this->circle_id);
@@ -123,6 +123,7 @@ class Dfo extends CI_Controller {
                 'latitude'     => $this->input->post('latitude'),
                 'longitude'    => $this->input->post('longitude'),
                 'profile_photo'=> $file_path,
+                'gender'       => $this->input->post('gender'), 
                 'active'       => $this->input->post('status'),  // Assuming the user is active by default
                 'created_at'   => date('Y-m-d H:i:s')
             );
@@ -179,7 +180,7 @@ class Dfo extends CI_Controller {
             'division'     => $this->input->post('division'),
             'latitude'     => $this->input->post('latitude'),
             'longitude'    => $this->input->post('longitude'),
-            'active'       => $this->input->post('status'),  // Assuming the user is active by default
+            'gender'       => $this->input->post('gender'), 
         );
         
         // Check if a new profile photo is uploaded
@@ -214,7 +215,7 @@ class Dfo extends CI_Controller {
 
 public function parent(){
     $data["parent_js_script"] = true;
-    
+    $data['gender'] = get_gender();
     $data['blood_groups'] = get_blood_groups();
     $data['circle'] = $this->User_model->get_circle_by_id($this->circle_id);
     $data['division'] = $this->User_model->get_division_by_id($this->circle_id);
@@ -226,7 +227,7 @@ public function parent(){
 
 public function parent_edit_profile($user_id){
     $data["parent_js_script_edit"] = true;
-    
+    $data['gender'] = get_gender();
     $data['user_data'] = $this->User_model->get_user_by_id($user_id);
     $data['blood_groups'] = get_blood_groups();
     $data['circle'] = $this->User_model->get_circle_by_id($this->circle_id);
@@ -302,6 +303,7 @@ public function save_parent() {
             'latitude'     => $this->input->post('latitude'),
             'longitude'    => $this->input->post('longitude'),
             'profile_photo'=> $file_path,
+            'gender'       => $this->input->post('gender'), 
             'active'       => $this->input->post('status'),  // Assuming the user is active by default
             'created_at'   => date('Y-m-d H:i:s')
         );
@@ -358,7 +360,7 @@ public function edit_parent($user_id) {
         'division'     => $this->input->post('division'),
         'latitude'     => $this->input->post('latitude'),
         'longitude'    => $this->input->post('longitude'),
-        'active'       => $this->input->post('status'),  // Assuming the user is active by default
+        'gender'       => $this->input->post('gender'), 
     );
     
     // Check if a new profile photo is uploaded
@@ -393,7 +395,7 @@ public function edit_parent($user_id) {
 
 public function child(){
     $data["child_js_script"] = true;
-    
+    $data['gender'] = get_gender();
     $data['blood_groups'] = get_blood_groups();
     $data['gender'] = get_gender();
     $data['school_standards'] = $this->User_model->get_school_standards();
@@ -405,7 +407,7 @@ public function child(){
 
 public function child_edit_profile($child_id){
     $data["child_js_script_edit"] = true;
-    
+    $data['gender'] = get_gender();
     $data['child_data'] = $this->User_model->get_child_by_id($child_id);
     $data['blood_groups'] = get_blood_groups();    
     $data['gender'] = get_gender();
