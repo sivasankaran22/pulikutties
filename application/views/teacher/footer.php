@@ -472,6 +472,77 @@
 <?php } ?>
 
 
+<?php if($attendees_js_script){ ?>
+    <script>
+    $(document).ready(function () {
+
+    $('#registerForm').on('submit', function (e) {
+        
+        e.preventDefault();
+        
+        var formData = new FormData(this); // Serialize form data
+
+        $.ajax({
+            url: '<?php echo site_url('teacher/save_attendees'); ?>',
+            type: 'POST',
+            data: formData,
+            dataType: 'json',
+            processData: false, // Don't process the data
+            contentType: false,
+            success: function (response) {
+                if (response.status === 'success') {
+                    alert('Section added successfully!');
+                    // Optionally, clear the form or redirect
+                } else {
+                    alert('Error: ' + response.message);
+                }
+            },
+            error: function () {
+                alert('An unexpected error occurred. Please try again.');
+            }
+        });
+    });
+
+});
+</script>
+<?php } ?>
+
+<?php if($attendees_js_script_edit){ ?>
+    <script>
+    $(document).ready(function () {
+
+    $('#registerForm').on('submit', function (e) {
+        
+        e.preventDefault();
+        
+        var formData = new FormData(this); // Serialize form data
+
+        $.ajax({
+            url: '<?php echo site_url('teacher/edit_attendees').'/'.$attendees['id']; ?>',
+            type: 'POST',
+            data: formData,
+            dataType: 'json',
+            processData: false, // Don't process the data
+            contentType: false,
+            success: function (response) {
+                if (response.status === 'success') {
+                    alert('Section added successfully!');
+                    // Optionally, clear the form or redirect
+                } else {
+                    alert('Error: ' + response.message);
+                }
+            },
+            error: function () {
+                alert('An unexpected error occurred. Please try again.');
+            }
+        });
+    });
+
+});
+</script>
+<?php } ?>
+
+
 <?php if($dfo_js_script_edit){ ?>
     <script>
     $(document).ready(function () {
@@ -678,6 +749,20 @@
     });
     </script>
 <?php } ?>
+<?php if($attendees_js_script || $attendees_js_script_edit){ ?>
+    <script>
+    document.getElementById('child_id').addEventListener('change', function () {
+        // Get the selected option
+        let selectedOption = this.options[this.selectedIndex];
+
+        // Retrieve the 'data-parent' attribute
+        let parent_id = selectedOption.getAttribute('data-parent');
+
+        // Assign the parent_id to the hidden input field
+        document.getElementById('parent_id').value = parent_id;
+    });
+    </script>
+<?php } ?>
 
 <script>
 $(document).ready(function () {
@@ -710,6 +795,45 @@ $(document).ready(function () {
 function confirmDelete() {
     return confirm("Are you sure you want to delete this item? This action cannot be undone.");
 }
+
+
+document.getElementById('section_details').addEventListener('change', function(event) {
+    const files = event.target.files;
+    const previewContainer = document.getElementById('preview-container');
+    previewContainer.innerHTML = ''; // Clear existing previews
+
+    Array.from(files).forEach((file, index) => {
+        const reader = new FileReader();
+        reader.onload = function(e) {
+            const previewDiv = document.createElement('div');
+            previewDiv.className = 'col-sm-4 position-relative mb-3';
+
+            previewDiv.innerHTML = `
+                <img src="${e.target.result}" class="img-fluid rounded" alt="Preview">
+                <button class="btn btn-danger btn-sm position-absolute top-0 end-0" 
+                        onclick="removeFile(${index})">X</button>
+            `;
+            previewContainer.appendChild(previewDiv);
+        };
+        reader.readAsDataURL(file);
+    });
+});
+
+// Remove file on button click
+function removeFile(index) {
+    const fileInput = document.getElementById('section_details');
+    const dataTransfer = new DataTransfer();
+
+    Array.from(fileInput.files).forEach((file, i) => {
+        if (i !== index) {
+            dataTransfer.items.add(file);
+        }
+    });
+
+    fileInput.files = dataTransfer.files;
+    document.getElementById('preview-container').children[index].remove();
+}
+
 
 </script>
 </body>
