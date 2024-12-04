@@ -107,3 +107,6 @@ $route['parentcontroller/child-profile/(:num)'] = 'parentcontroller/child_profil
 $route['parentcontroller/child-edit-profile/(:num)'] = 'parentcontroller/child_edit_profile/$1'; // Captures the user ID from the URL and passes it to the profile method
 
 $route['parentcontroller/user-edit-profile'] = 'parentcontroller/user_edit_profile';
+
+$route['parentcontroller/section-details/(:num)'] = 'parentcontroller/section_details/$1';
+$route['parentcontroller/attendees-details/(:num)'] = 'parentcontroller/attendees_profile/$1';

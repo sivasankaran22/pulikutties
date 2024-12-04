@@ -269,4 +269,39 @@ public function edit_your_profile() {
         echo json_encode(['status' => 'error', 'message' => 'Failed to update user']);
     }
 }
+
+
+public function attendees_list(){
+    
+    $attend['attend'] = $this->User_model->get_attended_child_by_parent($this->user_id);
+    $this->load->view('parent/header', $data);
+    $this->load->view('parent/attendees_list', $attend);
+    $this->load->view('parent/footer');
+}
+
+// Controller method for displaying the specific user profile
+public function attendees_profile($section_id) {
+    // Fetch the user's data from the model based on user ID
+    $detail['attend_detail'] = $this->User_model->get_section_attended_detail_by_id($section_id);
+    
+    
+    // Check if user data exists
+    if (empty($detail['attend_detail'])) {
+        show_404();  // Show 404 if the user is not found
+    }
+    // Pass user data to the view
+    $this->load->view('parent/header',$data);
+    $this->load->view('parent/attendees_profile', $detail);  // Pass user data to the view
+    $this->load->view('parent/footer');
+}
+
+
+
+public function child_delete($id) {
+    $this->User_model->delete_child($id,$this->user_id);
+    redirect($_SERVER['HTTP_REFERER']);
+}
+
+
+
 }

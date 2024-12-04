@@ -274,6 +274,27 @@ class User_model extends CI_Model
         return null;  // Return null if no user found
     }
 
+    public function get_attended_child_by_parent($parent_id) {
+        // Perform query to get user data by user ID
+
+        $this->db->select('chd.full_name,parent.first_name as p_f_name,parent.last_name as p_l_name,teacher.first_name as t_f_name,teacher.last_name as t_l_name,dfo.first_name as d_f_name,dfo.last_name as d_l_name,chd.profile_photo as chd_photo,s.title,sa.id');
+        $this->db->from('section_attendees sa');
+        $this->db->join('users parent', 'parent.id = sa.parent_id', 'left');
+        $this->db->join('users teacher', 'teacher.id = sa.teacher_id', 'left');
+        $this->db->join('users dfo', 'dfo.id = sa.dfo_id', 'left');
+        $this->db->join('sections s', 's.id = sa.section_id', 'left');
+        $this->db->join('child chd', 'chd.id = sa.child_id', 'left');
+        $this->db->where('parent.id', $parent_id);  // Add where condition to fetch data for a 
+        $query = $this->db->get();  // Execute the query
+
+        // Check if the user exists
+        if ($query->num_rows() > 0) {
+            return $query->result_array();  // Return user data as an associative array
+        }
+
+        return null;  // Return null if no user found
+    }
+
     public function get_attended_child_by_dfo($dfo_id) {
         // Perform query to get user data by user ID
 
@@ -581,8 +602,9 @@ class User_model extends CI_Model
         $query = $this->db->query("
             SELECT 
                 (SELECT COUNT(id) FROM `child` WHERE parent_id= ? ) AS child_count,
-                (SELECT COUNT(id) FROM `sections`) AS section_count
-        ",[$user_id]);
+                (SELECT COUNT(id) FROM `sections`) AS section_count,
+                (SELECT COUNT(id) FROM `section_attendees` WHERE parent_id= ?) AS attendees_count
+        ",[$user_id,$user_id,]);
         // Return the result as an associative array
         return $query->row_array();
     }
@@ -593,5 +615,26 @@ class User_model extends CI_Model
         $this->db->where('teacher_id', $user_id);
         return $this->db->delete('section_attendees');
     }
+
+    public function delete_child($id, $user_id) {
+        // Begin transaction to ensure both deletions succeed or fail together
+        $this->db->trans_start();
+        
+        // Delete from the 'child' table
+        $this->db->where('id', $id);
+        $this->db->where('parent_id', $user_id);
+        $this->db->delete('child');
+    
+        // Delete related records from the 'section_attendees' table
+        $this->db->where('child_id', $id);
+        $this->db->delete('section_attendees');
+    
+        // Complete the transaction
+        $this->db->trans_complete();
+    
+        // Return the transaction status (true if successful, false otherwise)
+        return $this->db->trans_status();
+    }
+    
 
 }
