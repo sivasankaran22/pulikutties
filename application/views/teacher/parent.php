@@ -97,12 +97,12 @@
                                                 <div class="col-sm-6 mb-3 mb-sm-0">
                                                     <input type="password" class="form-control" name="password"
                                                         id="password" placeholder="Password" value="password" required>
-                                                        <span id="togglePassword"  class="fa fa-eye" style="position: absolute; right: 26px; top: 50%; transform: translateY(-50%); cursor: pointer;"></span>
+                                                        <span id="togglePassword"  class="fa fa-eye" style="position: absolute; right: 26px; top: 72%; transform: translateY(-50%); cursor: pointer;"></span>
                                                         <input type="hidden" name="role" value="parent" />
                                                 </div>
                                                 
                                             </div>
-                                            <button class="btn btn-primary btn-user btn-block" type="submit">
+                                            <button class="btn btn-primary btn-user" type="submit">
                                                 Create
                                             </button>
                                         </form>

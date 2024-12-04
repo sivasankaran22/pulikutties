@@ -114,8 +114,8 @@
                 </a>
                 <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
-                        <a class="collapse-item" href="<?php echo site_url("admin/section_list"); ?>">List</a>
-                        <a class="collapse-item" href="<?php echo site_url("admin/section"); ?>">Create Section</a>
+                        <a class="collapse-item" href="<?php echo site_url("admin/section_list"); ?>">Section List</a>
+                        <a class="collapse-item" href="<?php echo site_url("admin/attendees_list"); ?>">Attendees List</a>
                     </div>
                 </div>
             </li>

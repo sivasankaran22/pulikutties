@@ -29,7 +29,7 @@ class Admin extends CI_Controller {
 
     public function dfo(){
         $data["dfo_js_script"] = true;
-        
+        $data['gender'] = get_gender();
         $data['blood_groups'] = get_blood_groups();
         $data['circle'] = $this->User_model->get_circle();
         $data['division'] = $this->User_model->get_division();
@@ -40,7 +40,7 @@ class Admin extends CI_Controller {
 
     public function dfo_edit_profile($user_id){
         $data["dfo_js_script_edit"] = true;
-        
+        $data['gender'] = get_gender();
         $data['user_data'] = $this->User_model->get_user_by_id($user_id);
         $data['blood_groups'] = get_blood_groups();
         $data['circle'] = $this->User_model->get_circle();
@@ -114,7 +114,8 @@ class Admin extends CI_Controller {
                 'latitude'     => $this->input->post('latitude'),
                 'longitude'    => $this->input->post('longitude'),
                 'profile_photo'=> $file_path,
-                'active'       => $this->input->post('status'),  // Assuming the user is active by default
+                'active'       => $this->input->post('status'),
+                'gender'       => $this->input->post('gender'),  // Assuming the user is active by default
                 'created_at'   => date('Y-m-d H:i:s')
             );
     
@@ -161,7 +162,7 @@ class Admin extends CI_Controller {
             'division'     => $this->input->post('division'),
             'latitude'     => $this->input->post('latitude'),
             'longitude'    => $this->input->post('longitude'),
-            'active'       => $this->input->post('status'),  // Assuming the user is active by default
+            'gender'       => $this->input->post('gender'),
         );
         
         // Check if a new profile photo is uploaded
@@ -187,7 +188,7 @@ class Admin extends CI_Controller {
 
     public function teacher(){
         $data["teacher_js_script"] = true;
-        
+        $data['gender'] = get_gender();
         $data['blood_groups'] = get_blood_groups();
         $data['circle'] = $this->User_model->get_circle();
         $data['division'] = $this->User_model->get_division();
@@ -199,7 +200,7 @@ class Admin extends CI_Controller {
 
     public function teacher_edit_profile($user_id){
         $data["teacher_js_script_edit"] = true;
-        
+        $data['gender'] = get_gender();
         $data['user_data'] = $this->User_model->get_user_by_id($user_id);
         $data['blood_groups'] = get_blood_groups();
         $data['circle'] = $this->User_model->get_circle();
@@ -275,6 +276,7 @@ class Admin extends CI_Controller {
                 'latitude'     => $this->input->post('latitude'),
                 'longitude'    => $this->input->post('longitude'),
                 'profile_photo'=> $file_path,
+                'gender'       => $this->input->post('gender'), 
                 'active'       => $this->input->post('status'),  // Assuming the user is active by default
                 'created_at'   => date('Y-m-d H:i:s')
             );
@@ -330,8 +332,8 @@ class Admin extends CI_Controller {
             'circle'       => $this->input->post('circle'),
             'division'     => $this->input->post('division'),
             'latitude'     => $this->input->post('latitude'),
+            'gender'       => $this->input->post('gender'), 
             'longitude'    => $this->input->post('longitude'),
-            'active'       => $this->input->post('status'),  // Assuming the user is active by default
         );
         
         // Check if a new profile photo is uploaded
@@ -366,7 +368,7 @@ class Admin extends CI_Controller {
 
 public function parent(){
     $data["parent_js_script"] = true;
-    
+    $data['gender'] = get_gender();
     $data['blood_groups'] = get_blood_groups();
     $data['circle'] = $this->User_model->get_circle();
     $data['division'] = $this->User_model->get_division();
@@ -378,7 +380,7 @@ public function parent(){
 
 public function parent_edit_profile($user_id){
     $data["parent_js_script_edit"] = true;
-    
+    $data['gender'] = get_gender();
     $data['user_data'] = $this->User_model->get_user_by_id($user_id);
     $data['blood_groups'] = get_blood_groups();
     $data['circle'] = $this->User_model->get_circle();
@@ -454,6 +456,7 @@ public function save_parent() {
             'latitude'     => $this->input->post('latitude'),
             'longitude'    => $this->input->post('longitude'),
             'profile_photo'=> $file_path,
+            'gender'       => $this->input->post('gender'), 
             'active'       => $this->input->post('status'),  // Assuming the user is active by default
             'created_at'   => date('Y-m-d H:i:s')
         );
@@ -510,7 +513,7 @@ public function edit_parent($user_id) {
         'division'     => $this->input->post('division'),
         'latitude'     => $this->input->post('latitude'),
         'longitude'    => $this->input->post('longitude'),
-        'active'       => $this->input->post('status'),  // Assuming the user is active by default
+        'gender'       => $this->input->post('gender'), 
     );
     
     // Check if a new profile photo is uploaded
@@ -545,7 +548,7 @@ public function edit_parent($user_id) {
 
 public function child(){
     $data["child_js_script"] = true;
-    
+    $data['gender'] = get_gender();
     $data['blood_groups'] = get_blood_groups();
     $data['gender'] = get_gender();
     $data['school_standards'] = $this->User_model->get_school_standards();
@@ -557,7 +560,7 @@ public function child(){
 
 public function child_edit_profile($child_id){
     $data["child_js_script_edit"] = true;
-    
+    $data['gender'] = get_gender();
     $data['child_data'] = $this->User_model->get_child_by_id($child_id);
     $data['blood_groups'] = get_blood_groups();    
     $data['gender'] = get_gender();
@@ -722,7 +725,7 @@ public function section_details($section_id) {
 
 public function section_edit_profile($section_id){
     $data["section_js_script_edit"] = true;
-    
+    $data['gender'] = get_gender();
     $data['section_data'] = $this->Section_model->get_section_by_id($section_id);
     $this->load->view('admin/header', $data);
     $this->load->view('admin/section-edit', $data);
@@ -765,14 +768,14 @@ public function edit_section($id) {
 }
 
 public function section_delete($id) {
-    $this->Section_model->delete_section($id);
-    redirect('section');
+    $this->Section_model->delete_section_by_admin($id);
+    redirect($_SERVER['HTTP_REFERER']);
 }
     
 
 public function user_edit_profile(){
     $data["user_js_script_edit"] = true;
-    
+    $data['gender'] = get_gender();
     $user_id = $this->session->userdata('user_id');
     $data['user_data'] = $this->User_model->get_user_by_id($user_id);    
     $data['blood_groups'] = get_blood_groups();
@@ -829,5 +832,32 @@ public function edit_your_profile() {
         echo json_encode(['status' => 'error', 'message' => 'Failed to update user']);
     }
 }
+
+
+
+public function attendees_list(){
+    
+    $attend['attend'] = $this->User_model->get_all_attended_child($this->user_id);
+    $this->load->view('admin/header', $data);
+    $this->load->view('admin/attendees_list', $attend);
+    $this->load->view('admin/footer');
+}
+
+// Controller method for displaying the specific user profile
+public function attendees_profile($section_id) {
+    // Fetch the user's data from the model based on user ID
+    $detail['attend_detail'] = $this->User_model->get_section_attended_detail_by_id($section_id);
+    
+    // Check if user data exists
+    if (empty($detail['attend_detail'])) {
+        show_404();  // Show 404 if the user is not found
+    }
+    // Pass user data to the view
+    $this->load->view('admin/header',$data);
+    $this->load->view('admin/attendees_profile', $detail);  // Pass user data to the view
+    $this->load->view('admin/footer');
+}
+
+
 
 }

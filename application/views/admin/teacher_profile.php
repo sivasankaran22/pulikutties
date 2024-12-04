@@ -12,7 +12,7 @@
                                 <div class="col-sm-4">Name</div><div class="col-sm-8">:<?php echo $teacher_user["first_name"].' '.$teacher_user['last_name'];;?></div>
                                 <div class="col-sm-4">Email</div><div class="col-sm-8">:<?php echo $teacher_user["email"];?></div>
                                 <div class="col-sm-4">Phone</div><div class="col-sm-8">:<?php echo $teacher_user["phone"];?></div>
-                                <div class="col-sm-4">Address</div><div class="col-sm-8">:<?php echo $teacher_user["address"];?></div>
+                                <div class="col-sm-4">Address</div><div class="col-sm-8">:<?php echo $teacher_user["Address"];?></div>
                                 <div class="col-sm-4">Circle</div><div class="col-sm-8">:<?php echo $teacher_user["circle_name"];?></div>
                                 <div class="col-sm-4">Division</div><div class="col-sm-8">:<?php echo $teacher_user["division_name"];?></div>
                                 <div class="col-sm-4">DOB</div><div class="col-sm-8">:<?php echo $teacher_user["DOB"];?></div>
@@ -55,9 +55,8 @@
                                             <td><?php echo $list['phone']; ?></td>
                                             <td><?php echo $list['circle_name']; ?></td>
                                             <td><?php echo $list['division_name']; ?></td>
-                                            <td><a class="btn btn-primary m-1" href="<?php echo site_url('admin/dfo-profile').'/'.$list['user_id']; ?>">view</a>
-                                            <a class="btn btn-secondary m-1">Edit</a>
-                                            <a class="btn btn-danger m-1">Delete</a></td>
+                                            <td><a class="btn btn-primary m-1" href="<?php echo site_url('admin/parent-profile').'/'.$list['id']; ?>">view</a>
+                                            <a class="btn btn-secondary m-1" href="<?php echo site_url('admin/parent-edit-profile').'/'.$list['id']; ?>">Edit</a></td>
                                         </tr>
                                     <?php endforeach; ?>
                                     </tbody>

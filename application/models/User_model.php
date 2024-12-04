@@ -237,7 +237,7 @@ class User_model extends CI_Model
 
     public function get_child_by_id($child_id) {
         // Perform query to get user data by user ID
-        $this->db->select('chd.*,us.*,chd.id as child_id,chd.blood_group as child_blood_group,chd.profile_photo as chd_photo, c.circle as circle_name, d.division as division_name');
+        $this->db->select('chd.*,us.*,chd.id as child_id,chd.blood_group as child_blood_group,chd.profile_photo as chd_photo, c.circle as circle_name, d.division as division_name,chd.gender as c_gender');
         $this->db->from('child chd');
         $this->db->join('users us', 'us.id = chd.parent_id', 'left');         
         $this->db->join('circle c', 'us.circle = c.id', 'left');  // Left join with circle table
@@ -264,6 +264,27 @@ class User_model extends CI_Model
         $this->db->join('sections s', 's.id = sa.section_id', 'left');
         $this->db->join('child chd', 'chd.id = sa.child_id', 'left');
         $this->db->where('teacher.id', $teacher_id);  // Add where condition to fetch data for a 
+        $query = $this->db->get();  // Execute the query
+
+        // Check if the user exists
+        if ($query->num_rows() > 0) {
+            return $query->result_array();  // Return user data as an associative array
+        }
+
+        return null;  // Return null if no user found
+    }
+
+
+    public function get_all_attended_child() {
+        // Perform query to get user data by user ID
+
+        $this->db->select('chd.full_name,parent.first_name as p_f_name,parent.last_name as p_l_name,teacher.first_name as t_f_name,teacher.last_name as t_l_name,dfo.first_name as d_f_name,dfo.last_name as d_l_name,chd.profile_photo as chd_photo,s.title,sa.id');
+        $this->db->from('section_attendees sa');
+        $this->db->join('users parent', 'parent.id = sa.parent_id', 'left');
+        $this->db->join('users teacher', 'teacher.id = sa.teacher_id', 'left');
+        $this->db->join('users dfo', 'dfo.id = sa.dfo_id', 'left');
+        $this->db->join('sections s', 's.id = sa.section_id', 'left');
+        $this->db->join('child chd', 'chd.id = sa.child_id', 'left');
         $query = $this->db->get();  // Execute the query
 
         // Check if the user exists
@@ -507,7 +528,8 @@ class User_model extends CI_Model
                 (SELECT COUNT(id) FROM `users` WHERE role = 'teacher') AS teacher_count,
                 (SELECT COUNT(id) FROM `users` WHERE role = 'parent') AS parent_count,
                 (SELECT COUNT(id) FROM `child` ) AS child_count,
-                (SELECT COUNT(id) FROM `sections` ) AS section_count
+                (SELECT COUNT(id) FROM `sections` ) AS section_count,
+                (SELECT COUNT(id) FROM `section_attendees` ) AS attendees_count
         ");
         
         // Return the result as an associative array

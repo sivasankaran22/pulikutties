@@ -88,7 +88,7 @@
                                                         <input type="hidden" name="role" value="dfo" />
                                                 </div>
                                             </div>
-                                            <button class="btn btn-primary btn-user btn-block" type="submit">
+                                            <button class="btn btn-primary btn-user" type="submit">
                                                 Edit
                                             </button>
                                         </form>

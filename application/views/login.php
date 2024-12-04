@@ -52,7 +52,7 @@
                                                 id="password" placeholder="Password" required>
                                         </div>
                                         <div id="errorMessage" style="color: red; display: none;"></div>
-                                        <button class="btn btn-primary btn-user btn-block">
+                                        <button class="btn btn-primary btn-user">
                                             Login
                                         </button>
                                     </form>

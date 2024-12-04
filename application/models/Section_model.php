@@ -43,4 +43,9 @@ class Section_model extends CI_Model {
         $this->db->where('created_by', $user_id);
         return $this->db->delete('sections');
     }
+
+    public function delete_section_by_admin($id) {
+        $this->db->where('id', $id);
+        return $this->db->delete('sections');
+    }
 }

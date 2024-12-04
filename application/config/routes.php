@@ -69,6 +69,7 @@ $route['admin/child-edit-profile/(:num)'] = 'admin/child_edit_profile/$1'; // Ca
 $route['admin/section-details/(:num)'] = 'admin/section_details/$1';
 $route['admin/section-edit-profile/(:num)'] = 'admin/section_edit_profile/$1';
 $route['admin/section/delete/(:num)'] = 'admin/section_delete/$1';
+$route['admin/attendees-details/(:num)'] = 'admin/attendees_profile/$1';
 
 $route['admin/user-edit-profile'] = 'admin/user_edit_profile';
 

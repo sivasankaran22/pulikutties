@@ -20,30 +20,31 @@
                                         <form class="user" id="registerForm"  enctype="multipart/form-data">
                                             <div class="form-group row">
                                                 <div class="col-sm-6 mb-3 mb-sm-0">
+                                                <label>Full Name</label>
                                                     <input type="text" class="form-control" id="exampleFirstName"
                                                         placeholder="Full Name" name="full_name" required>
                                                 </div>
-                                                <div class="col-sm-6 mb-3 mb-sm-0">
+                                                <div class="col-sm-6 mb-3 mb-sm-0"><label>DOB</label>
                                                 <input type="date" class="form-control" id="DOB" name="DOB"
                                                     placeholder="DOB" >
                                                 </div>
                                             </div>
                                             <div class="form-group row">    
-                                                <div class="col-sm-6 mb-3 mb-sm-0">
+                                                <div class="col-sm-6 mb-3 mb-sm-0"><label>Select Blood Group</label>
                                                 <select class="form-control" id="blood_group" name="blood_group">
-                                                    <option value="">-- Select blood group --</option>
+                                                    <option value="">-- Select Blood Group --</option>
                                                     <?php foreach ($blood_groups as $key => $value): ?>
                                                         <option value="<?= $key ?>"><?= $value ?></option>
                                                     <?php endforeach; ?>
                                                 </select>
                                                 </div>
-                                                <div class="col-sm-6 mb-3 mb-sm-0">
+                                                <div class="col-sm-6 mb-3 mb-sm-0"><label>Profile Photo</label>
                                                     <input type="file" class="form-control" name="profile_photo"
                                                         id="profile_photo" placeholder="profile photo" required>
                                                 </div>
                                             </div>
                                             <div class="form-group row">
-                                            <div class="col-sm-6 mb-3 mb-sm-0">
+                                            <div class="col-sm-6 mb-3 mb-sm-0"><label>Select Gender</label>
                                                 <select class="form-control" id="gender" name="gender">
                                                     <option value="">-- Select Gender --</option>
                                                     <?php foreach ($gender as $key => $value): ?>
@@ -51,7 +52,7 @@
                                                     <?php endforeach; ?>
                                                 </select>
                                                 </div>
-                                                <div class="col-sm-6 mb-3 mb-sm-0">
+                                                <div class="col-sm-6 mb-3 mb-sm-0"><label>Select Parent</label>
                                                 <select class="form-control" id="parent_id" name="parent_id">
                                                     <option value="">-- Select Parent --</option>
                                                     <?php foreach ($all_parent as $value): ?>
@@ -61,7 +62,7 @@
                                                 </div>
                                             </div>
                                             <div class="form-group row">
-                                            <div class="col-sm-6 mb-3 mb-sm-0">
+                                            <div class="col-sm-6 mb-3 mb-sm-0"><label>Select School Standards</label>
                                                 <select class="form-control" id="school_standards" name="school_standards">
                                                     <option value="">-- Select School Standards --</option>
                                                     <?php foreach ($school_standards as $value): ?>
@@ -70,7 +71,7 @@
                                                 </select>
                                                 </div>
                                             </div>
-                                            <button class="btn btn-primary btn-user btn-block" type="submit">
+                                            <button class="btn btn-primary btn-user" type="submit">
                                                 Create
                                             </button>
                                         </form>

@@ -112,7 +112,7 @@
                                                 <input type="hidden" name="old_map_id" value="<?php echo $user_data['map_id']; ?>">
                                                 </div>
                                             </div>
-                                            <button class="btn btn-primary btn-user btn-block" type="submit">
+                                            <button class="btn btn-primary btn-user" type="submit">
                                                 Edit
                                             </button>
                                         </form>

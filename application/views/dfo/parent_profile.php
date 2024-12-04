@@ -12,7 +12,7 @@
                                 <div class="col-sm-4">Name</div><div class="col-sm-8">:<?php echo $parent_user["first_name"].' '.$parent_user['last_name'];?></div>
                                 <div class="col-sm-4">Email</div><div class="col-sm-8">:<?php echo $parent_user["email"];?></div>
                                 <div class="col-sm-4">Phone</div><div class="col-sm-8">:<?php echo $parent_user["phone"];?></div>
-                                <div class="col-sm-4">Address</div><div class="col-sm-8">:<?php echo $parent_user["address"];?></div>
+                                <div class="col-sm-4">Address</div><div class="col-sm-8">:<?php echo $parent_user["Address"];?></div>
                                 <div class="col-sm-4">Circle</div><div class="col-sm-8">:<?php echo $parent_user["circle_name"];?></div>
                                 <div class="col-sm-4">Division</div><div class="col-sm-8">:<?php echo $parent_user["division_name"];?></div>
                                 <div class="col-sm-4">DOB</div><div class="col-sm-8">:<?php echo $parent_user["DOB"];?></div>

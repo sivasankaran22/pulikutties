@@ -71,7 +71,7 @@
 
                                 <input type="hidden" name="dfo_id" value="<?=$dfo_id?>" />
                                 <input type="hidden" id="parent_id" name="parent_id" value="<?=$attendees["parent_id"]?>">
-                                <button class="btn btn-primary btn-user btn-block" type="submit">
+                                <button class="btn btn-primary btn-user" type="submit">
                                     Edit
                                 </button>
                             </form>
