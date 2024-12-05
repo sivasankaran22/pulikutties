@@ -5,6 +5,8 @@
 <?php
 $section_attendees_id = $attendees[0]["section_id"];
 $section_details = $attendees[0]["section_details"];
+$child_ids = array_column($attendees, 'child_id');
+
 ?>
 <!-- Content Row -->
 <div class="row">
@@ -47,7 +49,9 @@ $section_details = $attendees[0]["section_details"];
                                                             <p id="no-child-message" style="display: none;">No child is selected yet.</p>
                                                             <?php
                                                             foreach($all_child as $value){
+                                                                if (in_array($value["child_id"], $child_ids)){
                                                                 echo '<div data-child-id="'.$value["child_id"].'" class="child-entry"><label>'.$value["full_name"] . " (" . $value["first_name"] . " " . $value["last_name"] . ")".'</label><input type="hidden" name="child_parent_id[]" value="['.$value["child_id"].','.$value["parent_id"].']"><label class="delete" style="color:red; cursor:pointer;">X</label></div>';
+                                                                }
                                                             }
                                                                 
                                                             ?>
