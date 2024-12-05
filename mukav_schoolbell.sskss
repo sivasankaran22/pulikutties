@@ -1,0 +1,441 @@
+-- phpMyAdmin SQL Dump
+-- version 5.2.1
+-- https://www.phpmyadmin.net/
+--
+-- Host: localhost:3306
+-- Generation Time: Dec 04, 2024 at 11:48 PM
+-- Server version: 10.6.19-MariaDB-cll-lve
+-- PHP Version: 8.1.29
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Database: `mukav_schoolbell`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `child`
+--
+
+CREATE TABLE `child` (
+  `id` int(11) NOT NULL,
+  `full_name` varchar(255) NOT NULL,
+  `dob` date NOT NULL,
+  `gender` enum('male','female','other','') NOT NULL,
+  `blood_group` varchar(10) DEFAULT NULL,
+  `parent_id` int(11) NOT NULL,
+  `created_at` timestamp NULL DEFAULT current_timestamp(),
+  `updated_at` timestamp NULL DEFAULT current_timestamp(),
+  `profile_photo` varchar(255) DEFAULT NULL,
+  `school_standards_id` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `child`
+--
+
+INSERT INTO `child` (`id`, `full_name`, `dob`, `gender`, `blood_group`, `parent_id`, `created_at`, `updated_at`, `profile_photo`, `school_standards_id`) VALUES
+(1, 'Nathiyan', '2019-12-11', 'male', 'B+', 34, '2024-12-05 05:42:15', '2024-12-05 05:42:15', 'assets/img/profile_photo/OIP.jpg', 5),
+(2, 'Pooviksha', '2021-12-02', 'female', 'O+', 34, '2024-12-05 05:43:23', '2024-12-05 05:43:23', 'assets/img/profile_photo/OIP1.jpg', 3);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `circle`
+--
+
+CREATE TABLE `circle` (
+  `id` int(11) NOT NULL,
+  `circle` varchar(255) NOT NULL,
+  `state_id` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `circle`
+--
+
+INSERT INTO `circle` (`id`, `circle`, `state_id`) VALUES
+(1, 'Arignar Anna Zoological Park, Vandalur', 1),
+(2, 'ATR, Pollachi', 1),
+(3, 'Chennai', 1),
+(4, 'Coimbatore', 1),
+(5, 'Dharmapuri', 1),
+(6, 'Dindigul', 1),
+(7, 'Director, TNFA, Coimbatore', 1),
+(8, 'Erode', 1),
+(9, 'Forestry Extension, Central Region, Salem', 1),
+(10, 'Forestry Extension, North Region, Chennai', 1),
+(11, 'Forestry Extension, South Region, Madurai', 1),
+(12, 'Madurai', 1),
+(13, 'MTR, Udhagai', 1),
+(14, 'Principal Chief Conservator of Forests(HoFF), Chen', 1),
+(15, 'Project Tiger, Tirunelveli', 1),
+(16, 'Salem', 1),
+(17, 'Tirunelveli', 1),
+(18, 'Trichy', 1),
+(19, 'Vellore', 1),
+(20, 'Villupuram', 1),
+(21, 'Virudhunagar', 1);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `division`
+--
+
+CREATE TABLE `division` (
+  `id` int(11) NOT NULL,
+  `division` varchar(255) NOT NULL,
+  `circle_id` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `division`
+--
+
+INSERT INTO `division` (`id`, `division`, `circle_id`) VALUES
+(1, 'Wildlife Warden, Chennai', 1),
+(2, 'DD, Pollachi', 2),
+(3, 'DD,Tiruppur', 2),
+(4, 'Chengalpattu,Kancheepuram', 3),
+(5, 'Tiruvallur', 3),
+(6, 'Coimbatore', 4),
+(7, 'Gudalur', 4),
+(8, 'Nilgiris North', 4),
+(9, 'Nilgiris South', 4),
+(10, 'Dharmapuri', 5),
+(11, 'Harur', 5),
+(12, 'Hosur', 5),
+(13, 'Dindigul', 6),
+(14, 'Karur', 6),
+(15, 'Kodaikanal', 6),
+(16, 'Director, TNFA, Coimbatore', 7),
+(17, 'Erode', 8),
+(18, 'Namakkal', 8),
+(19, 'Sathyamangalam', 8),
+(20, 'Forestry Extension, Central Region, Salem', 9),
+(21, 'Forestry Extension, North Region, Chennai', 10),
+(22, 'Forestry Extension, South Region, Madurai', 11),
+(23, 'Madurai', 12),
+(24, 'Megamalai WL', 12),
+(25, 'Theni', 12),
+(26, 'DD, Udhagai', 13),
+(27, 'Principal Chief Conservator of Forests Hoef,Chenna', 14),
+(28, 'DD, Ambasamudram', 15),
+(29, 'DD, Kalakadu', 15),
+(30, 'Attur', 16),
+(31, 'Salem', 16),
+(32, 'Kanyakumari', 17),
+(33, 'Thoothukudi', 17),
+(34, 'Tirunelveli', 17),
+(35, 'Ariyalur', 18),
+(36, 'Nagapattinam WL', 18),
+(37, 'Perambalur', 18),
+(38, 'Pudukottai', 18),
+(39, 'Tiruvarur', 18),
+(40, 'Trichy', 18),
+(41, 'Tirupattur', 19),
+(42, 'Tiruvannamalai North', 19),
+(43, 'Tiruvannamalai South', 19),
+(44, 'Vellore', 19),
+(45, 'Cuddalore', 20),
+(46, 'Kallakurichi', 20),
+(47, 'Villupuram', 20),
+(48, 'Ramanathapuram', 21),
+(49, 'Ramnad WL', 21),
+(50, 'Sivagangai', 21),
+(51, 'Srivilliputhur WL', 21);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `mappings`
+--
+
+CREATE TABLE `mappings` (
+  `id` int(11) NOT NULL,
+  `parent_id` int(11) NOT NULL,
+  `child_id` int(11) NOT NULL,
+  `created_at` datetime DEFAULT current_timestamp(),
+  `updated_at` datetime DEFAULT current_timestamp() ON UPDATE current_timestamp()
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `mappings`
+--
+
+INSERT INTO `mappings` (`id`, `parent_id`, `child_id`, `created_at`, `updated_at`) VALUES
+(1, 32, 33, '2024-12-05 11:06:50', '2024-12-05 11:06:50'),
+(2, 33, 34, '2024-12-05 11:10:56', '2024-12-05 11:10:56');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `school_standards`
+--
+
+CREATE TABLE `school_standards` (
+  `id` int(11) NOT NULL,
+  `name` varchar(255) NOT NULL,
+  `standard_order` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `school_standards`
+--
+
+INSERT INTO `school_standards` (`id`, `name`, `standard_order`) VALUES
+(1, 'Pre KG English Medium', 1),
+(2, 'Pre KG Tamil Medium', 2),
+(3, 'LKG English Medium', 3),
+(4, 'LKG Tamil Medium', 4),
+(5, 'UKG English Medium', 5),
+(6, 'UKG Tamil Medium', 6),
+(7, '1st Grade English Medium', 7),
+(8, '1st Grade Tamil Medium', 8),
+(9, '2nd Grade English Medium', 9),
+(10, '2nd Grade Tamil Medium', 10),
+(11, '3rd Grade English Medium', 11),
+(12, '3rd Grade Tamil Medium', 12),
+(13, '4th Grade English Medium', 13),
+(14, '4th Grade Tamil Medium', 14),
+(15, '5th Grade English Medium', 15),
+(16, '5th Grade Tamil Medium', 16),
+(17, '6th Grade English Medium', 17),
+(18, '6th Grade Tamil Medium', 18),
+(19, '7th Grade English Medium', 19),
+(20, '7th Grade Tamil Medium', 20),
+(21, '8th Grade English Medium', 21),
+(22, '8th Grade Tamil Medium', 22),
+(23, '9th Grade English Medium', 23),
+(24, '9th Grade Tamil Medium', 24),
+(25, '10th Grade English Medium', 25),
+(26, '10th Grade Tamil Medium', 26),
+(27, '11th Grade English Medium', 27),
+(28, '11th Grade Tamil Medium', 28),
+(29, '12th Grade English Medium', 29),
+(30, '12th Grade Tamil Medium', 30);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `sections`
+--
+
+CREATE TABLE `sections` (
+  `id` int(11) NOT NULL,
+  `title` varchar(255) NOT NULL,
+  `description` text NOT NULL,
+  `start_datetime` datetime NOT NULL,
+  `end_datetime` datetime NOT NULL,
+  `created_at` datetime DEFAULT current_timestamp(),
+  `updated_at` datetime DEFAULT current_timestamp() ON UPDATE current_timestamp(),
+  `created_by` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `sections`
+--
+
+INSERT INTO `sections` (`id`, `title`, `description`, `start_datetime`, `end_datetime`, `created_at`, `updated_at`, `created_by`) VALUES
+(1, 'Section 1', 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. \r\nIt has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.', '2024-12-06 11:00:00', '2024-12-06 12:00:00', '2024-12-04 22:46:06', '2024-12-04 22:46:06', 32);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `section_attendees`
+--
+
+CREATE TABLE `section_attendees` (
+  `id` int(11) NOT NULL,
+  `section_id` int(11) NOT NULL,
+  `dfo_id` int(11) NOT NULL,
+  `teacher_id` int(11) NOT NULL,
+  `parent_id` int(11) NOT NULL,
+  `child_id` int(11) NOT NULL,
+  `section_details` text NOT NULL,
+  `longitude` varchar(255) DEFAULT NULL,
+  `latitude` varchar(255) DEFAULT NULL,
+  `created_at` timestamp NOT NULL DEFAULT current_timestamp(),
+  `updated_at` timestamp NOT NULL DEFAULT current_timestamp() ON UPDATE current_timestamp()
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `section_attendees`
+--
+
+INSERT INTO `section_attendees` (`id`, `section_id`, `dfo_id`, `teacher_id`, `parent_id`, `child_id`, `section_details`, `longitude`, `latitude`, `created_at`, `updated_at`) VALUES
+(1, 1, 32, 33, 34, 1, '[\"4a7151498a188c3769366c0f547dc7d7.jpg\",\"0fbaf6dd029e7f9ef9d98b7dc666c50e.jpg\"]', NULL, NULL, '2024-12-05 05:53:32', '2024-12-05 05:53:32'),
+(2, 1, 32, 33, 34, 2, '[\"bcf34d5027f583d375ff6a33f7fe90b7.jpg\"]', NULL, NULL, '2024-12-05 05:53:52', '2024-12-05 05:53:52');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `users`
+--
+
+CREATE TABLE `users` (
+  `id` int(11) NOT NULL,
+  `first_name` varchar(255) NOT NULL,
+  `last_name` varchar(255) NOT NULL,
+  `email` varchar(255) NOT NULL,
+  `password` varchar(255) NOT NULL,
+  `role` enum('admin','teacher','parent','dfo') NOT NULL,
+  `created_at` timestamp NOT NULL DEFAULT current_timestamp(),
+  `phone` varchar(20) NOT NULL,
+  `DOB` date DEFAULT NULL,
+  `blood_group` varchar(10) DEFAULT NULL,
+  `Address` varchar(255) DEFAULT NULL,
+  `state` int(11) DEFAULT 1,
+  `circle` int(11) DEFAULT NULL,
+  `division` int(11) DEFAULT NULL,
+  `latitude` varchar(100) DEFAULT NULL,
+  `longitude` varchar(100) DEFAULT NULL,
+  `profile_photo` varchar(255) DEFAULT NULL,
+  `active` tinyint(1) NOT NULL DEFAULT 1,
+  `gender` enum('male','female','other','') DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `users`
+--
+
+INSERT INTO `users` (`id`, `first_name`, `last_name`, `email`, `password`, `role`, `created_at`, `phone`, `DOB`, `blood_group`, `Address`, `state`, `circle`, `division`, `latitude`, `longitude`, `profile_photo`, `active`, `gender`) VALUES
+(31, 'admin', 'A', 'Admin@pulikutties.com', '$2y$10$ooWq9.uy8Y.L5b27swyTOeQZ99rZtkqUh.QqtaIMU9lYbPZLYXW0S', 'admin', '2024-12-02 05:31:22', '8798712342', '1990-12-04', 'A-', 'Address', NULL, 4, 6, NULL, NULL, 'assets/img/profile_photo/OIP11.jpg', 1, NULL),
+(32, 'Siva', 'sankaran', 'dfo@mailinator.com', '$2y$10$wRpEUJw8Gv0pUnBEOPH2yu/vYxhzAou8ZaevawhaHG2mlzoSHo5Kq', 'dfo', '2024-12-05 18:05:10', '9878656231', '1990-12-18', 'A-', '', NULL, 2, 2, NULL, NULL, 'assets/img/profile_photo/YH5TFCE1QY-preview23.png', 1, 'male'),
+(33, 'Ram', 'Kumar', 'teacher@mailinator.com', '$2y$10$/07zflpZ88OARgW7bryJQObmQ.HXMGJY4rxm3oix0YJ3sFI.T6GRG', 'teacher', '2024-12-05 18:06:50', '9887676543', '1992-12-25', 'O+', '', NULL, 10, 21, NULL, NULL, 'assets/img/profile_photo/YH5TFCE1QY-preview24.png', 1, 'male'),
+(34, 'ramesh', 'R', 'parent@mailinator.com', '$2y$10$INyGARm9PcLIWQkZIYfip.c6Sekg4t8e.8vNioB3yHiA7V6Cq/PA.', 'parent', '2024-12-05 18:10:56', '8878643453', '1993-11-11', 'B+', '', NULL, 3, 4, NULL, NULL, 'assets/img/profile_photo/YH5TFCE1QY-preview.png', 1, 'male'),
+(35, 'shan', 'S', 'dfo2@mailinator.com', '$2y$10$XkIs1gT3HC1waN3rOBp6leI8djHpGwlk1q7AboZxDpJ3MaIy82yN2', 'dfo', '2024-12-05 05:47:36', '7865622343', NULL, NULL, NULL, 1, NULL, NULL, NULL, NULL, NULL, 1, NULL),
+(36, 'suman', 'd', 'dfo3@mailinator.com', '$2y$10$.UWjjpY98U8AlkVe1EDvMO2XIIQ1N3D7dv8hcWnaJJnA/Oq/6eVyu', 'dfo', '2024-12-05 05:51:15', '9878787653', NULL, NULL, NULL, 1, NULL, NULL, NULL, NULL, NULL, 1, NULL);
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `child`
+--
+ALTER TABLE `child`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `circle`
+--
+ALTER TABLE `circle`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `division`
+--
+ALTER TABLE `division`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `mappings`
+--
+ALTER TABLE `mappings`
+  ADD PRIMARY KEY (`id`),
+  ADD KEY `parent_id` (`parent_id`),
+  ADD KEY `child_id` (`child_id`);
+
+--
+-- Indexes for table `school_standards`
+--
+ALTER TABLE `school_standards`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `sections`
+--
+ALTER TABLE `sections`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `section_attendees`
+--
+ALTER TABLE `section_attendees`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- Indexes for table `users`
+--
+ALTER TABLE `users`
+  ADD PRIMARY KEY (`id`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `child`
+--
+ALTER TABLE `child`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+
+--
+-- AUTO_INCREMENT for table `circle`
+--
+ALTER TABLE `circle`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=22;
+
+--
+-- AUTO_INCREMENT for table `division`
+--
+ALTER TABLE `division`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=52;
+
+--
+-- AUTO_INCREMENT for table `mappings`
+--
+ALTER TABLE `mappings`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+
+--
+-- AUTO_INCREMENT for table `school_standards`
+--
+ALTER TABLE `school_standards`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=31;
+
+--
+-- AUTO_INCREMENT for table `sections`
+--
+ALTER TABLE `sections`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=2;
+
+--
+-- AUTO_INCREMENT for table `section_attendees`
+--
+ALTER TABLE `section_attendees`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+
+--
+-- AUTO_INCREMENT for table `users`
+--
+ALTER TABLE `users`
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=37;
+
+--
+-- Constraints for dumped tables
+--
+
+--
+-- Constraints for table `mappings`
+--
+ALTER TABLE `mappings`
+  ADD CONSTRAINT `mappings_ibfk_1` FOREIGN KEY (`parent_id`) REFERENCES `users` (`id`) ON DELETE CASCADE,
+  ADD CONSTRAINT `mappings_ibfk_2` FOREIGN KEY (`child_id`) REFERENCES `users` (`id`) ON DELETE CASCADE;
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
