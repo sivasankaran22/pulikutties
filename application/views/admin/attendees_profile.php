@@ -11,11 +11,12 @@
                                 <div class="col-sm-12 text-center"><img src="<?php echo base_url('').$attend_detail["chd_photo"] ?>" width="150" height="auto"></div>
                                 <div class="col-sm-4">Child Name</div><div class="col-sm-8">:<?php echo $attend_detail["full_name"];?></div>
                                 <div class="col-sm-4">Parent Name</div><div class="col-sm-8">:<?php echo $attend_detail["p_f_name"].' '.$attend_detail['p_l_name'];?></div>
+                                <div class="col-sm-4">Teacher Name</div><div class="col-sm-8">:<?php echo $attend_detail["t_f_name"].' '.$attend_detail['t_l_name'];?></div>
                                 <div class="col-sm-4">DFO Name</div><div class="col-sm-8">:<?php echo $attend_detail["d_f_name"].' '.$attend_detail['d_l_name'];?></div>
                                 <hr>
                                 <div class="col-sm-4">Section Title</div><div class="col-sm-8">:<?php echo $attend_detail["title"];?></div>
-                                <div class="col-sm-4">Section Start Date & Time</div><div class="col-sm-8">:<?php echo $attend_detail["start_datetime"];?></div>
-                                <div class="col-sm-4">Section End Date & Time</div><div class="col-sm-8">:<?php echo $attend_detail["end_datetime"];?></div>
+                                <div class="col-sm-4">Section Start Date & Time</div><div class="col-sm-8">:<?php echo date('d-m-Y g:i A', strtotime($attend_detail["start_datetime"]));?></div>
+                                <div class="col-sm-4">Section End Date & Time</div><div class="col-sm-8">:<?php echo date('d-m-Y g:i A', strtotime($attend_detail["end_datetime"]));?></div>
                                 <div class="col-sm-4">Section Description</div><div class="col-sm-8">:<?php echo $attend_detail["description"];?></div>
                                 <div class="col-sm-4">Section Completed Document</div>
                                                                                     <div class="col-sm-8">

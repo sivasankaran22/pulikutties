@@ -15,7 +15,8 @@
                                 <div class="col-sm-4">Address</div><div class="col-sm-8">:<?php echo $parent_user["Address"];?></div>
                                 <div class="col-sm-4">Circle</div><div class="col-sm-8">:<?php echo $parent_user["circle_name"];?></div>
                                 <div class="col-sm-4">Division</div><div class="col-sm-8">:<?php echo $parent_user["division_name"];?></div>
-                                <div class="col-sm-4">DOB</div><div class="col-sm-8">:<?php echo $parent_user["DOB"];?></div>
+                                <div class="col-sm-4">Gender</div><div class="col-sm-8">:<?php echo $parent_user["gender"];?></div>
+                                <div class="col-sm-4">DOB</div><div class="col-sm-8">:<?php echo date('d-m-Y', strtotime($parent_user["DOB"]));?></div>
                                 <div class="col-sm-4">Blood Group</div><div class="col-sm-8">:<?php echo $parent_user["blood_group"];?></div>
 
                             </div>

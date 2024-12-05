@@ -15,6 +15,7 @@
                                 <div class="col-sm-4">Address</div><div class="col-sm-8">:<?php echo $dfo_user["Address"];?></div>
                                 <div class="col-sm-4">Circle</div><div class="col-sm-8">:<?php echo $dfo_user["circle_name"];?></div>
                                 <div class="col-sm-4">Division</div><div class="col-sm-8">:<?php echo $dfo_user["division_name"];?></div>
+                                <div class="col-sm-4">Gender</div><div class="col-sm-8">:<?php echo $dfo_user["gender"];?></div>
                                 <div class="col-sm-4">DOB</div><div class="col-sm-8">:<?php echo $dfo_user["DOB"];?></div>
                                 <div class="col-sm-4">Blood Group</div><div class="col-sm-8">:<?php echo $dfo_user["blood_group"];?></div>
 
