@@ -17236,3 +17236,3374 @@ INFO - 2024-12-05 16:47:55 --> Language Class Initialized
 ERROR - 2024-12-05 16:47:55 --> 404 Page Not Found: Assets/img
 ERROR - 2024-12-05 16:47:55 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
 ERROR - 2024-12-05 16:47:55 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 16:50:37 --> Config Class Initialized
+INFO - 2024-12-05 16:50:37 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:50:37 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:50:37 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:50:37 --> URI Class Initialized
+INFO - 2024-12-05 16:50:37 --> Router Class Initialized
+INFO - 2024-12-05 16:50:37 --> Output Class Initialized
+INFO - 2024-12-05 16:50:37 --> Security Class Initialized
+DEBUG - 2024-12-05 16:50:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:50:37 --> Input Class Initialized
+INFO - 2024-12-05 16:50:37 --> Language Class Initialized
+INFO - 2024-12-05 16:50:37 --> Loader Class Initialized
+INFO - 2024-12-05 16:50:37 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:50:37 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:50:37 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:50:37 --> Email Class Initialized
+DEBUG - 2024-12-05 16:50:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:50:37 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:50:37 --> Controller Class Initialized
+DEBUG - 2024-12-05 16:50:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:50:37 --> Helper loaded: common_helper
+INFO - 2024-12-05 16:50:37 --> Config Class Initialized
+INFO - 2024-12-05 16:50:37 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:50:37 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:50:37 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:50:37 --> URI Class Initialized
+INFO - 2024-12-05 16:50:37 --> Router Class Initialized
+INFO - 2024-12-05 16:50:37 --> Output Class Initialized
+INFO - 2024-12-05 16:50:37 --> Security Class Initialized
+DEBUG - 2024-12-05 16:50:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:50:37 --> Input Class Initialized
+INFO - 2024-12-05 16:50:37 --> Language Class Initialized
+INFO - 2024-12-05 16:50:37 --> Loader Class Initialized
+INFO - 2024-12-05 16:50:37 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:50:37 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:50:37 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:50:37 --> Email Class Initialized
+DEBUG - 2024-12-05 16:50:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:50:37 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:50:37 --> Controller Class Initialized
+INFO - 2024-12-05 16:50:37 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 16:50:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:50:37 --> Config Class Initialized
+INFO - 2024-12-05 16:50:37 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:50:37 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:50:37 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:50:37 --> URI Class Initialized
+INFO - 2024-12-05 16:50:37 --> Router Class Initialized
+INFO - 2024-12-05 16:50:37 --> Output Class Initialized
+INFO - 2024-12-05 16:50:37 --> Security Class Initialized
+DEBUG - 2024-12-05 16:50:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:50:37 --> Input Class Initialized
+INFO - 2024-12-05 16:50:37 --> Language Class Initialized
+INFO - 2024-12-05 16:50:37 --> Loader Class Initialized
+INFO - 2024-12-05 16:50:37 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:50:37 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:50:37 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:50:37 --> Email Class Initialized
+DEBUG - 2024-12-05 16:50:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:50:37 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:50:37 --> Controller Class Initialized
+INFO - 2024-12-05 16:50:37 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 16:50:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:50:37 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\login.php
+INFO - 2024-12-05 16:50:37 --> Final output sent to browser
+DEBUG - 2024-12-05 16:50:37 --> Total execution time: 0.0420
+INFO - 2024-12-05 16:50:44 --> Config Class Initialized
+INFO - 2024-12-05 16:50:44 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:50:44 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:50:44 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:50:44 --> URI Class Initialized
+INFO - 2024-12-05 16:50:44 --> Router Class Initialized
+INFO - 2024-12-05 16:50:44 --> Output Class Initialized
+INFO - 2024-12-05 16:50:44 --> Security Class Initialized
+DEBUG - 2024-12-05 16:50:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:50:44 --> Input Class Initialized
+INFO - 2024-12-05 16:50:44 --> Language Class Initialized
+INFO - 2024-12-05 16:50:44 --> Loader Class Initialized
+INFO - 2024-12-05 16:50:44 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:50:44 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:50:44 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:50:44 --> Email Class Initialized
+DEBUG - 2024-12-05 16:50:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:50:44 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:50:44 --> Controller Class Initialized
+INFO - 2024-12-05 16:50:44 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 16:50:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:50:44 --> Model Class Initialized
+INFO - 2024-12-05 16:50:44 --> Final output sent to browser
+DEBUG - 2024-12-05 16:50:44 --> Total execution time: 0.1032
+INFO - 2024-12-05 16:50:44 --> Config Class Initialized
+INFO - 2024-12-05 16:50:44 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:50:44 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:50:44 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:50:44 --> URI Class Initialized
+INFO - 2024-12-05 16:50:44 --> Router Class Initialized
+INFO - 2024-12-05 16:50:44 --> Output Class Initialized
+INFO - 2024-12-05 16:50:44 --> Security Class Initialized
+DEBUG - 2024-12-05 16:50:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:50:44 --> Input Class Initialized
+INFO - 2024-12-05 16:50:44 --> Language Class Initialized
+INFO - 2024-12-05 16:50:44 --> Loader Class Initialized
+INFO - 2024-12-05 16:50:44 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:50:44 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:50:44 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:50:44 --> Email Class Initialized
+DEBUG - 2024-12-05 16:50:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:50:44 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:50:44 --> Controller Class Initialized
+DEBUG - 2024-12-05 16:50:44 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:50:44 --> Helper loaded: common_helper
+INFO - 2024-12-05 16:50:44 --> Model Class Initialized
+INFO - 2024-12-05 16:50:44 --> Model Class Initialized
+INFO - 2024-12-05 16:50:44 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 16:50:44 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/dashboard.php
+ERROR - 2024-12-05 16:50:44 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 16:50:44 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 16:50:44 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 16:50:44 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 16:50:44 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 16:50:44 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 16:50:44 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 16:50:44 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 16:50:44 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 16:50:44 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 16:50:44 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 16:50:44 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 16:50:44 --> Final output sent to browser
+DEBUG - 2024-12-05 16:50:44 --> Total execution time: 0.0525
+INFO - 2024-12-05 16:52:05 --> Config Class Initialized
+INFO - 2024-12-05 16:52:05 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:52:06 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:52:06 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:52:06 --> URI Class Initialized
+INFO - 2024-12-05 16:52:06 --> Router Class Initialized
+INFO - 2024-12-05 16:52:06 --> Output Class Initialized
+INFO - 2024-12-05 16:52:06 --> Security Class Initialized
+DEBUG - 2024-12-05 16:52:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:52:06 --> Input Class Initialized
+INFO - 2024-12-05 16:52:06 --> Language Class Initialized
+INFO - 2024-12-05 16:52:06 --> Loader Class Initialized
+INFO - 2024-12-05 16:52:06 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:52:06 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:52:06 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:52:06 --> Email Class Initialized
+DEBUG - 2024-12-05 16:52:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:52:06 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:52:06 --> Controller Class Initialized
+DEBUG - 2024-12-05 16:52:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:52:06 --> Helper loaded: common_helper
+INFO - 2024-12-05 16:52:06 --> Model Class Initialized
+INFO - 2024-12-05 16:52:06 --> Model Class Initialized
+INFO - 2024-12-05 16:52:06 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 16:52:06 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/dashboard.php
+ERROR - 2024-12-05 16:52:06 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 16:52:06 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 16:52:06 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 16:52:06 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 16:52:06 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 16:52:06 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 16:52:06 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 16:52:06 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 16:52:06 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 16:52:06 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 16:52:06 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 16:52:06 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 16:52:06 --> Final output sent to browser
+DEBUG - 2024-12-05 16:52:06 --> Total execution time: 0.0740
+INFO - 2024-12-05 16:54:37 --> Config Class Initialized
+INFO - 2024-12-05 16:54:37 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:54:37 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:54:37 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:54:37 --> URI Class Initialized
+INFO - 2024-12-05 16:54:37 --> Router Class Initialized
+INFO - 2024-12-05 16:54:37 --> Output Class Initialized
+INFO - 2024-12-05 16:54:37 --> Security Class Initialized
+DEBUG - 2024-12-05 16:54:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:54:37 --> Input Class Initialized
+INFO - 2024-12-05 16:54:37 --> Language Class Initialized
+INFO - 2024-12-05 16:54:37 --> Loader Class Initialized
+INFO - 2024-12-05 16:54:37 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:54:37 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:54:37 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:54:37 --> Email Class Initialized
+DEBUG - 2024-12-05 16:54:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:54:37 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:54:37 --> Controller Class Initialized
+DEBUG - 2024-12-05 16:54:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:54:37 --> Helper loaded: common_helper
+INFO - 2024-12-05 16:54:37 --> Model Class Initialized
+INFO - 2024-12-05 16:54:37 --> Model Class Initialized
+INFO - 2024-12-05 16:54:37 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 16:54:37 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/dashboard.php
+ERROR - 2024-12-05 16:54:37 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 16:54:37 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 16:54:37 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 16:54:37 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 16:54:37 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 16:54:37 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 16:54:37 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 16:54:37 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 16:54:37 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 16:54:37 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 16:54:37 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 16:54:37 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 16:54:37 --> Final output sent to browser
+DEBUG - 2024-12-05 16:54:37 --> Total execution time: 0.0673
+INFO - 2024-12-05 16:55:47 --> Config Class Initialized
+INFO - 2024-12-05 16:55:47 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:55:47 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:55:47 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:55:47 --> URI Class Initialized
+INFO - 2024-12-05 16:55:47 --> Router Class Initialized
+INFO - 2024-12-05 16:55:47 --> Output Class Initialized
+INFO - 2024-12-05 16:55:47 --> Security Class Initialized
+DEBUG - 2024-12-05 16:55:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:55:47 --> Input Class Initialized
+INFO - 2024-12-05 16:55:47 --> Language Class Initialized
+INFO - 2024-12-05 16:55:47 --> Loader Class Initialized
+INFO - 2024-12-05 16:55:47 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:55:47 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:55:47 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:55:47 --> Email Class Initialized
+DEBUG - 2024-12-05 16:55:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:55:47 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:55:47 --> Controller Class Initialized
+DEBUG - 2024-12-05 16:55:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:55:47 --> Helper loaded: common_helper
+INFO - 2024-12-05 16:55:47 --> Model Class Initialized
+INFO - 2024-12-05 16:55:47 --> Model Class Initialized
+ERROR - 2024-12-05 16:55:47 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Admin.php 56
+INFO - 2024-12-05 16:55:47 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 16:55:47 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/dfo_list.php
+ERROR - 2024-12-05 16:55:47 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 16:55:47 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 16:55:47 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 16:55:47 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 16:55:47 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 16:55:47 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 16:55:47 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 16:55:47 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 16:55:47 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 16:55:47 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 16:55:47 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 16:55:47 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 16:55:47 --> Final output sent to browser
+DEBUG - 2024-12-05 16:55:47 --> Total execution time: 0.0551
+INFO - 2024-12-05 16:56:01 --> Config Class Initialized
+INFO - 2024-12-05 16:56:01 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:56:01 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:56:01 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:56:01 --> URI Class Initialized
+INFO - 2024-12-05 16:56:01 --> Router Class Initialized
+INFO - 2024-12-05 16:56:01 --> Output Class Initialized
+INFO - 2024-12-05 16:56:01 --> Security Class Initialized
+DEBUG - 2024-12-05 16:56:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:56:01 --> Input Class Initialized
+INFO - 2024-12-05 16:56:01 --> Language Class Initialized
+INFO - 2024-12-05 16:56:01 --> Loader Class Initialized
+INFO - 2024-12-05 16:56:01 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:56:01 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:56:01 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:56:01 --> Email Class Initialized
+DEBUG - 2024-12-05 16:56:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:56:01 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:56:01 --> Controller Class Initialized
+DEBUG - 2024-12-05 16:56:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:56:01 --> Helper loaded: common_helper
+INFO - 2024-12-05 16:56:01 --> Model Class Initialized
+INFO - 2024-12-05 16:56:01 --> Model Class Initialized
+INFO - 2024-12-05 16:56:01 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 16:56:01 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/dashboard.php
+ERROR - 2024-12-05 16:56:01 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 16:56:01 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 16:56:01 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 16:56:01 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 16:56:01 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 16:56:01 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 16:56:01 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 16:56:01 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 16:56:01 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 16:56:01 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 16:56:01 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 16:56:01 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 16:56:01 --> Final output sent to browser
+DEBUG - 2024-12-05 16:56:01 --> Total execution time: 0.0688
+INFO - 2024-12-05 16:56:05 --> Config Class Initialized
+INFO - 2024-12-05 16:56:05 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:56:05 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:56:05 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:56:05 --> URI Class Initialized
+INFO - 2024-12-05 16:56:05 --> Router Class Initialized
+INFO - 2024-12-05 16:56:05 --> Output Class Initialized
+INFO - 2024-12-05 16:56:05 --> Security Class Initialized
+DEBUG - 2024-12-05 16:56:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:56:05 --> Input Class Initialized
+INFO - 2024-12-05 16:56:05 --> Language Class Initialized
+INFO - 2024-12-05 16:56:05 --> Loader Class Initialized
+INFO - 2024-12-05 16:56:05 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:56:05 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:56:05 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:56:05 --> Email Class Initialized
+DEBUG - 2024-12-05 16:56:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:56:05 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:56:05 --> Controller Class Initialized
+DEBUG - 2024-12-05 16:56:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:56:05 --> Helper loaded: common_helper
+INFO - 2024-12-05 16:56:05 --> Model Class Initialized
+INFO - 2024-12-05 16:56:05 --> Model Class Initialized
+ERROR - 2024-12-05 16:56:05 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Admin.php 56
+INFO - 2024-12-05 16:56:05 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 16:56:05 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/dfo_list.php
+ERROR - 2024-12-05 16:56:05 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 16:56:05 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 16:56:05 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 16:56:05 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 16:56:05 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 16:56:05 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 16:56:05 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 16:56:05 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 16:56:05 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 16:56:05 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 16:56:05 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 16:56:05 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 16:56:05 --> Final output sent to browser
+DEBUG - 2024-12-05 16:56:05 --> Total execution time: 0.0575
+INFO - 2024-12-05 16:56:07 --> Config Class Initialized
+INFO - 2024-12-05 16:56:07 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:56:07 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:56:07 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:56:07 --> URI Class Initialized
+INFO - 2024-12-05 16:56:07 --> Router Class Initialized
+INFO - 2024-12-05 16:56:07 --> Output Class Initialized
+INFO - 2024-12-05 16:56:07 --> Security Class Initialized
+DEBUG - 2024-12-05 16:56:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:56:07 --> Input Class Initialized
+INFO - 2024-12-05 16:56:07 --> Language Class Initialized
+INFO - 2024-12-05 16:56:07 --> Loader Class Initialized
+INFO - 2024-12-05 16:56:07 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:56:07 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:56:07 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:56:07 --> Email Class Initialized
+DEBUG - 2024-12-05 16:56:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:56:07 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:56:07 --> Controller Class Initialized
+DEBUG - 2024-12-05 16:56:07 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:56:07 --> Helper loaded: common_helper
+INFO - 2024-12-05 16:56:07 --> Model Class Initialized
+INFO - 2024-12-05 16:56:07 --> Model Class Initialized
+INFO - 2024-12-05 16:56:07 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 16:56:07 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/dashboard.php
+ERROR - 2024-12-05 16:56:07 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 16:56:07 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 16:56:07 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 16:56:07 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 16:56:07 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 16:56:07 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 16:56:07 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 16:56:07 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 16:56:07 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 16:56:07 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 16:56:07 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 16:56:07 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 16:56:07 --> Final output sent to browser
+DEBUG - 2024-12-05 16:56:07 --> Total execution time: 0.0647
+INFO - 2024-12-05 16:57:18 --> Config Class Initialized
+INFO - 2024-12-05 16:57:18 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:57:18 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:57:18 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:57:18 --> URI Class Initialized
+INFO - 2024-12-05 16:57:18 --> Router Class Initialized
+INFO - 2024-12-05 16:57:18 --> Output Class Initialized
+INFO - 2024-12-05 16:57:18 --> Security Class Initialized
+DEBUG - 2024-12-05 16:57:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:57:18 --> Input Class Initialized
+INFO - 2024-12-05 16:57:18 --> Language Class Initialized
+INFO - 2024-12-05 16:57:18 --> Loader Class Initialized
+INFO - 2024-12-05 16:57:18 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:57:18 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:57:18 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:57:18 --> Email Class Initialized
+DEBUG - 2024-12-05 16:57:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:57:18 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:57:18 --> Controller Class Initialized
+DEBUG - 2024-12-05 16:57:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:57:18 --> Helper loaded: common_helper
+INFO - 2024-12-05 16:57:18 --> Model Class Initialized
+INFO - 2024-12-05 16:57:18 --> Model Class Initialized
+INFO - 2024-12-05 16:57:18 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 16:57:18 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/dashboard.php
+ERROR - 2024-12-05 16:57:18 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 16:57:18 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 16:57:18 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 16:57:18 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 16:57:18 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 16:57:18 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 16:57:18 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 16:57:18 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 16:57:18 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 16:57:18 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 16:57:18 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 16:57:18 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 16:57:18 --> Final output sent to browser
+DEBUG - 2024-12-05 16:57:18 --> Total execution time: 0.1019
+INFO - 2024-12-05 16:58:22 --> Config Class Initialized
+INFO - 2024-12-05 16:58:22 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:58:22 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:58:22 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:58:22 --> URI Class Initialized
+INFO - 2024-12-05 16:58:22 --> Router Class Initialized
+INFO - 2024-12-05 16:58:22 --> Output Class Initialized
+INFO - 2024-12-05 16:58:22 --> Security Class Initialized
+DEBUG - 2024-12-05 16:58:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:58:22 --> Input Class Initialized
+INFO - 2024-12-05 16:58:22 --> Language Class Initialized
+INFO - 2024-12-05 16:58:22 --> Loader Class Initialized
+INFO - 2024-12-05 16:58:22 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:58:22 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:58:22 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:58:22 --> Email Class Initialized
+DEBUG - 2024-12-05 16:58:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:58:22 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:58:22 --> Controller Class Initialized
+DEBUG - 2024-12-05 16:58:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:58:22 --> Helper loaded: common_helper
+INFO - 2024-12-05 16:58:22 --> Model Class Initialized
+INFO - 2024-12-05 16:58:22 --> Model Class Initialized
+INFO - 2024-12-05 16:58:22 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 16:58:22 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/dashboard.php
+ERROR - 2024-12-05 16:58:22 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 16:58:22 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 16:58:22 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 16:58:22 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 16:58:22 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 16:58:22 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 16:58:22 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 16:58:22 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 16:58:22 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 16:58:22 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 16:58:22 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 16:58:22 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 16:58:22 --> Final output sent to browser
+DEBUG - 2024-12-05 16:58:22 --> Total execution time: 0.0832
+INFO - 2024-12-05 16:58:25 --> Config Class Initialized
+INFO - 2024-12-05 16:58:25 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:58:25 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:58:25 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:58:25 --> URI Class Initialized
+INFO - 2024-12-05 16:58:25 --> Router Class Initialized
+INFO - 2024-12-05 16:58:25 --> Output Class Initialized
+INFO - 2024-12-05 16:58:25 --> Security Class Initialized
+DEBUG - 2024-12-05 16:58:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:58:25 --> Input Class Initialized
+INFO - 2024-12-05 16:58:25 --> Language Class Initialized
+INFO - 2024-12-05 16:58:25 --> Loader Class Initialized
+INFO - 2024-12-05 16:58:25 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:58:25 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:58:25 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:58:25 --> Email Class Initialized
+DEBUG - 2024-12-05 16:58:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:58:25 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:58:25 --> Controller Class Initialized
+DEBUG - 2024-12-05 16:58:25 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:58:25 --> Helper loaded: common_helper
+INFO - 2024-12-05 16:58:25 --> Model Class Initialized
+INFO - 2024-12-05 16:58:25 --> Model Class Initialized
+ERROR - 2024-12-05 16:58:25 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Admin.php 217
+INFO - 2024-12-05 16:58:25 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 16:58:25 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/teacher_list.php
+ERROR - 2024-12-05 16:58:25 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 16:58:25 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 16:58:25 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 16:58:25 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 16:58:25 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 16:58:25 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 16:58:25 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 16:58:25 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 16:58:25 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 16:58:25 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 16:58:25 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 16:58:25 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 16:58:25 --> Final output sent to browser
+DEBUG - 2024-12-05 16:58:25 --> Total execution time: 0.0670
+INFO - 2024-12-05 16:58:26 --> Config Class Initialized
+INFO - 2024-12-05 16:58:26 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:58:26 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:58:26 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:58:26 --> URI Class Initialized
+INFO - 2024-12-05 16:58:26 --> Router Class Initialized
+INFO - 2024-12-05 16:58:26 --> Output Class Initialized
+INFO - 2024-12-05 16:58:26 --> Security Class Initialized
+DEBUG - 2024-12-05 16:58:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:58:26 --> Input Class Initialized
+INFO - 2024-12-05 16:58:26 --> Language Class Initialized
+INFO - 2024-12-05 16:58:26 --> Loader Class Initialized
+INFO - 2024-12-05 16:58:26 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:58:26 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:58:26 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:58:26 --> Email Class Initialized
+DEBUG - 2024-12-05 16:58:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:58:26 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:58:26 --> Controller Class Initialized
+DEBUG - 2024-12-05 16:58:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:58:26 --> Helper loaded: common_helper
+INFO - 2024-12-05 16:58:26 --> Model Class Initialized
+INFO - 2024-12-05 16:58:26 --> Model Class Initialized
+ERROR - 2024-12-05 16:58:26 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Admin.php 397
+INFO - 2024-12-05 16:58:26 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 16:58:26 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/parent_list.php
+ERROR - 2024-12-05 16:58:26 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 16:58:26 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 16:58:26 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 16:58:26 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 16:58:26 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 16:58:26 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 16:58:26 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 16:58:26 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 16:58:26 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 16:58:26 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 16:58:26 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 16:58:26 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 16:58:26 --> Final output sent to browser
+DEBUG - 2024-12-05 16:58:26 --> Total execution time: 0.0718
+INFO - 2024-12-05 16:58:27 --> Config Class Initialized
+INFO - 2024-12-05 16:58:27 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:58:27 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:58:27 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:58:27 --> URI Class Initialized
+INFO - 2024-12-05 16:58:27 --> Router Class Initialized
+INFO - 2024-12-05 16:58:27 --> Output Class Initialized
+INFO - 2024-12-05 16:58:27 --> Security Class Initialized
+DEBUG - 2024-12-05 16:58:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:58:27 --> Input Class Initialized
+INFO - 2024-12-05 16:58:27 --> Language Class Initialized
+INFO - 2024-12-05 16:58:27 --> Loader Class Initialized
+INFO - 2024-12-05 16:58:27 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:58:27 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:58:27 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:58:27 --> Email Class Initialized
+DEBUG - 2024-12-05 16:58:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:58:27 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:58:27 --> Controller Class Initialized
+DEBUG - 2024-12-05 16:58:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:58:27 --> Helper loaded: common_helper
+INFO - 2024-12-05 16:58:27 --> Model Class Initialized
+INFO - 2024-12-05 16:58:27 --> Model Class Initialized
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Admin.php 577
+INFO - 2024-12-05 16:58:27 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 16:58:27 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/child_list.php
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 16:58:27 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 16:58:27 --> Final output sent to browser
+DEBUG - 2024-12-05 16:58:27 --> Total execution time: 0.0534
+INFO - 2024-12-05 16:58:27 --> Config Class Initialized
+INFO - 2024-12-05 16:58:27 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:58:27 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:58:27 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:58:27 --> URI Class Initialized
+INFO - 2024-12-05 16:58:27 --> Router Class Initialized
+INFO - 2024-12-05 16:58:27 --> Output Class Initialized
+INFO - 2024-12-05 16:58:27 --> Security Class Initialized
+DEBUG - 2024-12-05 16:58:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:58:27 --> Input Class Initialized
+INFO - 2024-12-05 16:58:27 --> Language Class Initialized
+INFO - 2024-12-05 16:58:27 --> Loader Class Initialized
+INFO - 2024-12-05 16:58:27 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:58:27 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:58:27 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:58:27 --> Email Class Initialized
+DEBUG - 2024-12-05 16:58:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:58:27 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:58:27 --> Controller Class Initialized
+DEBUG - 2024-12-05 16:58:27 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:58:27 --> Helper loaded: common_helper
+INFO - 2024-12-05 16:58:27 --> Model Class Initialized
+INFO - 2024-12-05 16:58:27 --> Model Class Initialized
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Admin.php 704
+INFO - 2024-12-05 16:58:27 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 16:58:27 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/section_list.php
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 16:58:27 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 16:58:27 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 16:58:27 --> Final output sent to browser
+DEBUG - 2024-12-05 16:58:27 --> Total execution time: 0.0790
+INFO - 2024-12-05 16:58:28 --> Config Class Initialized
+INFO - 2024-12-05 16:58:28 --> Hooks Class Initialized
+DEBUG - 2024-12-05 16:58:28 --> UTF-8 Support Enabled
+INFO - 2024-12-05 16:58:28 --> Utf8 Class Initialized
+INFO - 2024-12-05 16:58:28 --> URI Class Initialized
+INFO - 2024-12-05 16:58:28 --> Router Class Initialized
+INFO - 2024-12-05 16:58:28 --> Output Class Initialized
+INFO - 2024-12-05 16:58:28 --> Security Class Initialized
+DEBUG - 2024-12-05 16:58:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 16:58:28 --> Input Class Initialized
+INFO - 2024-12-05 16:58:28 --> Language Class Initialized
+INFO - 2024-12-05 16:58:28 --> Loader Class Initialized
+INFO - 2024-12-05 16:58:28 --> Helper loaded: url_helper
+INFO - 2024-12-05 16:58:28 --> Helper loaded: auth_helper
+INFO - 2024-12-05 16:58:28 --> Database Driver Class Initialized
+INFO - 2024-12-05 16:58:28 --> Email Class Initialized
+DEBUG - 2024-12-05 16:58:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 16:58:28 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 16:58:28 --> Controller Class Initialized
+DEBUG - 2024-12-05 16:58:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 16:58:28 --> Helper loaded: common_helper
+INFO - 2024-12-05 16:58:28 --> Model Class Initialized
+INFO - 2024-12-05 16:58:28 --> Model Class Initialized
+ERROR - 2024-12-05 16:58:28 --> Severity: Warning --> Undefined property: Admin::$user_id C:\xampp\htdocs\pulikutties\application\controllers\Admin.php 840
+ERROR - 2024-12-05 16:58:28 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Admin.php 841
+INFO - 2024-12-05 16:58:28 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 16:58:28 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/attendees_list.php
+ERROR - 2024-12-05 16:58:28 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 16:58:28 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 16:58:28 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 16:58:28 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 16:58:28 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 16:58:28 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 16:58:28 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 16:58:28 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 16:58:28 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 16:58:28 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 16:58:28 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 16:58:28 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 16:58:28 --> Final output sent to browser
+DEBUG - 2024-12-05 16:58:28 --> Total execution time: 0.0641
+INFO - 2024-12-05 17:01:49 --> Config Class Initialized
+INFO - 2024-12-05 17:01:49 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:01:49 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:01:49 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:01:49 --> URI Class Initialized
+INFO - 2024-12-05 17:01:49 --> Router Class Initialized
+INFO - 2024-12-05 17:01:49 --> Output Class Initialized
+INFO - 2024-12-05 17:01:49 --> Security Class Initialized
+DEBUG - 2024-12-05 17:01:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:01:49 --> Input Class Initialized
+INFO - 2024-12-05 17:01:49 --> Language Class Initialized
+INFO - 2024-12-05 17:01:49 --> Loader Class Initialized
+INFO - 2024-12-05 17:01:49 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:01:49 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:01:49 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:01:50 --> Email Class Initialized
+DEBUG - 2024-12-05 17:01:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:01:50 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:01:50 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:01:50 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:01:50 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:01:50 --> Model Class Initialized
+INFO - 2024-12-05 17:01:50 --> Model Class Initialized
+INFO - 2024-12-05 17:01:50 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 17:01:50 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/dashboard.php
+ERROR - 2024-12-05 17:01:50 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 17:01:50 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 17:01:50 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 17:01:50 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 17:01:50 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 17:01:50 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 17:01:50 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 17:01:50 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 17:01:50 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 17:01:50 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 17:01:50 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 17:01:50 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 17:01:50 --> Final output sent to browser
+DEBUG - 2024-12-05 17:01:50 --> Total execution time: 0.0850
+INFO - 2024-12-05 17:02:42 --> Config Class Initialized
+INFO - 2024-12-05 17:02:42 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:02:42 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:02:42 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:02:42 --> URI Class Initialized
+INFO - 2024-12-05 17:02:42 --> Router Class Initialized
+INFO - 2024-12-05 17:02:42 --> Output Class Initialized
+INFO - 2024-12-05 17:02:42 --> Security Class Initialized
+DEBUG - 2024-12-05 17:02:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:02:42 --> Input Class Initialized
+INFO - 2024-12-05 17:02:42 --> Language Class Initialized
+INFO - 2024-12-05 17:02:42 --> Loader Class Initialized
+INFO - 2024-12-05 17:02:42 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:02:42 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:02:42 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:02:42 --> Email Class Initialized
+DEBUG - 2024-12-05 17:02:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:02:42 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:02:42 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:02:42 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:02:42 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:02:42 --> Model Class Initialized
+INFO - 2024-12-05 17:02:42 --> Model Class Initialized
+INFO - 2024-12-05 17:02:42 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 17:02:42 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/dashboard.php
+ERROR - 2024-12-05 17:02:42 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 17:02:42 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 17:02:42 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 17:02:42 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 17:02:42 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 17:02:42 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 17:02:42 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 17:02:42 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 17:02:42 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 17:02:42 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 17:02:42 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 17:02:42 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 17:02:42 --> Final output sent to browser
+DEBUG - 2024-12-05 17:02:42 --> Total execution time: 0.1038
+INFO - 2024-12-05 17:18:06 --> Config Class Initialized
+INFO - 2024-12-05 17:18:06 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:18:06 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:18:06 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:18:06 --> URI Class Initialized
+INFO - 2024-12-05 17:18:06 --> Router Class Initialized
+INFO - 2024-12-05 17:18:06 --> Output Class Initialized
+INFO - 2024-12-05 17:18:06 --> Security Class Initialized
+DEBUG - 2024-12-05 17:18:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:18:06 --> Input Class Initialized
+INFO - 2024-12-05 17:18:06 --> Language Class Initialized
+INFO - 2024-12-05 17:18:06 --> Loader Class Initialized
+INFO - 2024-12-05 17:18:06 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:18:06 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:18:06 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:18:06 --> Email Class Initialized
+DEBUG - 2024-12-05 17:18:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:18:06 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:18:06 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:18:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:18:06 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:18:06 --> Model Class Initialized
+INFO - 2024-12-05 17:18:06 --> Model Class Initialized
+INFO - 2024-12-05 17:18:06 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 17:18:06 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/dashboard.php
+ERROR - 2024-12-05 17:18:06 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 17:18:06 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 17:18:06 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 17:18:06 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 17:18:06 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 17:18:06 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 17:18:06 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 17:18:06 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 17:18:06 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 17:18:06 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 17:18:06 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 17:18:06 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 17:18:06 --> Final output sent to browser
+DEBUG - 2024-12-05 17:18:06 --> Total execution time: 0.1244
+INFO - 2024-12-05 17:19:20 --> Config Class Initialized
+INFO - 2024-12-05 17:19:20 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:19:20 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:19:20 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:19:20 --> URI Class Initialized
+INFO - 2024-12-05 17:19:20 --> Router Class Initialized
+INFO - 2024-12-05 17:19:20 --> Output Class Initialized
+INFO - 2024-12-05 17:19:20 --> Security Class Initialized
+DEBUG - 2024-12-05 17:19:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:19:20 --> Input Class Initialized
+INFO - 2024-12-05 17:19:20 --> Language Class Initialized
+INFO - 2024-12-05 17:19:20 --> Loader Class Initialized
+INFO - 2024-12-05 17:19:20 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:19:20 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:19:20 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:19:20 --> Email Class Initialized
+DEBUG - 2024-12-05 17:19:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:19:20 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:19:20 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:19:20 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:19:20 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:19:20 --> Model Class Initialized
+INFO - 2024-12-05 17:19:20 --> Model Class Initialized
+INFO - 2024-12-05 17:19:20 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 17:19:21 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/dashboard.php
+ERROR - 2024-12-05 17:19:21 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 17:19:21 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 17:19:21 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 17:19:21 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 17:19:21 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 17:19:21 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 17:19:21 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 17:19:21 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 17:19:21 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 17:19:21 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 17:19:21 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 17:19:21 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 17:19:21 --> Final output sent to browser
+DEBUG - 2024-12-05 17:19:21 --> Total execution time: 0.1644
+INFO - 2024-12-05 17:21:08 --> Config Class Initialized
+INFO - 2024-12-05 17:21:08 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:21:08 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:21:08 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:21:08 --> URI Class Initialized
+INFO - 2024-12-05 17:21:08 --> Router Class Initialized
+INFO - 2024-12-05 17:21:08 --> Output Class Initialized
+INFO - 2024-12-05 17:21:08 --> Security Class Initialized
+DEBUG - 2024-12-05 17:21:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:21:08 --> Input Class Initialized
+INFO - 2024-12-05 17:21:08 --> Language Class Initialized
+INFO - 2024-12-05 17:21:08 --> Loader Class Initialized
+INFO - 2024-12-05 17:21:08 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:21:08 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:21:08 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:21:08 --> Email Class Initialized
+DEBUG - 2024-12-05 17:21:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:21:08 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:21:08 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:21:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:21:08 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:21:08 --> Model Class Initialized
+INFO - 2024-12-05 17:21:08 --> Model Class Initialized
+INFO - 2024-12-05 17:21:08 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 17:21:08 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/dashboard.php
+ERROR - 2024-12-05 17:21:08 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 17:21:08 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 17:21:08 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 17:21:08 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 17:21:08 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 17:21:08 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 17:21:08 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 17:21:08 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 17:21:08 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 17:21:08 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 17:21:08 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 17:21:08 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 17:21:08 --> Final output sent to browser
+DEBUG - 2024-12-05 17:21:08 --> Total execution time: 0.1257
+INFO - 2024-12-05 17:32:52 --> Config Class Initialized
+INFO - 2024-12-05 17:32:52 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:32:52 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:32:52 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:32:52 --> URI Class Initialized
+INFO - 2024-12-05 17:32:52 --> Router Class Initialized
+INFO - 2024-12-05 17:32:52 --> Output Class Initialized
+INFO - 2024-12-05 17:32:52 --> Security Class Initialized
+DEBUG - 2024-12-05 17:32:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:32:52 --> Input Class Initialized
+INFO - 2024-12-05 17:32:52 --> Language Class Initialized
+INFO - 2024-12-05 17:32:52 --> Loader Class Initialized
+INFO - 2024-12-05 17:32:52 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:32:52 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:32:52 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:32:52 --> Email Class Initialized
+DEBUG - 2024-12-05 17:32:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:32:52 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:32:52 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:32:52 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:32:52 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:32:52 --> Model Class Initialized
+INFO - 2024-12-05 17:32:52 --> Model Class Initialized
+INFO - 2024-12-05 17:32:52 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/header.php
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> Undefined array key "parent_id" C:\xampp\htdocs\pulikutties\application\views\teacher\attendees-edit.php 94
+INFO - 2024-12-05 17:32:52 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/attendees-edit.php
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 53
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 170
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 286
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 404
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 439
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 475
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 546
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 581
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 616
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 650
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 684
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 718
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+INFO - 2024-12-05 17:32:52 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/footer.php
+INFO - 2024-12-05 17:32:52 --> Final output sent to browser
+DEBUG - 2024-12-05 17:32:52 --> Total execution time: 0.1255
+INFO - 2024-12-05 17:32:52 --> Config Class Initialized
+INFO - 2024-12-05 17:32:52 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:32:52 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:32:52 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:32:52 --> URI Class Initialized
+INFO - 2024-12-05 17:32:52 --> Router Class Initialized
+INFO - 2024-12-05 17:32:52 --> Output Class Initialized
+INFO - 2024-12-05 17:32:52 --> Security Class Initialized
+DEBUG - 2024-12-05 17:32:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:32:52 --> Input Class Initialized
+INFO - 2024-12-05 17:32:52 --> Language Class Initialized
+ERROR - 2024-12-05 17:32:52 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:32:52 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:32:55 --> Config Class Initialized
+INFO - 2024-12-05 17:32:55 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:32:55 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:32:55 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:32:55 --> URI Class Initialized
+INFO - 2024-12-05 17:32:55 --> Router Class Initialized
+INFO - 2024-12-05 17:32:55 --> Output Class Initialized
+INFO - 2024-12-05 17:32:55 --> Security Class Initialized
+DEBUG - 2024-12-05 17:32:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:32:55 --> Input Class Initialized
+INFO - 2024-12-05 17:32:55 --> Language Class Initialized
+INFO - 2024-12-05 17:32:55 --> Loader Class Initialized
+INFO - 2024-12-05 17:32:55 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:32:55 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:32:55 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:32:55 --> Email Class Initialized
+DEBUG - 2024-12-05 17:32:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:32:55 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:32:55 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:32:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:32:55 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:32:55 --> Model Class Initialized
+INFO - 2024-12-05 17:32:55 --> Model Class Initialized
+INFO - 2024-12-05 17:32:55 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/header.php
+INFO - 2024-12-05 17:32:55 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/dashboard.php
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 53
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 170
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 286
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 404
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 439
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 475
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 510
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 546
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 581
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 616
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 650
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 684
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 718
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+INFO - 2024-12-05 17:32:55 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/footer.php
+INFO - 2024-12-05 17:32:55 --> Final output sent to browser
+DEBUG - 2024-12-05 17:32:55 --> Total execution time: 0.1334
+INFO - 2024-12-05 17:32:55 --> Config Class Initialized
+INFO - 2024-12-05 17:32:55 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:32:55 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:32:55 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:32:55 --> URI Class Initialized
+INFO - 2024-12-05 17:32:55 --> Router Class Initialized
+INFO - 2024-12-05 17:32:55 --> Output Class Initialized
+INFO - 2024-12-05 17:32:55 --> Security Class Initialized
+DEBUG - 2024-12-05 17:32:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:32:55 --> Input Class Initialized
+INFO - 2024-12-05 17:32:55 --> Language Class Initialized
+ERROR - 2024-12-05 17:32:55 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:32:55 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:34:29 --> Config Class Initialized
+INFO - 2024-12-05 17:34:29 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:34:29 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:34:29 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:34:29 --> URI Class Initialized
+INFO - 2024-12-05 17:34:29 --> Router Class Initialized
+INFO - 2024-12-05 17:34:29 --> Output Class Initialized
+INFO - 2024-12-05 17:34:29 --> Security Class Initialized
+DEBUG - 2024-12-05 17:34:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:34:29 --> Input Class Initialized
+INFO - 2024-12-05 17:34:29 --> Language Class Initialized
+INFO - 2024-12-05 17:34:29 --> Loader Class Initialized
+INFO - 2024-12-05 17:34:29 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:34:29 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:34:29 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:34:29 --> Email Class Initialized
+DEBUG - 2024-12-05 17:34:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:34:29 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:34:29 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:34:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:34:29 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:34:29 --> Model Class Initialized
+INFO - 2024-12-05 17:34:29 --> Model Class Initialized
+INFO - 2024-12-05 17:34:29 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/header.php
+INFO - 2024-12-05 17:34:29 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/dashboard.php
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 53
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 170
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 286
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 404
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 439
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 475
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 510
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 546
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 581
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 616
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 650
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 684
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 718
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+INFO - 2024-12-05 17:34:29 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/footer.php
+INFO - 2024-12-05 17:34:29 --> Final output sent to browser
+DEBUG - 2024-12-05 17:34:29 --> Total execution time: 0.1536
+INFO - 2024-12-05 17:34:29 --> Config Class Initialized
+INFO - 2024-12-05 17:34:29 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:34:29 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:34:29 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:34:29 --> URI Class Initialized
+INFO - 2024-12-05 17:34:29 --> Router Class Initialized
+INFO - 2024-12-05 17:34:29 --> Output Class Initialized
+INFO - 2024-12-05 17:34:29 --> Security Class Initialized
+DEBUG - 2024-12-05 17:34:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:34:29 --> Input Class Initialized
+INFO - 2024-12-05 17:34:29 --> Language Class Initialized
+ERROR - 2024-12-05 17:34:29 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:34:29 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:34:37 --> Config Class Initialized
+INFO - 2024-12-05 17:34:37 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:34:37 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:34:37 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:34:37 --> URI Class Initialized
+INFO - 2024-12-05 17:34:37 --> Router Class Initialized
+INFO - 2024-12-05 17:34:37 --> Output Class Initialized
+INFO - 2024-12-05 17:34:37 --> Security Class Initialized
+DEBUG - 2024-12-05 17:34:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:34:37 --> Input Class Initialized
+INFO - 2024-12-05 17:34:37 --> Language Class Initialized
+INFO - 2024-12-05 17:34:37 --> Loader Class Initialized
+INFO - 2024-12-05 17:34:37 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:34:37 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:34:37 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:34:37 --> Email Class Initialized
+DEBUG - 2024-12-05 17:34:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:34:37 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:34:37 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:34:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:34:37 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:34:37 --> Model Class Initialized
+INFO - 2024-12-05 17:34:37 --> Model Class Initialized
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Teacher.php 66
+INFO - 2024-12-05 17:34:38 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/header.php
+INFO - 2024-12-05 17:34:38 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/parent_list.php
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 53
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 170
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 286
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 404
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 439
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 475
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 510
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 546
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 581
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 616
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 650
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 684
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 718
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+INFO - 2024-12-05 17:34:38 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/footer.php
+INFO - 2024-12-05 17:34:38 --> Final output sent to browser
+DEBUG - 2024-12-05 17:34:38 --> Total execution time: 0.1244
+INFO - 2024-12-05 17:34:38 --> Config Class Initialized
+INFO - 2024-12-05 17:34:38 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:34:38 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:34:38 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:34:38 --> URI Class Initialized
+INFO - 2024-12-05 17:34:38 --> Router Class Initialized
+INFO - 2024-12-05 17:34:38 --> Output Class Initialized
+INFO - 2024-12-05 17:34:38 --> Security Class Initialized
+DEBUG - 2024-12-05 17:34:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:34:38 --> Input Class Initialized
+INFO - 2024-12-05 17:34:38 --> Language Class Initialized
+ERROR - 2024-12-05 17:34:38 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:34:38 --> Config Class Initialized
+INFO - 2024-12-05 17:34:38 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:34:38 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:34:38 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:34:38 --> URI Class Initialized
+INFO - 2024-12-05 17:34:38 --> Router Class Initialized
+INFO - 2024-12-05 17:34:38 --> Output Class Initialized
+INFO - 2024-12-05 17:34:38 --> Security Class Initialized
+DEBUG - 2024-12-05 17:34:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:34:38 --> Input Class Initialized
+INFO - 2024-12-05 17:34:38 --> Language Class Initialized
+INFO - 2024-12-05 17:34:38 --> Loader Class Initialized
+INFO - 2024-12-05 17:34:38 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:34:38 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:34:38 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:34:38 --> Email Class Initialized
+DEBUG - 2024-12-05 17:34:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:34:38 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:34:38 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:34:38 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:34:38 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:34:38 --> Model Class Initialized
+INFO - 2024-12-05 17:34:38 --> Model Class Initialized
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Teacher.php 245
+INFO - 2024-12-05 17:34:38 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/header.php
+INFO - 2024-12-05 17:34:38 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/child_list.php
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 53
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 170
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 286
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 404
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 439
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 475
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 510
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 546
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 581
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 616
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 650
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 684
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 718
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+INFO - 2024-12-05 17:34:38 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/footer.php
+INFO - 2024-12-05 17:34:38 --> Final output sent to browser
+DEBUG - 2024-12-05 17:34:38 --> Total execution time: 0.1356
+INFO - 2024-12-05 17:34:38 --> Config Class Initialized
+INFO - 2024-12-05 17:34:38 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:34:38 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:34:38 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:34:38 --> URI Class Initialized
+INFO - 2024-12-05 17:34:38 --> Router Class Initialized
+INFO - 2024-12-05 17:34:38 --> Output Class Initialized
+INFO - 2024-12-05 17:34:38 --> Security Class Initialized
+DEBUG - 2024-12-05 17:34:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:34:38 --> Input Class Initialized
+INFO - 2024-12-05 17:34:38 --> Language Class Initialized
+ERROR - 2024-12-05 17:34:38 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:34:38 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:34:39 --> Config Class Initialized
+INFO - 2024-12-05 17:34:39 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:34:39 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:34:39 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:34:39 --> URI Class Initialized
+INFO - 2024-12-05 17:34:39 --> Router Class Initialized
+INFO - 2024-12-05 17:34:39 --> Output Class Initialized
+INFO - 2024-12-05 17:34:39 --> Security Class Initialized
+DEBUG - 2024-12-05 17:34:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:34:39 --> Input Class Initialized
+INFO - 2024-12-05 17:34:39 --> Language Class Initialized
+INFO - 2024-12-05 17:34:39 --> Loader Class Initialized
+INFO - 2024-12-05 17:34:39 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:34:39 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:34:39 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:34:39 --> Email Class Initialized
+DEBUG - 2024-12-05 17:34:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:34:39 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:34:39 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:34:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:34:39 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:34:39 --> Model Class Initialized
+INFO - 2024-12-05 17:34:39 --> Model Class Initialized
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Teacher.php 570
+INFO - 2024-12-05 17:34:39 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/header.php
+INFO - 2024-12-05 17:34:39 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/section_list.php
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 53
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 170
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 286
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 404
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 439
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 475
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 510
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 546
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 581
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 616
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 650
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 684
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 718
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+INFO - 2024-12-05 17:34:39 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/footer.php
+INFO - 2024-12-05 17:34:39 --> Final output sent to browser
+DEBUG - 2024-12-05 17:34:39 --> Total execution time: 0.1136
+INFO - 2024-12-05 17:34:39 --> Config Class Initialized
+INFO - 2024-12-05 17:34:39 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:34:39 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:34:39 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:34:39 --> URI Class Initialized
+INFO - 2024-12-05 17:34:39 --> Router Class Initialized
+INFO - 2024-12-05 17:34:39 --> Output Class Initialized
+INFO - 2024-12-05 17:34:39 --> Security Class Initialized
+DEBUG - 2024-12-05 17:34:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:34:39 --> Input Class Initialized
+INFO - 2024-12-05 17:34:39 --> Language Class Initialized
+ERROR - 2024-12-05 17:34:39 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:34:39 --> Config Class Initialized
+INFO - 2024-12-05 17:34:39 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:34:39 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:34:39 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:34:39 --> URI Class Initialized
+INFO - 2024-12-05 17:34:39 --> Router Class Initialized
+INFO - 2024-12-05 17:34:39 --> Output Class Initialized
+INFO - 2024-12-05 17:34:39 --> Security Class Initialized
+DEBUG - 2024-12-05 17:34:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:34:39 --> Input Class Initialized
+INFO - 2024-12-05 17:34:39 --> Language Class Initialized
+INFO - 2024-12-05 17:34:39 --> Loader Class Initialized
+INFO - 2024-12-05 17:34:39 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:34:39 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:34:39 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:34:39 --> Email Class Initialized
+DEBUG - 2024-12-05 17:34:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:34:39 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:34:39 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:34:39 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:34:39 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:34:39 --> Model Class Initialized
+INFO - 2024-12-05 17:34:39 --> Model Class Initialized
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Teacher.php 386
+INFO - 2024-12-05 17:34:39 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/header.php
+INFO - 2024-12-05 17:34:39 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/attendees_list.php
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 53
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 170
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 286
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 404
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 439
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 475
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 510
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 546
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 581
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 616
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 650
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 684
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 718
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+INFO - 2024-12-05 17:34:39 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/footer.php
+INFO - 2024-12-05 17:34:39 --> Final output sent to browser
+DEBUG - 2024-12-05 17:34:39 --> Total execution time: 0.1100
+INFO - 2024-12-05 17:34:39 --> Config Class Initialized
+INFO - 2024-12-05 17:34:39 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:34:39 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:34:39 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:34:39 --> URI Class Initialized
+INFO - 2024-12-05 17:34:39 --> Router Class Initialized
+INFO - 2024-12-05 17:34:39 --> Output Class Initialized
+INFO - 2024-12-05 17:34:39 --> Security Class Initialized
+DEBUG - 2024-12-05 17:34:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:34:39 --> Input Class Initialized
+INFO - 2024-12-05 17:34:39 --> Language Class Initialized
+ERROR - 2024-12-05 17:34:39 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:34:39 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:34:48 --> Config Class Initialized
+INFO - 2024-12-05 17:34:48 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:34:48 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:34:48 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:34:48 --> URI Class Initialized
+INFO - 2024-12-05 17:34:48 --> Router Class Initialized
+INFO - 2024-12-05 17:34:48 --> Output Class Initialized
+INFO - 2024-12-05 17:34:48 --> Security Class Initialized
+DEBUG - 2024-12-05 17:34:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:34:48 --> Input Class Initialized
+INFO - 2024-12-05 17:34:48 --> Language Class Initialized
+INFO - 2024-12-05 17:34:48 --> Loader Class Initialized
+INFO - 2024-12-05 17:34:48 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:34:48 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:34:48 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:34:48 --> Email Class Initialized
+DEBUG - 2024-12-05 17:34:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:34:48 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:34:48 --> Controller Class Initialized
+INFO - 2024-12-05 17:34:48 --> Config Class Initialized
+INFO - 2024-12-05 17:34:48 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:34:48 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:34:48 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:34:48 --> URI Class Initialized
+INFO - 2024-12-05 17:34:48 --> Router Class Initialized
+INFO - 2024-12-05 17:34:48 --> Output Class Initialized
+INFO - 2024-12-05 17:34:48 --> Security Class Initialized
+DEBUG - 2024-12-05 17:34:48 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:34:48 --> Input Class Initialized
+INFO - 2024-12-05 17:34:48 --> Language Class Initialized
+INFO - 2024-12-05 17:34:48 --> Loader Class Initialized
+INFO - 2024-12-05 17:34:48 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:34:48 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:34:48 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:34:48 --> Email Class Initialized
+DEBUG - 2024-12-05 17:34:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:34:48 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:34:48 --> Controller Class Initialized
+INFO - 2024-12-05 17:34:48 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 17:34:48 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:34:48 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\login.php
+INFO - 2024-12-05 17:34:48 --> Final output sent to browser
+DEBUG - 2024-12-05 17:34:48 --> Total execution time: 0.0893
+INFO - 2024-12-05 17:35:00 --> Config Class Initialized
+INFO - 2024-12-05 17:35:00 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:35:00 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:35:00 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:35:00 --> URI Class Initialized
+INFO - 2024-12-05 17:35:00 --> Router Class Initialized
+INFO - 2024-12-05 17:35:00 --> Output Class Initialized
+INFO - 2024-12-05 17:35:00 --> Security Class Initialized
+DEBUG - 2024-12-05 17:35:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:35:00 --> Input Class Initialized
+INFO - 2024-12-05 17:35:00 --> Language Class Initialized
+INFO - 2024-12-05 17:35:00 --> Loader Class Initialized
+INFO - 2024-12-05 17:35:00 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:35:00 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:35:00 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:35:00 --> Email Class Initialized
+DEBUG - 2024-12-05 17:35:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:35:00 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:35:00 --> Controller Class Initialized
+INFO - 2024-12-05 17:35:00 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 17:35:00 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:35:00 --> Model Class Initialized
+INFO - 2024-12-05 17:35:00 --> Final output sent to browser
+DEBUG - 2024-12-05 17:35:00 --> Total execution time: 0.2220
+INFO - 2024-12-05 17:35:01 --> Config Class Initialized
+INFO - 2024-12-05 17:35:01 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:35:01 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:35:01 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:35:01 --> URI Class Initialized
+INFO - 2024-12-05 17:35:01 --> Router Class Initialized
+INFO - 2024-12-05 17:35:01 --> Output Class Initialized
+INFO - 2024-12-05 17:35:01 --> Security Class Initialized
+DEBUG - 2024-12-05 17:35:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:35:01 --> Input Class Initialized
+INFO - 2024-12-05 17:35:01 --> Language Class Initialized
+INFO - 2024-12-05 17:35:01 --> Loader Class Initialized
+INFO - 2024-12-05 17:35:01 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:35:01 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:35:01 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:35:01 --> Email Class Initialized
+DEBUG - 2024-12-05 17:35:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:35:01 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:35:01 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:35:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:35:01 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:35:01 --> Model Class Initialized
+INFO - 2024-12-05 17:35:01 --> Model Class Initialized
+INFO - 2024-12-05 17:35:01 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+ERROR - 2024-12-05 17:35:01 --> Severity: Warning --> Undefined array key "attendees_count" C:\xampp\htdocs\pulikutties\application\views\dfo\dashboard.php 97
+INFO - 2024-12-05 17:35:01 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/dashboard.php
+ERROR - 2024-12-05 17:35:01 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:35:01 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:35:01 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:35:01 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:35:01 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:35:01 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:35:01 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:35:01 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:35:01 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:35:01 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:35:01 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:35:01 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:35:01 --> Final output sent to browser
+DEBUG - 2024-12-05 17:35:01 --> Total execution time: 0.1823
+INFO - 2024-12-05 17:35:01 --> Config Class Initialized
+INFO - 2024-12-05 17:35:01 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:35:01 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:35:01 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:35:01 --> URI Class Initialized
+INFO - 2024-12-05 17:35:01 --> Router Class Initialized
+INFO - 2024-12-05 17:35:01 --> Output Class Initialized
+INFO - 2024-12-05 17:35:01 --> Security Class Initialized
+DEBUG - 2024-12-05 17:35:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:35:01 --> Input Class Initialized
+INFO - 2024-12-05 17:35:01 --> Language Class Initialized
+ERROR - 2024-12-05 17:35:01 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:35:01 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:35:01 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:35:26 --> Config Class Initialized
+INFO - 2024-12-05 17:35:26 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:35:26 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:35:26 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:35:26 --> URI Class Initialized
+INFO - 2024-12-05 17:35:26 --> Router Class Initialized
+INFO - 2024-12-05 17:35:26 --> Output Class Initialized
+INFO - 2024-12-05 17:35:26 --> Security Class Initialized
+DEBUG - 2024-12-05 17:35:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:35:26 --> Input Class Initialized
+INFO - 2024-12-05 17:35:26 --> Language Class Initialized
+INFO - 2024-12-05 17:35:26 --> Loader Class Initialized
+INFO - 2024-12-05 17:35:26 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:35:26 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:35:26 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:35:26 --> Email Class Initialized
+DEBUG - 2024-12-05 17:35:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:35:26 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:35:26 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:35:26 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:35:26 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:35:26 --> Model Class Initialized
+INFO - 2024-12-05 17:35:26 --> Model Class Initialized
+INFO - 2024-12-05 17:35:26 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+ERROR - 2024-12-05 17:35:26 --> Severity: Warning --> Undefined array key "attendees_count" C:\xampp\htdocs\pulikutties\application\views\dfo\dashboard.php 97
+INFO - 2024-12-05 17:35:26 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/dashboard.php
+ERROR - 2024-12-05 17:35:26 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:35:26 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:35:26 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:35:26 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:35:26 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:35:26 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:35:26 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:35:26 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:35:26 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:35:26 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:35:26 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:35:26 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:35:26 --> Final output sent to browser
+DEBUG - 2024-12-05 17:35:26 --> Total execution time: 0.1393
+INFO - 2024-12-05 17:35:26 --> Config Class Initialized
+INFO - 2024-12-05 17:35:26 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:35:26 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:35:26 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:35:26 --> URI Class Initialized
+INFO - 2024-12-05 17:35:26 --> Router Class Initialized
+INFO - 2024-12-05 17:35:26 --> Output Class Initialized
+INFO - 2024-12-05 17:35:27 --> Security Class Initialized
+DEBUG - 2024-12-05 17:35:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:35:27 --> Input Class Initialized
+INFO - 2024-12-05 17:35:27 --> Language Class Initialized
+ERROR - 2024-12-05 17:35:27 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:35:27 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:35:27 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:35:45 --> Config Class Initialized
+INFO - 2024-12-05 17:35:45 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:35:45 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:35:45 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:35:45 --> URI Class Initialized
+INFO - 2024-12-05 17:35:45 --> Router Class Initialized
+INFO - 2024-12-05 17:35:45 --> Output Class Initialized
+INFO - 2024-12-05 17:35:45 --> Security Class Initialized
+DEBUG - 2024-12-05 17:35:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:35:45 --> Input Class Initialized
+INFO - 2024-12-05 17:35:45 --> Language Class Initialized
+INFO - 2024-12-05 17:35:45 --> Loader Class Initialized
+INFO - 2024-12-05 17:35:45 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:35:45 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:35:45 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:35:45 --> Email Class Initialized
+DEBUG - 2024-12-05 17:35:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:35:45 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:35:45 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:35:45 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:35:45 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:35:45 --> Model Class Initialized
+INFO - 2024-12-05 17:35:45 --> Model Class Initialized
+INFO - 2024-12-05 17:35:45 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+ERROR - 2024-12-05 17:35:45 --> Severity: Warning --> Undefined array key "attendees_count" C:\xampp\htdocs\pulikutties\application\views\dfo\dashboard.php 97
+INFO - 2024-12-05 17:35:45 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/dashboard.php
+ERROR - 2024-12-05 17:35:45 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:35:45 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:35:45 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:35:45 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:35:45 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:35:45 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:35:45 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:35:45 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:35:45 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:35:45 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:35:45 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:35:45 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:35:45 --> Final output sent to browser
+DEBUG - 2024-12-05 17:35:45 --> Total execution time: 0.1540
+INFO - 2024-12-05 17:35:45 --> Config Class Initialized
+INFO - 2024-12-05 17:35:45 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:35:45 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:35:45 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:35:45 --> URI Class Initialized
+INFO - 2024-12-05 17:35:45 --> Router Class Initialized
+INFO - 2024-12-05 17:35:46 --> Output Class Initialized
+INFO - 2024-12-05 17:35:46 --> Security Class Initialized
+DEBUG - 2024-12-05 17:35:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:35:46 --> Input Class Initialized
+INFO - 2024-12-05 17:35:46 --> Language Class Initialized
+ERROR - 2024-12-05 17:35:46 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:35:46 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:35:46 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:36:29 --> Config Class Initialized
+INFO - 2024-12-05 17:36:29 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:36:29 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:36:29 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:36:29 --> URI Class Initialized
+INFO - 2024-12-05 17:36:29 --> Router Class Initialized
+INFO - 2024-12-05 17:36:29 --> Output Class Initialized
+INFO - 2024-12-05 17:36:29 --> Security Class Initialized
+DEBUG - 2024-12-05 17:36:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:36:29 --> Input Class Initialized
+INFO - 2024-12-05 17:36:29 --> Language Class Initialized
+INFO - 2024-12-05 17:36:29 --> Loader Class Initialized
+INFO - 2024-12-05 17:36:29 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:36:29 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:36:29 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:36:29 --> Email Class Initialized
+DEBUG - 2024-12-05 17:36:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:36:29 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:36:29 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:36:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:36:29 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:36:29 --> Model Class Initialized
+INFO - 2024-12-05 17:36:29 --> Model Class Initialized
+INFO - 2024-12-05 17:36:29 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+ERROR - 2024-12-05 17:36:29 --> Severity: Warning --> Undefined array key "attendees_count" C:\xampp\htdocs\pulikutties\application\views\dfo\dashboard.php 97
+INFO - 2024-12-05 17:36:29 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/dashboard.php
+ERROR - 2024-12-05 17:36:29 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:36:29 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:36:29 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:36:29 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:36:29 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:36:29 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:36:29 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:36:29 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:36:29 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:36:29 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:36:29 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:36:29 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:36:29 --> Final output sent to browser
+DEBUG - 2024-12-05 17:36:29 --> Total execution time: 0.1718
+INFO - 2024-12-05 17:36:29 --> Config Class Initialized
+INFO - 2024-12-05 17:36:29 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:36:29 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:36:29 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:36:29 --> URI Class Initialized
+INFO - 2024-12-05 17:36:29 --> Router Class Initialized
+INFO - 2024-12-05 17:36:29 --> Output Class Initialized
+INFO - 2024-12-05 17:36:29 --> Security Class Initialized
+DEBUG - 2024-12-05 17:36:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:36:29 --> Input Class Initialized
+INFO - 2024-12-05 17:36:29 --> Language Class Initialized
+ERROR - 2024-12-05 17:36:29 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:36:29 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:36:29 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:36:31 --> Config Class Initialized
+INFO - 2024-12-05 17:36:31 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:36:31 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:36:31 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:36:31 --> URI Class Initialized
+INFO - 2024-12-05 17:36:31 --> Router Class Initialized
+INFO - 2024-12-05 17:36:31 --> Output Class Initialized
+INFO - 2024-12-05 17:36:31 --> Security Class Initialized
+DEBUG - 2024-12-05 17:36:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:36:31 --> Input Class Initialized
+INFO - 2024-12-05 17:36:31 --> Language Class Initialized
+INFO - 2024-12-05 17:36:31 --> Loader Class Initialized
+INFO - 2024-12-05 17:36:31 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:36:31 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:36:31 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:36:31 --> Email Class Initialized
+DEBUG - 2024-12-05 17:36:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:36:31 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:36:31 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:36:31 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:36:31 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:36:31 --> Model Class Initialized
+INFO - 2024-12-05 17:36:31 --> Model Class Initialized
+ERROR - 2024-12-05 17:36:31 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Dfo.php 64
+INFO - 2024-12-05 17:36:31 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:36:31 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/teacher_list.php
+ERROR - 2024-12-05 17:36:31 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:36:31 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:36:31 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:36:31 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:36:31 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:36:31 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:36:31 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:36:31 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:36:31 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:36:31 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:36:31 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:36:31 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:36:31 --> Final output sent to browser
+DEBUG - 2024-12-05 17:36:31 --> Total execution time: 0.1134
+INFO - 2024-12-05 17:36:32 --> Config Class Initialized
+INFO - 2024-12-05 17:36:32 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:36:32 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:36:32 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:36:32 --> URI Class Initialized
+INFO - 2024-12-05 17:36:32 --> Router Class Initialized
+INFO - 2024-12-05 17:36:32 --> Output Class Initialized
+INFO - 2024-12-05 17:36:32 --> Security Class Initialized
+DEBUG - 2024-12-05 17:36:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:36:32 --> Input Class Initialized
+INFO - 2024-12-05 17:36:32 --> Language Class Initialized
+ERROR - 2024-12-05 17:36:32 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:36:32 --> Config Class Initialized
+INFO - 2024-12-05 17:36:32 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:36:32 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:36:32 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:36:32 --> URI Class Initialized
+INFO - 2024-12-05 17:36:32 --> Router Class Initialized
+INFO - 2024-12-05 17:36:32 --> Output Class Initialized
+INFO - 2024-12-05 17:36:32 --> Security Class Initialized
+DEBUG - 2024-12-05 17:36:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:36:32 --> Input Class Initialized
+INFO - 2024-12-05 17:36:32 --> Language Class Initialized
+INFO - 2024-12-05 17:36:32 --> Loader Class Initialized
+INFO - 2024-12-05 17:36:32 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:36:32 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:36:32 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:36:32 --> Email Class Initialized
+DEBUG - 2024-12-05 17:36:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:36:32 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:36:32 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:36:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:36:32 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:36:32 --> Model Class Initialized
+INFO - 2024-12-05 17:36:32 --> Model Class Initialized
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Dfo.php 244
+INFO - 2024-12-05 17:36:32 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:36:32 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/parent_list.php
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:36:32 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:36:32 --> Final output sent to browser
+DEBUG - 2024-12-05 17:36:32 --> Total execution time: 0.1325
+INFO - 2024-12-05 17:36:32 --> Config Class Initialized
+INFO - 2024-12-05 17:36:32 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:36:32 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:36:32 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:36:32 --> URI Class Initialized
+INFO - 2024-12-05 17:36:32 --> Router Class Initialized
+INFO - 2024-12-05 17:36:32 --> Output Class Initialized
+INFO - 2024-12-05 17:36:32 --> Security Class Initialized
+DEBUG - 2024-12-05 17:36:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:36:32 --> Input Class Initialized
+INFO - 2024-12-05 17:36:32 --> Language Class Initialized
+ERROR - 2024-12-05 17:36:32 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:36:32 --> Config Class Initialized
+INFO - 2024-12-05 17:36:32 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:36:32 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:36:32 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:36:32 --> URI Class Initialized
+INFO - 2024-12-05 17:36:32 --> Router Class Initialized
+INFO - 2024-12-05 17:36:32 --> Output Class Initialized
+INFO - 2024-12-05 17:36:32 --> Security Class Initialized
+DEBUG - 2024-12-05 17:36:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:36:32 --> Input Class Initialized
+INFO - 2024-12-05 17:36:32 --> Language Class Initialized
+INFO - 2024-12-05 17:36:32 --> Loader Class Initialized
+INFO - 2024-12-05 17:36:32 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:36:32 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:36:32 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:36:32 --> Email Class Initialized
+DEBUG - 2024-12-05 17:36:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:36:32 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:36:32 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:36:32 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:36:32 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:36:32 --> Model Class Initialized
+INFO - 2024-12-05 17:36:32 --> Model Class Initialized
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Dfo.php 424
+INFO - 2024-12-05 17:36:32 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:36:32 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/child_list.php
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:36:32 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:36:32 --> Final output sent to browser
+DEBUG - 2024-12-05 17:36:32 --> Total execution time: 0.1200
+INFO - 2024-12-05 17:36:32 --> Config Class Initialized
+INFO - 2024-12-05 17:36:32 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:36:32 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:36:32 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:36:32 --> URI Class Initialized
+INFO - 2024-12-05 17:36:32 --> Router Class Initialized
+INFO - 2024-12-05 17:36:32 --> Output Class Initialized
+INFO - 2024-12-05 17:36:32 --> Security Class Initialized
+DEBUG - 2024-12-05 17:36:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:36:32 --> Input Class Initialized
+INFO - 2024-12-05 17:36:32 --> Language Class Initialized
+ERROR - 2024-12-05 17:36:32 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:36:32 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:36:33 --> Config Class Initialized
+INFO - 2024-12-05 17:36:33 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:36:33 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:36:33 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:36:33 --> URI Class Initialized
+INFO - 2024-12-05 17:36:33 --> Router Class Initialized
+INFO - 2024-12-05 17:36:33 --> Output Class Initialized
+INFO - 2024-12-05 17:36:33 --> Security Class Initialized
+DEBUG - 2024-12-05 17:36:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:36:33 --> Input Class Initialized
+INFO - 2024-12-05 17:36:33 --> Language Class Initialized
+INFO - 2024-12-05 17:36:33 --> Loader Class Initialized
+INFO - 2024-12-05 17:36:33 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:36:33 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:36:33 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:36:33 --> Email Class Initialized
+DEBUG - 2024-12-05 17:36:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:36:33 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:36:33 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:36:33 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:36:33 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:36:33 --> Model Class Initialized
+INFO - 2024-12-05 17:36:33 --> Model Class Initialized
+ERROR - 2024-12-05 17:36:33 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Dfo.php 551
+INFO - 2024-12-05 17:36:33 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:36:33 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/section_list.php
+ERROR - 2024-12-05 17:36:33 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:36:33 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:36:33 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:36:33 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:36:33 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:36:33 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:36:33 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:36:33 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:36:33 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:36:33 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:36:33 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:36:33 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:36:33 --> Final output sent to browser
+DEBUG - 2024-12-05 17:36:33 --> Total execution time: 0.1135
+INFO - 2024-12-05 17:36:33 --> Config Class Initialized
+INFO - 2024-12-05 17:36:33 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:36:33 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:36:33 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:36:33 --> URI Class Initialized
+INFO - 2024-12-05 17:36:33 --> Router Class Initialized
+INFO - 2024-12-05 17:36:33 --> Output Class Initialized
+INFO - 2024-12-05 17:36:33 --> Security Class Initialized
+DEBUG - 2024-12-05 17:36:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:36:33 --> Input Class Initialized
+INFO - 2024-12-05 17:36:33 --> Language Class Initialized
+ERROR - 2024-12-05 17:36:33 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:36:33 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:36:33 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:36:34 --> Config Class Initialized
+INFO - 2024-12-05 17:36:34 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:36:34 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:36:34 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:36:34 --> URI Class Initialized
+INFO - 2024-12-05 17:36:34 --> Router Class Initialized
+INFO - 2024-12-05 17:36:34 --> Output Class Initialized
+INFO - 2024-12-05 17:36:34 --> Security Class Initialized
+DEBUG - 2024-12-05 17:36:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:36:34 --> Input Class Initialized
+INFO - 2024-12-05 17:36:34 --> Language Class Initialized
+INFO - 2024-12-05 17:36:34 --> Loader Class Initialized
+INFO - 2024-12-05 17:36:34 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:36:34 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:36:34 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:36:34 --> Email Class Initialized
+DEBUG - 2024-12-05 17:36:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:36:34 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:36:34 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:36:34 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:36:34 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:36:34 --> Model Class Initialized
+INFO - 2024-12-05 17:36:34 --> Model Class Initialized
+ERROR - 2024-12-05 17:36:34 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Dfo.php 687
+INFO - 2024-12-05 17:36:34 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:36:34 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/attendees_list.php
+ERROR - 2024-12-05 17:36:34 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:36:34 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:36:34 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:36:34 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:36:34 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:36:34 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:36:34 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:36:34 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:36:34 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:36:34 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:36:34 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:36:34 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:36:34 --> Final output sent to browser
+DEBUG - 2024-12-05 17:36:34 --> Total execution time: 0.1202
+INFO - 2024-12-05 17:36:34 --> Config Class Initialized
+INFO - 2024-12-05 17:36:34 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:36:34 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:36:34 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:36:34 --> URI Class Initialized
+INFO - 2024-12-05 17:36:34 --> Router Class Initialized
+INFO - 2024-12-05 17:36:34 --> Output Class Initialized
+INFO - 2024-12-05 17:36:34 --> Security Class Initialized
+DEBUG - 2024-12-05 17:36:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:36:34 --> Input Class Initialized
+INFO - 2024-12-05 17:36:34 --> Language Class Initialized
+ERROR - 2024-12-05 17:36:34 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:36:34 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:36:34 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:38:40 --> Config Class Initialized
+INFO - 2024-12-05 17:38:40 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:38:40 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:38:40 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:38:40 --> URI Class Initialized
+INFO - 2024-12-05 17:38:40 --> Router Class Initialized
+INFO - 2024-12-05 17:38:40 --> Output Class Initialized
+INFO - 2024-12-05 17:38:40 --> Security Class Initialized
+DEBUG - 2024-12-05 17:38:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:38:40 --> Input Class Initialized
+INFO - 2024-12-05 17:38:40 --> Language Class Initialized
+INFO - 2024-12-05 17:38:40 --> Loader Class Initialized
+INFO - 2024-12-05 17:38:40 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:38:40 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:38:40 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:38:40 --> Email Class Initialized
+DEBUG - 2024-12-05 17:38:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:38:40 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:38:40 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:38:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:38:40 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:38:40 --> Model Class Initialized
+INFO - 2024-12-05 17:38:40 --> Model Class Initialized
+ERROR - 2024-12-05 17:38:40 --> Severity: error --> Exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '(SELECT COUNT(id) FROM `section_attendees` where dfo_id = 32) AS attendees_count' at line 6 C:\xampp\htdocs\pulikutties\system\database\drivers\mysqli\mysqli_driver.php 305
+INFO - 2024-12-05 17:38:52 --> Config Class Initialized
+INFO - 2024-12-05 17:38:52 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:38:52 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:38:52 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:38:52 --> URI Class Initialized
+INFO - 2024-12-05 17:38:52 --> Router Class Initialized
+INFO - 2024-12-05 17:38:52 --> Output Class Initialized
+INFO - 2024-12-05 17:38:52 --> Security Class Initialized
+DEBUG - 2024-12-05 17:38:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:38:53 --> Input Class Initialized
+INFO - 2024-12-05 17:38:53 --> Language Class Initialized
+INFO - 2024-12-05 17:38:53 --> Loader Class Initialized
+INFO - 2024-12-05 17:38:53 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:38:53 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:38:53 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:38:53 --> Email Class Initialized
+DEBUG - 2024-12-05 17:38:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:38:53 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:38:53 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:38:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:38:53 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:38:53 --> Model Class Initialized
+INFO - 2024-12-05 17:38:53 --> Model Class Initialized
+INFO - 2024-12-05 17:38:53 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:38:53 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/dashboard.php
+ERROR - 2024-12-05 17:38:53 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:38:53 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:38:53 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:38:53 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:38:53 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:38:53 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:38:53 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:38:53 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:38:53 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:38:53 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:38:53 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:38:53 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:38:53 --> Final output sent to browser
+DEBUG - 2024-12-05 17:38:53 --> Total execution time: 0.4369
+INFO - 2024-12-05 17:38:53 --> Config Class Initialized
+INFO - 2024-12-05 17:38:53 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:38:53 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:38:53 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:38:53 --> URI Class Initialized
+INFO - 2024-12-05 17:38:53 --> Router Class Initialized
+INFO - 2024-12-05 17:38:53 --> Output Class Initialized
+INFO - 2024-12-05 17:38:53 --> Security Class Initialized
+DEBUG - 2024-12-05 17:38:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:38:53 --> Input Class Initialized
+INFO - 2024-12-05 17:38:53 --> Language Class Initialized
+ERROR - 2024-12-05 17:38:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:38:53 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:38:53 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:39:19 --> Config Class Initialized
+INFO - 2024-12-05 17:39:19 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:39:19 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:39:19 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:39:19 --> URI Class Initialized
+INFO - 2024-12-05 17:39:19 --> Router Class Initialized
+INFO - 2024-12-05 17:39:19 --> Output Class Initialized
+INFO - 2024-12-05 17:39:19 --> Security Class Initialized
+DEBUG - 2024-12-05 17:39:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:39:19 --> Input Class Initialized
+INFO - 2024-12-05 17:39:19 --> Language Class Initialized
+INFO - 2024-12-05 17:39:19 --> Loader Class Initialized
+INFO - 2024-12-05 17:39:19 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:39:19 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:39:19 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:39:19 --> Email Class Initialized
+DEBUG - 2024-12-05 17:39:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:39:19 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:39:19 --> Controller Class Initialized
+INFO - 2024-12-05 17:39:19 --> Config Class Initialized
+INFO - 2024-12-05 17:39:19 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:39:19 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:39:19 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:39:19 --> URI Class Initialized
+INFO - 2024-12-05 17:39:19 --> Router Class Initialized
+INFO - 2024-12-05 17:39:19 --> Output Class Initialized
+INFO - 2024-12-05 17:39:19 --> Security Class Initialized
+DEBUG - 2024-12-05 17:39:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:39:19 --> Input Class Initialized
+INFO - 2024-12-05 17:39:19 --> Language Class Initialized
+INFO - 2024-12-05 17:39:19 --> Loader Class Initialized
+INFO - 2024-12-05 17:39:19 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:39:19 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:39:19 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:39:19 --> Email Class Initialized
+DEBUG - 2024-12-05 17:39:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:39:19 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:39:19 --> Controller Class Initialized
+INFO - 2024-12-05 17:39:19 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 17:39:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:39:19 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\login.php
+INFO - 2024-12-05 17:39:19 --> Final output sent to browser
+DEBUG - 2024-12-05 17:39:19 --> Total execution time: 0.0846
+INFO - 2024-12-05 17:39:29 --> Config Class Initialized
+INFO - 2024-12-05 17:39:29 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:39:29 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:39:29 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:39:29 --> URI Class Initialized
+INFO - 2024-12-05 17:39:29 --> Router Class Initialized
+INFO - 2024-12-05 17:39:29 --> Output Class Initialized
+INFO - 2024-12-05 17:39:29 --> Security Class Initialized
+DEBUG - 2024-12-05 17:39:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:39:29 --> Input Class Initialized
+INFO - 2024-12-05 17:39:29 --> Language Class Initialized
+INFO - 2024-12-05 17:39:29 --> Loader Class Initialized
+INFO - 2024-12-05 17:39:29 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:39:29 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:39:29 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:39:29 --> Email Class Initialized
+DEBUG - 2024-12-05 17:39:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:39:29 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:39:29 --> Controller Class Initialized
+INFO - 2024-12-05 17:39:29 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 17:39:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:39:29 --> Model Class Initialized
+INFO - 2024-12-05 17:39:29 --> Final output sent to browser
+DEBUG - 2024-12-05 17:39:29 --> Total execution time: 0.1870
+INFO - 2024-12-05 17:39:29 --> Config Class Initialized
+INFO - 2024-12-05 17:39:29 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:39:29 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:39:29 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:39:29 --> URI Class Initialized
+INFO - 2024-12-05 17:39:29 --> Router Class Initialized
+INFO - 2024-12-05 17:39:29 --> Output Class Initialized
+INFO - 2024-12-05 17:39:29 --> Security Class Initialized
+DEBUG - 2024-12-05 17:39:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:39:29 --> Input Class Initialized
+INFO - 2024-12-05 17:39:29 --> Language Class Initialized
+INFO - 2024-12-05 17:39:29 --> Loader Class Initialized
+INFO - 2024-12-05 17:39:29 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:39:29 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:39:29 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:39:29 --> Email Class Initialized
+DEBUG - 2024-12-05 17:39:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:39:29 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:39:29 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:39:29 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:39:29 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:39:29 --> Model Class Initialized
+INFO - 2024-12-05 17:39:29 --> Model Class Initialized
+INFO - 2024-12-05 17:39:29 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/header.php
+INFO - 2024-12-05 17:39:30 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/dashboard.php
+ERROR - 2024-12-05 17:39:30 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 53
+ERROR - 2024-12-05 17:39:30 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 170
+ERROR - 2024-12-05 17:39:30 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 286
+ERROR - 2024-12-05 17:39:30 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 404
+ERROR - 2024-12-05 17:39:30 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 439
+ERROR - 2024-12-05 17:39:30 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 475
+ERROR - 2024-12-05 17:39:30 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 510
+ERROR - 2024-12-05 17:39:30 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 546
+ERROR - 2024-12-05 17:39:30 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 581
+ERROR - 2024-12-05 17:39:30 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 616
+ERROR - 2024-12-05 17:39:30 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 650
+ERROR - 2024-12-05 17:39:30 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 684
+ERROR - 2024-12-05 17:39:30 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 718
+ERROR - 2024-12-05 17:39:30 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 752
+ERROR - 2024-12-05 17:39:30 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 752
+INFO - 2024-12-05 17:39:30 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/footer.php
+INFO - 2024-12-05 17:39:30 --> Final output sent to browser
+DEBUG - 2024-12-05 17:39:30 --> Total execution time: 0.1807
+INFO - 2024-12-05 17:39:34 --> Config Class Initialized
+INFO - 2024-12-05 17:39:34 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:39:34 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:39:34 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:39:34 --> URI Class Initialized
+INFO - 2024-12-05 17:39:34 --> Router Class Initialized
+INFO - 2024-12-05 17:39:34 --> Output Class Initialized
+INFO - 2024-12-05 17:39:34 --> Security Class Initialized
+DEBUG - 2024-12-05 17:39:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:39:34 --> Input Class Initialized
+INFO - 2024-12-05 17:39:34 --> Language Class Initialized
+ERROR - 2024-12-05 17:39:34 --> 404 Page Not Found: Parent/child_list
+ERROR - 2024-12-05 17:39:34 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:39:34 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:39:35 --> Config Class Initialized
+INFO - 2024-12-05 17:39:35 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:39:35 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:39:35 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:39:35 --> URI Class Initialized
+INFO - 2024-12-05 17:39:35 --> Router Class Initialized
+INFO - 2024-12-05 17:39:35 --> Output Class Initialized
+INFO - 2024-12-05 17:39:35 --> Security Class Initialized
+DEBUG - 2024-12-05 17:39:35 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:39:35 --> Input Class Initialized
+INFO - 2024-12-05 17:39:35 --> Language Class Initialized
+ERROR - 2024-12-05 17:39:35 --> 404 Page Not Found: Parent/section_list
+ERROR - 2024-12-05 17:39:35 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:39:35 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:39:36 --> Config Class Initialized
+INFO - 2024-12-05 17:39:36 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:39:36 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:39:36 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:39:36 --> URI Class Initialized
+INFO - 2024-12-05 17:39:36 --> Router Class Initialized
+INFO - 2024-12-05 17:39:36 --> Output Class Initialized
+INFO - 2024-12-05 17:39:36 --> Security Class Initialized
+DEBUG - 2024-12-05 17:39:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:39:36 --> Input Class Initialized
+INFO - 2024-12-05 17:39:36 --> Language Class Initialized
+ERROR - 2024-12-05 17:39:36 --> 404 Page Not Found: Parent/attendees_list
+ERROR - 2024-12-05 17:39:36 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:39:36 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:40:03 --> Config Class Initialized
+INFO - 2024-12-05 17:40:03 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:40:03 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:40:03 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:40:03 --> URI Class Initialized
+INFO - 2024-12-05 17:40:03 --> Router Class Initialized
+INFO - 2024-12-05 17:40:03 --> Output Class Initialized
+INFO - 2024-12-05 17:40:03 --> Security Class Initialized
+DEBUG - 2024-12-05 17:40:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:40:03 --> Input Class Initialized
+INFO - 2024-12-05 17:40:03 --> Language Class Initialized
+INFO - 2024-12-05 17:40:03 --> Loader Class Initialized
+INFO - 2024-12-05 17:40:03 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:40:03 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:40:03 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:40:03 --> Email Class Initialized
+DEBUG - 2024-12-05 17:40:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:40:03 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:40:03 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:40:03 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:40:03 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:40:03 --> Model Class Initialized
+INFO - 2024-12-05 17:40:03 --> Model Class Initialized
+INFO - 2024-12-05 17:40:03 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/header.php
+INFO - 2024-12-05 17:40:03 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/dashboard.php
+ERROR - 2024-12-05 17:40:03 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 53
+ERROR - 2024-12-05 17:40:03 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 170
+ERROR - 2024-12-05 17:40:03 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 286
+ERROR - 2024-12-05 17:40:03 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 404
+ERROR - 2024-12-05 17:40:03 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 439
+ERROR - 2024-12-05 17:40:03 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 475
+ERROR - 2024-12-05 17:40:03 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 510
+ERROR - 2024-12-05 17:40:03 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 546
+ERROR - 2024-12-05 17:40:03 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 581
+ERROR - 2024-12-05 17:40:03 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 616
+ERROR - 2024-12-05 17:40:03 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 650
+ERROR - 2024-12-05 17:40:03 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 684
+ERROR - 2024-12-05 17:40:03 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 718
+ERROR - 2024-12-05 17:40:03 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 752
+ERROR - 2024-12-05 17:40:03 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 752
+INFO - 2024-12-05 17:40:03 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/footer.php
+INFO - 2024-12-05 17:40:03 --> Final output sent to browser
+DEBUG - 2024-12-05 17:40:03 --> Total execution time: 0.1542
+INFO - 2024-12-05 17:40:05 --> Config Class Initialized
+INFO - 2024-12-05 17:40:05 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:40:05 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:40:05 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:40:05 --> URI Class Initialized
+INFO - 2024-12-05 17:40:05 --> Router Class Initialized
+INFO - 2024-12-05 17:40:05 --> Output Class Initialized
+INFO - 2024-12-05 17:40:05 --> Security Class Initialized
+DEBUG - 2024-12-05 17:40:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:40:05 --> Input Class Initialized
+INFO - 2024-12-05 17:40:05 --> Language Class Initialized
+INFO - 2024-12-05 17:40:05 --> Loader Class Initialized
+INFO - 2024-12-05 17:40:05 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:40:05 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:40:05 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:40:05 --> Email Class Initialized
+DEBUG - 2024-12-05 17:40:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:40:05 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:40:05 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:40:05 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:40:05 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:40:05 --> Model Class Initialized
+INFO - 2024-12-05 17:40:05 --> Model Class Initialized
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Parentcontroller.php 65
+INFO - 2024-12-05 17:40:05 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/header.php
+INFO - 2024-12-05 17:40:05 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/child_list.php
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 53
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 170
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 286
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 404
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 439
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 475
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 510
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 546
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 581
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 616
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 650
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 684
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 718
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 752
+ERROR - 2024-12-05 17:40:05 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 752
+INFO - 2024-12-05 17:40:05 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/footer.php
+INFO - 2024-12-05 17:40:05 --> Final output sent to browser
+DEBUG - 2024-12-05 17:40:05 --> Total execution time: 0.1152
+INFO - 2024-12-05 17:40:06 --> Config Class Initialized
+INFO - 2024-12-05 17:40:06 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:40:06 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:40:06 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:40:06 --> URI Class Initialized
+INFO - 2024-12-05 17:40:06 --> Router Class Initialized
+INFO - 2024-12-05 17:40:06 --> Output Class Initialized
+INFO - 2024-12-05 17:40:06 --> Security Class Initialized
+DEBUG - 2024-12-05 17:40:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:40:06 --> Input Class Initialized
+INFO - 2024-12-05 17:40:06 --> Language Class Initialized
+INFO - 2024-12-05 17:40:06 --> Loader Class Initialized
+INFO - 2024-12-05 17:40:06 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:40:06 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:40:06 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:40:06 --> Email Class Initialized
+DEBUG - 2024-12-05 17:40:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:40:06 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:40:06 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:40:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:40:06 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:40:06 --> Model Class Initialized
+INFO - 2024-12-05 17:40:06 --> Model Class Initialized
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Parentcontroller.php 184
+INFO - 2024-12-05 17:40:06 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/header.php
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined array key "first_name" C:\xampp\htdocs\pulikutties\application\views\parent\section_list.php 34
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined array key "last_name" C:\xampp\htdocs\pulikutties\application\views\parent\section_list.php 34
+INFO - 2024-12-05 17:40:06 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/section_list.php
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 53
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 170
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 286
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 404
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 439
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 475
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 510
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 546
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 581
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 616
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 650
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 684
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 718
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 752
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 752
+INFO - 2024-12-05 17:40:06 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/footer.php
+INFO - 2024-12-05 17:40:06 --> Final output sent to browser
+DEBUG - 2024-12-05 17:40:06 --> Total execution time: 0.1261
+INFO - 2024-12-05 17:40:06 --> Config Class Initialized
+INFO - 2024-12-05 17:40:06 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:40:06 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:40:06 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:40:06 --> URI Class Initialized
+INFO - 2024-12-05 17:40:06 --> Router Class Initialized
+INFO - 2024-12-05 17:40:06 --> Output Class Initialized
+INFO - 2024-12-05 17:40:06 --> Security Class Initialized
+DEBUG - 2024-12-05 17:40:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:40:06 --> Input Class Initialized
+INFO - 2024-12-05 17:40:06 --> Language Class Initialized
+INFO - 2024-12-05 17:40:06 --> Loader Class Initialized
+INFO - 2024-12-05 17:40:06 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:40:06 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:40:06 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:40:06 --> Email Class Initialized
+DEBUG - 2024-12-05 17:40:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:40:06 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:40:06 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:40:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:40:06 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:40:06 --> Model Class Initialized
+INFO - 2024-12-05 17:40:06 --> Model Class Initialized
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $data C:\xampp\htdocs\pulikutties\application\controllers\Parentcontroller.php 277
+INFO - 2024-12-05 17:40:06 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/header.php
+INFO - 2024-12-05 17:40:06 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/attendees_list.php
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 53
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 170
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 286
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 404
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 439
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 475
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 510
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 546
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 581
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 616
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 650
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 684
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 718
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 752
+ERROR - 2024-12-05 17:40:06 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 752
+INFO - 2024-12-05 17:40:06 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/footer.php
+INFO - 2024-12-05 17:40:06 --> Final output sent to browser
+DEBUG - 2024-12-05 17:40:06 --> Total execution time: 0.1193
+INFO - 2024-12-05 17:40:52 --> Config Class Initialized
+INFO - 2024-12-05 17:40:52 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:40:52 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:40:52 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:40:52 --> URI Class Initialized
+INFO - 2024-12-05 17:40:52 --> Router Class Initialized
+INFO - 2024-12-05 17:40:53 --> Output Class Initialized
+INFO - 2024-12-05 17:40:53 --> Security Class Initialized
+DEBUG - 2024-12-05 17:40:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:40:53 --> Input Class Initialized
+INFO - 2024-12-05 17:40:53 --> Language Class Initialized
+INFO - 2024-12-05 17:40:53 --> Loader Class Initialized
+INFO - 2024-12-05 17:40:53 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:40:53 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:40:53 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:40:53 --> Email Class Initialized
+DEBUG - 2024-12-05 17:40:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:40:53 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:40:53 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:40:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:40:53 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:40:53 --> Model Class Initialized
+INFO - 2024-12-05 17:40:53 --> Model Class Initialized
+INFO - 2024-12-05 17:40:53 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/header.php
+INFO - 2024-12-05 17:40:53 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/dashboard.php
+ERROR - 2024-12-05 17:40:53 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 53
+ERROR - 2024-12-05 17:40:53 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 170
+ERROR - 2024-12-05 17:40:53 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 286
+ERROR - 2024-12-05 17:40:53 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 404
+ERROR - 2024-12-05 17:40:53 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 439
+ERROR - 2024-12-05 17:40:53 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 475
+ERROR - 2024-12-05 17:40:53 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 510
+ERROR - 2024-12-05 17:40:53 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 546
+ERROR - 2024-12-05 17:40:53 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 581
+ERROR - 2024-12-05 17:40:53 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 616
+ERROR - 2024-12-05 17:40:53 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 650
+ERROR - 2024-12-05 17:40:53 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 684
+ERROR - 2024-12-05 17:40:53 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 718
+ERROR - 2024-12-05 17:40:53 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 752
+ERROR - 2024-12-05 17:40:53 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 752
+INFO - 2024-12-05 17:40:53 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/footer.php
+INFO - 2024-12-05 17:40:53 --> Final output sent to browser
+DEBUG - 2024-12-05 17:40:53 --> Total execution time: 0.1420
+INFO - 2024-12-05 17:41:06 --> Config Class Initialized
+INFO - 2024-12-05 17:41:06 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:41:06 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:41:06 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:41:06 --> URI Class Initialized
+INFO - 2024-12-05 17:41:06 --> Router Class Initialized
+INFO - 2024-12-05 17:41:06 --> Output Class Initialized
+INFO - 2024-12-05 17:41:06 --> Security Class Initialized
+DEBUG - 2024-12-05 17:41:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:41:06 --> Input Class Initialized
+INFO - 2024-12-05 17:41:06 --> Language Class Initialized
+INFO - 2024-12-05 17:41:06 --> Loader Class Initialized
+INFO - 2024-12-05 17:41:06 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:41:06 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:41:06 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:41:06 --> Email Class Initialized
+DEBUG - 2024-12-05 17:41:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:41:06 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:41:06 --> Controller Class Initialized
+INFO - 2024-12-05 17:41:06 --> Config Class Initialized
+INFO - 2024-12-05 17:41:06 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:41:06 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:41:06 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:41:06 --> URI Class Initialized
+INFO - 2024-12-05 17:41:06 --> Router Class Initialized
+INFO - 2024-12-05 17:41:06 --> Output Class Initialized
+INFO - 2024-12-05 17:41:06 --> Security Class Initialized
+DEBUG - 2024-12-05 17:41:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:41:06 --> Input Class Initialized
+INFO - 2024-12-05 17:41:06 --> Language Class Initialized
+INFO - 2024-12-05 17:41:06 --> Loader Class Initialized
+INFO - 2024-12-05 17:41:06 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:41:06 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:41:06 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:41:06 --> Email Class Initialized
+DEBUG - 2024-12-05 17:41:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:41:06 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:41:06 --> Controller Class Initialized
+INFO - 2024-12-05 17:41:06 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 17:41:06 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:41:06 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\login.php
+INFO - 2024-12-05 17:41:06 --> Final output sent to browser
+DEBUG - 2024-12-05 17:41:06 --> Total execution time: 0.0994
+INFO - 2024-12-05 17:42:22 --> Config Class Initialized
+INFO - 2024-12-05 17:42:22 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:42:22 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:42:22 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:42:22 --> URI Class Initialized
+INFO - 2024-12-05 17:42:22 --> Router Class Initialized
+INFO - 2024-12-05 17:42:22 --> Output Class Initialized
+INFO - 2024-12-05 17:42:22 --> Security Class Initialized
+DEBUG - 2024-12-05 17:42:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:42:22 --> Input Class Initialized
+INFO - 2024-12-05 17:42:22 --> Language Class Initialized
+INFO - 2024-12-05 17:42:22 --> Loader Class Initialized
+INFO - 2024-12-05 17:42:22 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:42:22 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:42:22 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:42:22 --> Email Class Initialized
+DEBUG - 2024-12-05 17:42:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:42:22 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:42:22 --> Controller Class Initialized
+INFO - 2024-12-05 17:42:22 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 17:42:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:42:22 --> Model Class Initialized
+INFO - 2024-12-05 17:42:22 --> Final output sent to browser
+DEBUG - 2024-12-05 17:42:22 --> Total execution time: 0.2055
+INFO - 2024-12-05 17:42:22 --> Config Class Initialized
+INFO - 2024-12-05 17:42:22 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:42:22 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:42:22 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:42:22 --> URI Class Initialized
+INFO - 2024-12-05 17:42:22 --> Router Class Initialized
+INFO - 2024-12-05 17:42:22 --> Output Class Initialized
+INFO - 2024-12-05 17:42:22 --> Security Class Initialized
+DEBUG - 2024-12-05 17:42:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:42:22 --> Input Class Initialized
+INFO - 2024-12-05 17:42:22 --> Language Class Initialized
+INFO - 2024-12-05 17:42:22 --> Loader Class Initialized
+INFO - 2024-12-05 17:42:22 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:42:22 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:42:22 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:42:22 --> Email Class Initialized
+DEBUG - 2024-12-05 17:42:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:42:22 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:42:22 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:42:22 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:42:22 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:42:22 --> Model Class Initialized
+INFO - 2024-12-05 17:42:22 --> Model Class Initialized
+INFO - 2024-12-05 17:42:22 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:42:22 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/dashboard.php
+ERROR - 2024-12-05 17:42:22 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:42:22 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:42:22 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:42:22 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:42:22 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:42:22 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:42:22 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:42:22 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:42:22 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:42:22 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:42:22 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:42:22 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:42:22 --> Final output sent to browser
+DEBUG - 2024-12-05 17:42:22 --> Total execution time: 0.1065
+INFO - 2024-12-05 17:42:22 --> Config Class Initialized
+INFO - 2024-12-05 17:42:22 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:42:22 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:42:22 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:42:22 --> URI Class Initialized
+INFO - 2024-12-05 17:42:22 --> Router Class Initialized
+INFO - 2024-12-05 17:42:22 --> Output Class Initialized
+INFO - 2024-12-05 17:42:22 --> Security Class Initialized
+DEBUG - 2024-12-05 17:42:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:42:22 --> Input Class Initialized
+INFO - 2024-12-05 17:42:22 --> Language Class Initialized
+ERROR - 2024-12-05 17:42:22 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:42:22 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:42:22 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:43:12 --> Config Class Initialized
+INFO - 2024-12-05 17:43:12 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:43:12 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:43:12 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:43:12 --> URI Class Initialized
+INFO - 2024-12-05 17:43:12 --> Router Class Initialized
+INFO - 2024-12-05 17:43:12 --> Output Class Initialized
+INFO - 2024-12-05 17:43:12 --> Security Class Initialized
+DEBUG - 2024-12-05 17:43:12 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:43:12 --> Input Class Initialized
+INFO - 2024-12-05 17:43:12 --> Language Class Initialized
+INFO - 2024-12-05 17:43:12 --> Loader Class Initialized
+INFO - 2024-12-05 17:43:12 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:43:12 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:43:12 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:43:12 --> Email Class Initialized
+DEBUG - 2024-12-05 17:43:12 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:43:12 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:43:12 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:43:12 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:43:12 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:43:12 --> Model Class Initialized
+INFO - 2024-12-05 17:43:12 --> Model Class Initialized
+INFO - 2024-12-05 17:43:13 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
+INFO - 2024-12-05 17:43:13 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/dashboard.php
+ERROR - 2024-12-05 17:43:13 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 53
+ERROR - 2024-12-05 17:43:13 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 170
+ERROR - 2024-12-05 17:43:13 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 286
+ERROR - 2024-12-05 17:43:13 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 404
+ERROR - 2024-12-05 17:43:13 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 439
+ERROR - 2024-12-05 17:43:13 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 475
+ERROR - 2024-12-05 17:43:13 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 510
+ERROR - 2024-12-05 17:43:13 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 545
+ERROR - 2024-12-05 17:43:13 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 579
+ERROR - 2024-12-05 17:43:13 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 613
+ERROR - 2024-12-05 17:43:13 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 647
+INFO - 2024-12-05 17:43:13 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/footer.php
+INFO - 2024-12-05 17:43:13 --> Final output sent to browser
+DEBUG - 2024-12-05 17:43:13 --> Total execution time: 0.3360
+INFO - 2024-12-05 17:43:27 --> Config Class Initialized
+INFO - 2024-12-05 17:43:27 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:43:27 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:43:27 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:43:27 --> URI Class Initialized
+INFO - 2024-12-05 17:43:27 --> Router Class Initialized
+INFO - 2024-12-05 17:43:27 --> Output Class Initialized
+INFO - 2024-12-05 17:43:27 --> Security Class Initialized
+DEBUG - 2024-12-05 17:43:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:43:27 --> Input Class Initialized
+INFO - 2024-12-05 17:43:27 --> Language Class Initialized
+ERROR - 2024-12-05 17:43:27 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:43:27 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:43:27 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:44:15 --> Config Class Initialized
+INFO - 2024-12-05 17:44:15 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:44:15 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:44:15 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:44:15 --> URI Class Initialized
+INFO - 2024-12-05 17:44:15 --> Router Class Initialized
+INFO - 2024-12-05 17:44:15 --> Output Class Initialized
+INFO - 2024-12-05 17:44:15 --> Security Class Initialized
+DEBUG - 2024-12-05 17:44:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:44:15 --> Input Class Initialized
+INFO - 2024-12-05 17:44:15 --> Language Class Initialized
+INFO - 2024-12-05 17:44:15 --> Loader Class Initialized
+INFO - 2024-12-05 17:44:15 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:44:15 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:44:15 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:44:15 --> Email Class Initialized
+DEBUG - 2024-12-05 17:44:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:44:15 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:44:15 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:44:15 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:44:15 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:44:15 --> Model Class Initialized
+INFO - 2024-12-05 17:44:15 --> Model Class Initialized
+INFO - 2024-12-05 17:44:15 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:44:15 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/dashboard.php
+ERROR - 2024-12-05 17:44:15 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:44:15 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:44:15 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:44:15 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:44:15 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:44:15 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:44:15 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:44:15 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:44:15 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:44:15 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:44:15 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:44:15 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:44:15 --> Final output sent to browser
+DEBUG - 2024-12-05 17:44:15 --> Total execution time: 0.2079
+INFO - 2024-12-05 17:44:15 --> Config Class Initialized
+INFO - 2024-12-05 17:44:15 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:44:15 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:44:15 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:44:15 --> URI Class Initialized
+INFO - 2024-12-05 17:44:15 --> Router Class Initialized
+INFO - 2024-12-05 17:44:15 --> Output Class Initialized
+INFO - 2024-12-05 17:44:15 --> Security Class Initialized
+DEBUG - 2024-12-05 17:44:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:44:15 --> Input Class Initialized
+INFO - 2024-12-05 17:44:15 --> Language Class Initialized
+ERROR - 2024-12-05 17:44:15 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:44:15 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:44:15 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:44:16 --> Config Class Initialized
+INFO - 2024-12-05 17:44:16 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:44:16 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:44:16 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:44:16 --> URI Class Initialized
+INFO - 2024-12-05 17:44:16 --> Router Class Initialized
+INFO - 2024-12-05 17:44:16 --> Output Class Initialized
+INFO - 2024-12-05 17:44:16 --> Security Class Initialized
+DEBUG - 2024-12-05 17:44:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:44:16 --> Input Class Initialized
+INFO - 2024-12-05 17:44:16 --> Language Class Initialized
+INFO - 2024-12-05 17:44:16 --> Loader Class Initialized
+INFO - 2024-12-05 17:44:16 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:44:16 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:44:16 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:44:16 --> Email Class Initialized
+DEBUG - 2024-12-05 17:44:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:44:16 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:44:16 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:44:16 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:44:16 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:44:16 --> Model Class Initialized
+INFO - 2024-12-05 17:44:16 --> Model Class Initialized
+INFO - 2024-12-05 17:44:16 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:44:16 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/dashboard.php
+ERROR - 2024-12-05 17:44:16 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:44:16 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:44:16 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:44:16 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:44:16 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:44:16 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:44:16 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:44:16 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:44:16 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:44:16 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:44:16 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:44:16 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:44:16 --> Final output sent to browser
+DEBUG - 2024-12-05 17:44:16 --> Total execution time: 0.1150
+INFO - 2024-12-05 17:44:16 --> Config Class Initialized
+INFO - 2024-12-05 17:44:16 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:44:16 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:44:16 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:44:16 --> URI Class Initialized
+INFO - 2024-12-05 17:44:16 --> Router Class Initialized
+INFO - 2024-12-05 17:44:16 --> Output Class Initialized
+INFO - 2024-12-05 17:44:16 --> Security Class Initialized
+DEBUG - 2024-12-05 17:44:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:44:16 --> Input Class Initialized
+INFO - 2024-12-05 17:44:16 --> Language Class Initialized
+ERROR - 2024-12-05 17:44:16 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:44:16 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:44:16 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:44:17 --> Config Class Initialized
+INFO - 2024-12-05 17:44:17 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:44:17 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:44:17 --> URI Class Initialized
+INFO - 2024-12-05 17:44:17 --> Router Class Initialized
+INFO - 2024-12-05 17:44:17 --> Output Class Initialized
+INFO - 2024-12-05 17:44:17 --> Security Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:44:17 --> Input Class Initialized
+INFO - 2024-12-05 17:44:17 --> Language Class Initialized
+INFO - 2024-12-05 17:44:17 --> Loader Class Initialized
+INFO - 2024-12-05 17:44:17 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:44:17 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:44:17 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:44:17 --> Email Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:44:17 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:44:17 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:44:17 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:44:17 --> Model Class Initialized
+INFO - 2024-12-05 17:44:17 --> Model Class Initialized
+INFO - 2024-12-05 17:44:17 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:44:17 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/dashboard.php
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:44:17 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:44:17 --> Final output sent to browser
+DEBUG - 2024-12-05 17:44:17 --> Total execution time: 0.1137
+INFO - 2024-12-05 17:44:17 --> Config Class Initialized
+INFO - 2024-12-05 17:44:17 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:44:17 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:44:17 --> URI Class Initialized
+INFO - 2024-12-05 17:44:17 --> Router Class Initialized
+INFO - 2024-12-05 17:44:17 --> Output Class Initialized
+INFO - 2024-12-05 17:44:17 --> Security Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:44:17 --> Input Class Initialized
+INFO - 2024-12-05 17:44:17 --> Language Class Initialized
+ERROR - 2024-12-05 17:44:17 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:44:17 --> Config Class Initialized
+INFO - 2024-12-05 17:44:17 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:44:17 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:44:17 --> URI Class Initialized
+INFO - 2024-12-05 17:44:17 --> Router Class Initialized
+INFO - 2024-12-05 17:44:17 --> Output Class Initialized
+INFO - 2024-12-05 17:44:17 --> Security Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:44:17 --> Input Class Initialized
+INFO - 2024-12-05 17:44:17 --> Language Class Initialized
+INFO - 2024-12-05 17:44:17 --> Loader Class Initialized
+INFO - 2024-12-05 17:44:17 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:44:17 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:44:17 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:44:17 --> Email Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:44:17 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:44:17 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:44:17 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:44:17 --> Model Class Initialized
+INFO - 2024-12-05 17:44:17 --> Model Class Initialized
+INFO - 2024-12-05 17:44:17 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:44:17 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/dashboard.php
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:44:17 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:44:17 --> Final output sent to browser
+DEBUG - 2024-12-05 17:44:17 --> Total execution time: 0.1263
+INFO - 2024-12-05 17:44:17 --> Config Class Initialized
+INFO - 2024-12-05 17:44:17 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:44:17 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:44:17 --> URI Class Initialized
+INFO - 2024-12-05 17:44:17 --> Router Class Initialized
+INFO - 2024-12-05 17:44:17 --> Output Class Initialized
+INFO - 2024-12-05 17:44:17 --> Security Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:44:17 --> Input Class Initialized
+INFO - 2024-12-05 17:44:17 --> Language Class Initialized
+ERROR - 2024-12-05 17:44:17 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:44:17 --> Config Class Initialized
+INFO - 2024-12-05 17:44:17 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:44:17 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:44:17 --> URI Class Initialized
+INFO - 2024-12-05 17:44:17 --> Router Class Initialized
+INFO - 2024-12-05 17:44:17 --> Output Class Initialized
+INFO - 2024-12-05 17:44:17 --> Security Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:44:17 --> Input Class Initialized
+INFO - 2024-12-05 17:44:17 --> Language Class Initialized
+INFO - 2024-12-05 17:44:17 --> Loader Class Initialized
+INFO - 2024-12-05 17:44:17 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:44:17 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:44:17 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:44:17 --> Email Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:44:17 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:44:17 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:44:17 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:44:17 --> Model Class Initialized
+INFO - 2024-12-05 17:44:17 --> Model Class Initialized
+INFO - 2024-12-05 17:44:17 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:44:17 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/dashboard.php
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:44:17 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:44:17 --> Final output sent to browser
+DEBUG - 2024-12-05 17:44:17 --> Total execution time: 0.1571
+INFO - 2024-12-05 17:44:17 --> Config Class Initialized
+INFO - 2024-12-05 17:44:17 --> Hooks Class Initialized
+INFO - 2024-12-05 17:44:17 --> Config Class Initialized
+INFO - 2024-12-05 17:44:17 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:44:17 --> Utf8 Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:44:17 --> URI Class Initialized
+INFO - 2024-12-05 17:44:17 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:44:17 --> URI Class Initialized
+INFO - 2024-12-05 17:44:17 --> Router Class Initialized
+INFO - 2024-12-05 17:44:17 --> Output Class Initialized
+INFO - 2024-12-05 17:44:17 --> Router Class Initialized
+INFO - 2024-12-05 17:44:17 --> Output Class Initialized
+INFO - 2024-12-05 17:44:17 --> Security Class Initialized
+INFO - 2024-12-05 17:44:17 --> Security Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:44:17 --> Input Class Initialized
+DEBUG - 2024-12-05 17:44:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:44:17 --> Input Class Initialized
+INFO - 2024-12-05 17:44:17 --> Language Class Initialized
+INFO - 2024-12-05 17:44:17 --> Language Class Initialized
+ERROR - 2024-12-05 17:44:17 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:44:17 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:44:17 --> Loader Class Initialized
+INFO - 2024-12-05 17:44:17 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:44:17 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:44:18 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:44:18 --> Email Class Initialized
+DEBUG - 2024-12-05 17:44:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:44:18 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:44:18 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:44:18 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:44:18 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:44:18 --> Model Class Initialized
+INFO - 2024-12-05 17:44:18 --> Model Class Initialized
+INFO - 2024-12-05 17:44:18 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:44:18 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/dashboard.php
+ERROR - 2024-12-05 17:44:18 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:44:18 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:44:18 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:44:18 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:44:18 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:44:18 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:44:18 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:44:18 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:44:18 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:44:18 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:44:18 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:44:18 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:44:18 --> Final output sent to browser
+DEBUG - 2024-12-05 17:44:18 --> Total execution time: 0.1705
+INFO - 2024-12-05 17:44:18 --> Config Class Initialized
+INFO - 2024-12-05 17:44:18 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:44:18 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:44:18 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:44:18 --> URI Class Initialized
+INFO - 2024-12-05 17:44:18 --> Router Class Initialized
+INFO - 2024-12-05 17:44:18 --> Output Class Initialized
+INFO - 2024-12-05 17:44:18 --> Security Class Initialized
+DEBUG - 2024-12-05 17:44:18 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:44:18 --> Input Class Initialized
+INFO - 2024-12-05 17:44:18 --> Language Class Initialized
+ERROR - 2024-12-05 17:44:18 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:44:18 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:44:18 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:49:47 --> Config Class Initialized
+INFO - 2024-12-05 17:49:47 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:49:47 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:49:47 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:49:47 --> URI Class Initialized
+INFO - 2024-12-05 17:49:47 --> Router Class Initialized
+INFO - 2024-12-05 17:49:47 --> Output Class Initialized
+INFO - 2024-12-05 17:49:47 --> Security Class Initialized
+DEBUG - 2024-12-05 17:49:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:49:47 --> Input Class Initialized
+INFO - 2024-12-05 17:49:47 --> Language Class Initialized
+INFO - 2024-12-05 17:49:47 --> Loader Class Initialized
+INFO - 2024-12-05 17:49:47 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:49:47 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:49:47 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:49:47 --> Email Class Initialized
+DEBUG - 2024-12-05 17:49:47 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:49:47 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:49:47 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:49:47 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:49:47 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:49:47 --> Model Class Initialized
+INFO - 2024-12-05 17:49:47 --> Model Class Initialized
+INFO - 2024-12-05 17:49:47 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:49:47 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/profile-edit.php
+ERROR - 2024-12-05 17:49:47 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:49:47 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:49:47 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:49:47 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:49:47 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:49:47 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:49:47 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:49:47 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:49:47 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:49:47 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+INFO - 2024-12-05 17:49:47 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:49:47 --> Final output sent to browser
+DEBUG - 2024-12-05 17:49:47 --> Total execution time: 0.2192
+INFO - 2024-12-05 17:49:47 --> Config Class Initialized
+INFO - 2024-12-05 17:49:47 --> Config Class Initialized
+INFO - 2024-12-05 17:49:47 --> Hooks Class Initialized
+INFO - 2024-12-05 17:49:47 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:49:47 --> UTF-8 Support Enabled
+DEBUG - 2024-12-05 17:49:47 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:49:47 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:49:47 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:49:47 --> URI Class Initialized
+INFO - 2024-12-05 17:49:47 --> URI Class Initialized
+INFO - 2024-12-05 17:49:47 --> Router Class Initialized
+INFO - 2024-12-05 17:49:47 --> Router Class Initialized
+INFO - 2024-12-05 17:49:47 --> Output Class Initialized
+INFO - 2024-12-05 17:49:47 --> Output Class Initialized
+INFO - 2024-12-05 17:49:47 --> Security Class Initialized
+INFO - 2024-12-05 17:49:47 --> Security Class Initialized
+DEBUG - 2024-12-05 17:49:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:49:47 --> Input Class Initialized
+DEBUG - 2024-12-05 17:49:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:49:47 --> Language Class Initialized
+INFO - 2024-12-05 17:49:47 --> Input Class Initialized
+INFO - 2024-12-05 17:49:47 --> Language Class Initialized
+ERROR - 2024-12-05 17:49:47 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:49:47 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:49:47 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:49:47 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:49:47 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:49:47 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:49:55 --> Config Class Initialized
+INFO - 2024-12-05 17:49:55 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:49:55 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:49:55 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:49:55 --> URI Class Initialized
+INFO - 2024-12-05 17:49:55 --> Router Class Initialized
+INFO - 2024-12-05 17:49:55 --> Output Class Initialized
+INFO - 2024-12-05 17:49:55 --> Security Class Initialized
+DEBUG - 2024-12-05 17:49:55 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:49:55 --> Input Class Initialized
+INFO - 2024-12-05 17:49:55 --> Language Class Initialized
+INFO - 2024-12-05 17:49:55 --> Loader Class Initialized
+INFO - 2024-12-05 17:49:55 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:49:55 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:49:55 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:49:55 --> Email Class Initialized
+DEBUG - 2024-12-05 17:49:55 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:49:55 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:49:55 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:49:55 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:49:55 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:49:55 --> Model Class Initialized
+INFO - 2024-12-05 17:49:55 --> Model Class Initialized
+INFO - 2024-12-05 17:49:55 --> Upload Class Initialized
+INFO - 2024-12-05 17:49:55 --> Final output sent to browser
+DEBUG - 2024-12-05 17:49:55 --> Total execution time: 0.1967
+INFO - 2024-12-05 17:49:56 --> Config Class Initialized
+INFO - 2024-12-05 17:49:56 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:49:56 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:49:56 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:49:56 --> URI Class Initialized
+INFO - 2024-12-05 17:49:56 --> Router Class Initialized
+INFO - 2024-12-05 17:49:56 --> Output Class Initialized
+INFO - 2024-12-05 17:49:56 --> Security Class Initialized
+DEBUG - 2024-12-05 17:49:56 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:49:56 --> Input Class Initialized
+INFO - 2024-12-05 17:49:56 --> Language Class Initialized
+INFO - 2024-12-05 17:49:56 --> Loader Class Initialized
+INFO - 2024-12-05 17:49:56 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:49:56 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:49:56 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:49:56 --> Email Class Initialized
+DEBUG - 2024-12-05 17:49:56 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:49:56 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:49:56 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:49:56 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:49:56 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:49:56 --> Model Class Initialized
+INFO - 2024-12-05 17:49:56 --> Model Class Initialized
+INFO - 2024-12-05 17:49:56 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:49:56 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/profile-edit.php
+ERROR - 2024-12-05 17:49:56 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:49:56 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:49:56 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:49:56 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:49:56 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:49:56 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:49:56 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:49:56 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:49:56 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:49:56 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+INFO - 2024-12-05 17:49:56 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:49:56 --> Final output sent to browser
+DEBUG - 2024-12-05 17:49:56 --> Total execution time: 0.1787
+INFO - 2024-12-05 17:50:08 --> Config Class Initialized
+INFO - 2024-12-05 17:50:08 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:50:08 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:50:08 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:50:08 --> URI Class Initialized
+INFO - 2024-12-05 17:50:08 --> Router Class Initialized
+INFO - 2024-12-05 17:50:08 --> Output Class Initialized
+INFO - 2024-12-05 17:50:08 --> Security Class Initialized
+DEBUG - 2024-12-05 17:50:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:50:08 --> Input Class Initialized
+INFO - 2024-12-05 17:50:08 --> Language Class Initialized
+INFO - 2024-12-05 17:50:08 --> Loader Class Initialized
+INFO - 2024-12-05 17:50:08 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:50:08 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:50:08 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:50:08 --> Email Class Initialized
+DEBUG - 2024-12-05 17:50:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:50:08 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:50:08 --> Controller Class Initialized
+INFO - 2024-12-05 17:50:08 --> Config Class Initialized
+INFO - 2024-12-05 17:50:08 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:50:08 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:50:08 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:50:08 --> URI Class Initialized
+INFO - 2024-12-05 17:50:08 --> Router Class Initialized
+INFO - 2024-12-05 17:50:08 --> Output Class Initialized
+INFO - 2024-12-05 17:50:08 --> Security Class Initialized
+DEBUG - 2024-12-05 17:50:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:50:08 --> Input Class Initialized
+INFO - 2024-12-05 17:50:08 --> Language Class Initialized
+INFO - 2024-12-05 17:50:08 --> Loader Class Initialized
+INFO - 2024-12-05 17:50:08 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:50:08 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:50:08 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:50:08 --> Email Class Initialized
+DEBUG - 2024-12-05 17:50:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:50:08 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:50:08 --> Controller Class Initialized
+INFO - 2024-12-05 17:50:08 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 17:50:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:50:08 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\login.php
+INFO - 2024-12-05 17:50:08 --> Final output sent to browser
+DEBUG - 2024-12-05 17:50:08 --> Total execution time: 0.0983
+INFO - 2024-12-05 17:50:19 --> Config Class Initialized
+INFO - 2024-12-05 17:50:19 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:50:19 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:50:19 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:50:19 --> URI Class Initialized
+INFO - 2024-12-05 17:50:19 --> Router Class Initialized
+INFO - 2024-12-05 17:50:19 --> Output Class Initialized
+INFO - 2024-12-05 17:50:19 --> Security Class Initialized
+DEBUG - 2024-12-05 17:50:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:50:19 --> Input Class Initialized
+INFO - 2024-12-05 17:50:19 --> Language Class Initialized
+INFO - 2024-12-05 17:50:19 --> Loader Class Initialized
+INFO - 2024-12-05 17:50:19 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:50:19 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:50:19 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:50:19 --> Email Class Initialized
+DEBUG - 2024-12-05 17:50:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:50:19 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:50:19 --> Controller Class Initialized
+INFO - 2024-12-05 17:50:19 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 17:50:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:50:19 --> Model Class Initialized
+INFO - 2024-12-05 17:50:19 --> Final output sent to browser
+DEBUG - 2024-12-05 17:50:19 --> Total execution time: 0.2022
+INFO - 2024-12-05 17:50:19 --> Config Class Initialized
+INFO - 2024-12-05 17:50:19 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:50:19 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:50:19 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:50:19 --> URI Class Initialized
+INFO - 2024-12-05 17:50:19 --> Router Class Initialized
+INFO - 2024-12-05 17:50:19 --> Output Class Initialized
+INFO - 2024-12-05 17:50:19 --> Security Class Initialized
+DEBUG - 2024-12-05 17:50:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:50:19 --> Input Class Initialized
+INFO - 2024-12-05 17:50:19 --> Language Class Initialized
+INFO - 2024-12-05 17:50:19 --> Loader Class Initialized
+INFO - 2024-12-05 17:50:19 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:50:19 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:50:19 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:50:19 --> Email Class Initialized
+DEBUG - 2024-12-05 17:50:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:50:19 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:50:19 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:50:19 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:50:19 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:50:19 --> Model Class Initialized
+INFO - 2024-12-05 17:50:19 --> Model Class Initialized
+INFO - 2024-12-05 17:50:19 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/header.php
+INFO - 2024-12-05 17:50:19 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/dashboard.php
+ERROR - 2024-12-05 17:50:19 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 53
+ERROR - 2024-12-05 17:50:19 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 170
+ERROR - 2024-12-05 17:50:19 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 286
+ERROR - 2024-12-05 17:50:19 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 404
+ERROR - 2024-12-05 17:50:19 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 439
+ERROR - 2024-12-05 17:50:19 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 475
+ERROR - 2024-12-05 17:50:19 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 510
+ERROR - 2024-12-05 17:50:19 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 545
+ERROR - 2024-12-05 17:50:19 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 579
+ERROR - 2024-12-05 17:50:19 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 613
+ERROR - 2024-12-05 17:50:19 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\dfo\footer.php 647
+INFO - 2024-12-05 17:50:19 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\dfo/footer.php
+INFO - 2024-12-05 17:50:19 --> Final output sent to browser
+DEBUG - 2024-12-05 17:50:19 --> Total execution time: 0.0857
+INFO - 2024-12-05 17:50:28 --> Config Class Initialized
+INFO - 2024-12-05 17:50:28 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:50:28 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:50:28 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:50:28 --> URI Class Initialized
+INFO - 2024-12-05 17:50:28 --> Router Class Initialized
+INFO - 2024-12-05 17:50:28 --> Output Class Initialized
+INFO - 2024-12-05 17:50:28 --> Security Class Initialized
+DEBUG - 2024-12-05 17:50:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:50:28 --> Input Class Initialized
+INFO - 2024-12-05 17:50:28 --> Language Class Initialized
+INFO - 2024-12-05 17:50:28 --> Loader Class Initialized
+INFO - 2024-12-05 17:50:28 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:50:28 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:50:28 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:50:28 --> Email Class Initialized
+DEBUG - 2024-12-05 17:50:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:50:28 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:50:28 --> Controller Class Initialized
+INFO - 2024-12-05 17:50:28 --> Config Class Initialized
+INFO - 2024-12-05 17:50:28 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:50:28 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:50:28 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:50:28 --> URI Class Initialized
+INFO - 2024-12-05 17:50:28 --> Router Class Initialized
+INFO - 2024-12-05 17:50:28 --> Output Class Initialized
+INFO - 2024-12-05 17:50:28 --> Security Class Initialized
+DEBUG - 2024-12-05 17:50:28 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:50:28 --> Input Class Initialized
+INFO - 2024-12-05 17:50:28 --> Language Class Initialized
+INFO - 2024-12-05 17:50:28 --> Loader Class Initialized
+INFO - 2024-12-05 17:50:28 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:50:28 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:50:28 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:50:28 --> Email Class Initialized
+DEBUG - 2024-12-05 17:50:28 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:50:28 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:50:28 --> Controller Class Initialized
+INFO - 2024-12-05 17:50:28 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 17:50:28 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:50:28 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\login.php
+INFO - 2024-12-05 17:50:28 --> Final output sent to browser
+DEBUG - 2024-12-05 17:50:28 --> Total execution time: 0.0957
+INFO - 2024-12-05 17:50:37 --> Config Class Initialized
+INFO - 2024-12-05 17:50:37 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:50:37 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:50:37 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:50:37 --> URI Class Initialized
+INFO - 2024-12-05 17:50:37 --> Router Class Initialized
+INFO - 2024-12-05 17:50:37 --> Output Class Initialized
+INFO - 2024-12-05 17:50:37 --> Security Class Initialized
+DEBUG - 2024-12-05 17:50:37 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:50:37 --> Input Class Initialized
+INFO - 2024-12-05 17:50:37 --> Language Class Initialized
+INFO - 2024-12-05 17:50:37 --> Loader Class Initialized
+INFO - 2024-12-05 17:50:37 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:50:37 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:50:37 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:50:37 --> Email Class Initialized
+DEBUG - 2024-12-05 17:50:37 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:50:37 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:50:37 --> Controller Class Initialized
+INFO - 2024-12-05 17:50:37 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 17:50:37 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:50:37 --> Model Class Initialized
+INFO - 2024-12-05 17:50:38 --> Final output sent to browser
+DEBUG - 2024-12-05 17:50:38 --> Total execution time: 0.1844
+INFO - 2024-12-05 17:50:38 --> Config Class Initialized
+INFO - 2024-12-05 17:50:38 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:50:38 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:50:38 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:50:38 --> URI Class Initialized
+INFO - 2024-12-05 17:50:38 --> Router Class Initialized
+INFO - 2024-12-05 17:50:38 --> Output Class Initialized
+INFO - 2024-12-05 17:50:38 --> Security Class Initialized
+DEBUG - 2024-12-05 17:50:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:50:38 --> Input Class Initialized
+INFO - 2024-12-05 17:50:38 --> Language Class Initialized
+INFO - 2024-12-05 17:50:38 --> Loader Class Initialized
+INFO - 2024-12-05 17:50:38 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:50:38 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:50:38 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:50:38 --> Email Class Initialized
+DEBUG - 2024-12-05 17:50:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:50:38 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:50:38 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:50:38 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:50:38 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:50:38 --> Model Class Initialized
+INFO - 2024-12-05 17:50:38 --> Model Class Initialized
+INFO - 2024-12-05 17:50:38 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/header.php
+INFO - 2024-12-05 17:50:38 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/dashboard.php
+ERROR - 2024-12-05 17:50:38 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 53
+ERROR - 2024-12-05 17:50:38 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 170
+ERROR - 2024-12-05 17:50:38 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 286
+ERROR - 2024-12-05 17:50:38 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 404
+ERROR - 2024-12-05 17:50:38 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 439
+ERROR - 2024-12-05 17:50:38 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 475
+ERROR - 2024-12-05 17:50:38 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 510
+ERROR - 2024-12-05 17:50:38 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 546
+ERROR - 2024-12-05 17:50:38 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 581
+ERROR - 2024-12-05 17:50:38 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 616
+ERROR - 2024-12-05 17:50:38 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 650
+ERROR - 2024-12-05 17:50:38 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 684
+ERROR - 2024-12-05 17:50:38 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 718
+ERROR - 2024-12-05 17:50:38 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 752
+ERROR - 2024-12-05 17:50:38 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\parent\footer.php 752
+INFO - 2024-12-05 17:50:38 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\parent/footer.php
+INFO - 2024-12-05 17:50:38 --> Final output sent to browser
+DEBUG - 2024-12-05 17:50:38 --> Total execution time: 0.2258
+INFO - 2024-12-05 17:50:40 --> Config Class Initialized
+INFO - 2024-12-05 17:50:40 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:50:40 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:50:40 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:50:40 --> URI Class Initialized
+INFO - 2024-12-05 17:50:40 --> Router Class Initialized
+INFO - 2024-12-05 17:50:40 --> Output Class Initialized
+INFO - 2024-12-05 17:50:40 --> Security Class Initialized
+DEBUG - 2024-12-05 17:50:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:50:40 --> Input Class Initialized
+INFO - 2024-12-05 17:50:40 --> Language Class Initialized
+INFO - 2024-12-05 17:50:40 --> Loader Class Initialized
+INFO - 2024-12-05 17:50:40 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:50:40 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:50:40 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:50:40 --> Email Class Initialized
+DEBUG - 2024-12-05 17:50:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:50:40 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:50:40 --> Controller Class Initialized
+INFO - 2024-12-05 17:50:40 --> Config Class Initialized
+INFO - 2024-12-05 17:50:40 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:50:40 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:50:40 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:50:40 --> URI Class Initialized
+INFO - 2024-12-05 17:50:40 --> Router Class Initialized
+INFO - 2024-12-05 17:50:40 --> Output Class Initialized
+INFO - 2024-12-05 17:50:40 --> Security Class Initialized
+DEBUG - 2024-12-05 17:50:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:50:40 --> Input Class Initialized
+INFO - 2024-12-05 17:50:40 --> Language Class Initialized
+INFO - 2024-12-05 17:50:40 --> Loader Class Initialized
+INFO - 2024-12-05 17:50:40 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:50:40 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:50:40 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:50:40 --> Email Class Initialized
+DEBUG - 2024-12-05 17:50:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:50:40 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:50:40 --> Controller Class Initialized
+INFO - 2024-12-05 17:50:40 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 17:50:40 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:50:40 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\login.php
+INFO - 2024-12-05 17:50:40 --> Final output sent to browser
+DEBUG - 2024-12-05 17:50:40 --> Total execution time: 0.0946
+INFO - 2024-12-05 17:50:49 --> Config Class Initialized
+INFO - 2024-12-05 17:50:49 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:50:49 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:50:49 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:50:49 --> URI Class Initialized
+INFO - 2024-12-05 17:50:49 --> Router Class Initialized
+INFO - 2024-12-05 17:50:49 --> Output Class Initialized
+INFO - 2024-12-05 17:50:49 --> Security Class Initialized
+DEBUG - 2024-12-05 17:50:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:50:49 --> Input Class Initialized
+INFO - 2024-12-05 17:50:49 --> Language Class Initialized
+INFO - 2024-12-05 17:50:49 --> Loader Class Initialized
+INFO - 2024-12-05 17:50:49 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:50:49 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:50:49 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:50:49 --> Email Class Initialized
+DEBUG - 2024-12-05 17:50:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:50:49 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:50:49 --> Controller Class Initialized
+INFO - 2024-12-05 17:50:49 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 17:50:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:50:49 --> Model Class Initialized
+INFO - 2024-12-05 17:50:49 --> Final output sent to browser
+DEBUG - 2024-12-05 17:50:49 --> Total execution time: 0.1954
+INFO - 2024-12-05 17:50:49 --> Config Class Initialized
+INFO - 2024-12-05 17:50:49 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:50:49 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:50:49 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:50:49 --> URI Class Initialized
+INFO - 2024-12-05 17:50:49 --> Router Class Initialized
+INFO - 2024-12-05 17:50:49 --> Output Class Initialized
+INFO - 2024-12-05 17:50:49 --> Security Class Initialized
+DEBUG - 2024-12-05 17:50:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:50:49 --> Input Class Initialized
+INFO - 2024-12-05 17:50:49 --> Language Class Initialized
+INFO - 2024-12-05 17:50:49 --> Loader Class Initialized
+INFO - 2024-12-05 17:50:49 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:50:49 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:50:49 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:50:49 --> Email Class Initialized
+DEBUG - 2024-12-05 17:50:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:50:49 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:50:49 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:50:49 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:50:49 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:50:49 --> Model Class Initialized
+INFO - 2024-12-05 17:50:49 --> Model Class Initialized
+INFO - 2024-12-05 17:50:49 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/header.php
+INFO - 2024-12-05 17:50:49 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/dashboard.php
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 53
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 170
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 286
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 404
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 439
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 475
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 510
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 546
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 581
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 616
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 650
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 684
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> Undefined variable $user_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 718
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+INFO - 2024-12-05 17:50:49 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/footer.php
+INFO - 2024-12-05 17:50:49 --> Final output sent to browser
+DEBUG - 2024-12-05 17:50:49 --> Total execution time: 0.2225
+INFO - 2024-12-05 17:50:49 --> Config Class Initialized
+INFO - 2024-12-05 17:50:49 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:50:49 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:50:49 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:50:49 --> URI Class Initialized
+INFO - 2024-12-05 17:50:49 --> Router Class Initialized
+INFO - 2024-12-05 17:50:49 --> Output Class Initialized
+INFO - 2024-12-05 17:50:49 --> Security Class Initialized
+DEBUG - 2024-12-05 17:50:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:50:49 --> Input Class Initialized
+INFO - 2024-12-05 17:50:49 --> Language Class Initialized
+ERROR - 2024-12-05 17:50:49 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:50:49 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:50:53 --> Config Class Initialized
+INFO - 2024-12-05 17:50:53 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:50:53 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:50:53 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:50:53 --> URI Class Initialized
+INFO - 2024-12-05 17:50:53 --> Router Class Initialized
+INFO - 2024-12-05 17:50:53 --> Output Class Initialized
+INFO - 2024-12-05 17:50:53 --> Security Class Initialized
+DEBUG - 2024-12-05 17:50:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:50:53 --> Input Class Initialized
+INFO - 2024-12-05 17:50:53 --> Language Class Initialized
+INFO - 2024-12-05 17:50:53 --> Loader Class Initialized
+INFO - 2024-12-05 17:50:53 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:50:53 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:50:53 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:50:53 --> Email Class Initialized
+DEBUG - 2024-12-05 17:50:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:50:53 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:50:53 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:50:53 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:50:53 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:50:53 --> Model Class Initialized
+INFO - 2024-12-05 17:50:53 --> Model Class Initialized
+INFO - 2024-12-05 17:50:53 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/header.php
+INFO - 2024-12-05 17:50:53 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/profile-edit.php
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 53
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 170
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 286
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 404
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 439
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 475
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 510
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 546
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 581
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 616
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 650
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 684
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+INFO - 2024-12-05 17:50:53 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/footer.php
+INFO - 2024-12-05 17:50:53 --> Final output sent to browser
+DEBUG - 2024-12-05 17:50:53 --> Total execution time: 0.1315
+INFO - 2024-12-05 17:50:53 --> Config Class Initialized
+INFO - 2024-12-05 17:50:53 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:50:53 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:50:53 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:50:53 --> URI Class Initialized
+INFO - 2024-12-05 17:50:53 --> Router Class Initialized
+INFO - 2024-12-05 17:50:53 --> Output Class Initialized
+INFO - 2024-12-05 17:50:53 --> Security Class Initialized
+DEBUG - 2024-12-05 17:50:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:50:53 --> Input Class Initialized
+INFO - 2024-12-05 17:50:53 --> Language Class Initialized
+ERROR - 2024-12-05 17:50:53 --> 404 Page Not Found: Assets/img
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+ERROR - 2024-12-05 17:50:53 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
+INFO - 2024-12-05 17:51:00 --> Config Class Initialized
+INFO - 2024-12-05 17:51:00 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:51:00 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:51:00 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:51:00 --> URI Class Initialized
+INFO - 2024-12-05 17:51:00 --> Router Class Initialized
+INFO - 2024-12-05 17:51:00 --> Output Class Initialized
+INFO - 2024-12-05 17:51:00 --> Security Class Initialized
+DEBUG - 2024-12-05 17:51:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:51:00 --> Input Class Initialized
+INFO - 2024-12-05 17:51:00 --> Language Class Initialized
+INFO - 2024-12-05 17:51:00 --> Loader Class Initialized
+INFO - 2024-12-05 17:51:00 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:51:00 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:51:00 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:51:00 --> Email Class Initialized
+DEBUG - 2024-12-05 17:51:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:51:00 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:51:00 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:51:00 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:51:00 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:51:00 --> Model Class Initialized
+INFO - 2024-12-05 17:51:00 --> Model Class Initialized
+INFO - 2024-12-05 17:51:00 --> Upload Class Initialized
+INFO - 2024-12-05 17:51:00 --> Final output sent to browser
+DEBUG - 2024-12-05 17:51:00 --> Total execution time: 0.1275
+INFO - 2024-12-05 17:51:01 --> Config Class Initialized
+INFO - 2024-12-05 17:51:01 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:51:01 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:51:01 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:51:01 --> URI Class Initialized
+INFO - 2024-12-05 17:51:01 --> Router Class Initialized
+INFO - 2024-12-05 17:51:01 --> Output Class Initialized
+INFO - 2024-12-05 17:51:01 --> Security Class Initialized
+DEBUG - 2024-12-05 17:51:01 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:51:01 --> Input Class Initialized
+INFO - 2024-12-05 17:51:01 --> Language Class Initialized
+INFO - 2024-12-05 17:51:01 --> Loader Class Initialized
+INFO - 2024-12-05 17:51:01 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:51:01 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:51:01 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:51:01 --> Email Class Initialized
+DEBUG - 2024-12-05 17:51:01 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:51:01 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:51:01 --> Controller Class Initialized
+DEBUG - 2024-12-05 17:51:01 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:51:01 --> Helper loaded: common_helper
+INFO - 2024-12-05 17:51:01 --> Model Class Initialized
+INFO - 2024-12-05 17:51:01 --> Model Class Initialized
+INFO - 2024-12-05 17:51:01 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/header.php
+INFO - 2024-12-05 17:51:01 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/profile-edit.php
+ERROR - 2024-12-05 17:51:01 --> Severity: Warning --> Undefined variable $dfo_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 53
+ERROR - 2024-12-05 17:51:01 --> Severity: Warning --> Undefined variable $teacher_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 170
+ERROR - 2024-12-05 17:51:01 --> Severity: Warning --> Undefined variable $parent_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 286
+ERROR - 2024-12-05 17:51:01 --> Severity: Warning --> Undefined variable $child_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 404
+ERROR - 2024-12-05 17:51:01 --> Severity: Warning --> Undefined variable $section_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 439
+ERROR - 2024-12-05 17:51:01 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 475
+ERROR - 2024-12-05 17:51:01 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 510
+ERROR - 2024-12-05 17:51:01 --> Severity: Warning --> Undefined variable $dfo_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 546
+ERROR - 2024-12-05 17:51:01 --> Severity: Warning --> Undefined variable $teacher_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 581
+ERROR - 2024-12-05 17:51:01 --> Severity: Warning --> Undefined variable $parent_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 616
+ERROR - 2024-12-05 17:51:01 --> Severity: Warning --> Undefined variable $child_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 650
+ERROR - 2024-12-05 17:51:01 --> Severity: Warning --> Undefined variable $section_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 684
+ERROR - 2024-12-05 17:51:01 --> Severity: Warning --> Undefined variable $attendees_js_script C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+ERROR - 2024-12-05 17:51:01 --> Severity: Warning --> Undefined variable $attendees_js_script_edit C:\xampp\htdocs\pulikutties\application\views\teacher\footer.php 752
+INFO - 2024-12-05 17:51:01 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\teacher/footer.php
+INFO - 2024-12-05 17:51:02 --> Final output sent to browser
+DEBUG - 2024-12-05 17:51:02 --> Total execution time: 0.1078
+INFO - 2024-12-05 17:51:07 --> Config Class Initialized
+INFO - 2024-12-05 17:51:07 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:51:07 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:51:07 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:51:07 --> URI Class Initialized
+INFO - 2024-12-05 17:51:07 --> Router Class Initialized
+INFO - 2024-12-05 17:51:07 --> Output Class Initialized
+INFO - 2024-12-05 17:51:07 --> Security Class Initialized
+DEBUG - 2024-12-05 17:51:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:51:07 --> Input Class Initialized
+INFO - 2024-12-05 17:51:07 --> Language Class Initialized
+INFO - 2024-12-05 17:51:07 --> Loader Class Initialized
+INFO - 2024-12-05 17:51:07 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:51:07 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:51:07 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:51:07 --> Email Class Initialized
+DEBUG - 2024-12-05 17:51:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:51:07 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:51:07 --> Controller Class Initialized
+INFO - 2024-12-05 17:51:07 --> Config Class Initialized
+INFO - 2024-12-05 17:51:07 --> Hooks Class Initialized
+DEBUG - 2024-12-05 17:51:07 --> UTF-8 Support Enabled
+INFO - 2024-12-05 17:51:07 --> Utf8 Class Initialized
+INFO - 2024-12-05 17:51:07 --> URI Class Initialized
+INFO - 2024-12-05 17:51:07 --> Router Class Initialized
+INFO - 2024-12-05 17:51:07 --> Output Class Initialized
+INFO - 2024-12-05 17:51:07 --> Security Class Initialized
+DEBUG - 2024-12-05 17:51:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-05 17:51:08 --> Input Class Initialized
+INFO - 2024-12-05 17:51:08 --> Language Class Initialized
+INFO - 2024-12-05 17:51:08 --> Loader Class Initialized
+INFO - 2024-12-05 17:51:08 --> Helper loaded: url_helper
+INFO - 2024-12-05 17:51:08 --> Helper loaded: auth_helper
+INFO - 2024-12-05 17:51:08 --> Database Driver Class Initialized
+INFO - 2024-12-05 17:51:08 --> Email Class Initialized
+DEBUG - 2024-12-05 17:51:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-05 17:51:08 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-05 17:51:08 --> Controller Class Initialized
+INFO - 2024-12-05 17:51:08 --> Helper loaded: form_helper
+DEBUG - 2024-12-05 17:51:08 --> Session class already loaded. Second attempt ignored.
+INFO - 2024-12-05 17:51:08 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\login.php
+INFO - 2024-12-05 17:51:08 --> Final output sent to browser
+DEBUG - 2024-12-05 17:51:08 --> Total execution time: 0.0952

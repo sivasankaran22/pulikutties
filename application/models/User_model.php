@@ -602,7 +602,8 @@ class User_model extends CI_Model
                 (SELECT COUNT(id) FROM `users` WHERE role = 'teacher' AND id IN ($ids_placeholder)) AS teacher_count,
                 (SELECT COUNT(id) FROM `mappings` WHERE parent_id IN (SELECT id FROM `users` WHERE role = 'teacher' AND id IN ($ids_placeholder))) AS parent_count,
                 (SELECT COUNT(id) FROM `child` where parent_id IN (SELECT child_id FROM `mappings` WHERE parent_id IN (SELECT id FROM `users` WHERE role = 'teacher' AND id IN ($ids_placeholder)))) AS child_count,
-                (SELECT COUNT(id) FROM `sections` where created_by = $user_id) AS section_count
+                (SELECT COUNT(id) FROM `sections` where created_by = $user_id) AS section_count,
+                (SELECT COUNT(id) FROM `section_attendees` where dfo_id = $user_id) AS attendees_count
         ");
         // Return the result as an associative array
         return $query->row_array();

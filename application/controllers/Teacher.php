@@ -640,6 +640,7 @@ public function edit_your_profile() {
         $upload_data = $this->upload->data();  // Get the uploaded file data
         $file_path = 'assets/img/profile_photo/' . $upload_data['file_name'];
         $data['profile_photo'] = $file_path; // Set the new profile photo
+        $this->session->set_userdata('profile_image', $file_path);
     }
     
     // Update the user data in the database (using model)
