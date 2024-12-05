@@ -33,7 +33,7 @@ class Register extends CI_Controller {
             'email' => $this->input->post('email'),
             'phone' => $this->input->post('phone'),
             'password' => password_hash($this->input->post('password'), PASSWORD_BCRYPT), // Encrypt the password
-            'role' => "teacher" // Optional, depending on your setup
+            'role' => "dfo" // Optional, depending on your setup
         ];
 
         $inserted = $this->Register_model->save_user($data);

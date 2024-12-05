@@ -12,7 +12,7 @@
                                     <thead>
                                         <tr>
                                             <th>Child Name</th>
-                                            <th>Parent Name</th>
+                                            <th>Teacher Name</th>
                                             <th>DFO Name</th>
                                             <th>Title</th>
                                             <th>Start Date and Time</th>
@@ -23,7 +23,7 @@
                                     <tfoot>
                                         <tr>
                                             <th>Child Name</th>
-                                            <th>Parent Name</th>
+                                            <th>Teacher Name</th>
                                             <th>DFO Name</th>
                                             <th>Title</th>
                                             <th>Start Date and Time</th>
@@ -35,7 +35,7 @@
                                     <?php foreach ($attend as $list): ?>
                                         <tr>
                                             <td><img src="<?php echo base_url('').$list['chd_photo'] ?>" width="150px" height="auto"><br><?php echo $list['full_name']; ?></td>
-                                            <td><?php echo $list['p_f_name']." ".$list['p_l_name']; ?></td>
+                                            <td><?php echo $list['t_f_name']." ".$list['t_l_name']; ?></td>
                                             <td><?php echo $list['d_f_name']." ".$list['d_l_name']; ?></td>
                                             <td><?php echo $list['title']; ?></td>
                                             <td><?php echo $list['start_datetime']; ?></td>

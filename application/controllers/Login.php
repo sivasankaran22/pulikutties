@@ -7,16 +7,44 @@ class Login extends CI_Controller {
 		
 		$this->load->helper ( 'form' );
 		$this->load->helper ( 'url' );
+		$this->load->library('session');
 	}
 
 	public function index()
 	{
-		$this->load->view('/login');
-		/* if($this->session->userdata('role_type') !='ADMIN'){
-		}else{
-			redirect('login');	
-		}	 */
+		// Check if the user is logged in
+		if ($this->session->userdata('user_id')) {
+			// Get the user role from the session
+			$role = $this->session->userdata('role');
+
+			// Determine the redirection URL based on the user role
+			switch ($role) {
+				case 'admin':
+					$redirect = site_url('admin/dashboard');
+					break;
+				case 'dfo':
+					$redirect = site_url('dfo/dashboard');
+					break;
+				case 'teacher':
+					$redirect = site_url('teacher/dashboard');
+					break;
+				case 'parent':
+					$redirect = site_url('parentcontroller/dashboard');
+					break;
+				default:
+					// If the role doesn't match any, redirect to login (fallback)
+					$redirect = site_url('login');
+					break;
+			}
+
+			// Redirect to the corresponding dashboard based on the user role
+			redirect($redirect);
+		} else {
+			// If the user is not logged in, show the login page
+			$this->load->view('login');
+		}
 	}
+
 
 	public function authenticate()
 	{
@@ -51,9 +79,6 @@ class Login extends CI_Controller {
                     break;
                 case 'parent':
                     $redirect=site_url('parentcontroller/dashboard');
-                    break;
-                case 'student':
-                    $redirect=site_url('student/dashboard');
                     break;
                 default:
 				$redirect=site_url('login');

@@ -256,7 +256,7 @@ class User_model extends CI_Model
     public function get_attended_child_by_teacher($teacher_id) {
         // Perform query to get user data by user ID
 
-        $this->db->select('chd.full_name,parent.first_name as p_f_name,parent.last_name as p_l_name,teacher.first_name as t_f_name,teacher.last_name as t_l_name,dfo.first_name as d_f_name,dfo.last_name as d_l_name,chd.profile_photo as chd_photo,s.title,sa.id');
+        $this->db->select('chd.full_name,parent.first_name as p_f_name,parent.last_name as p_l_name,teacher.first_name as t_f_name,teacher.last_name as t_l_name,dfo.first_name as d_f_name,dfo.last_name as d_l_name,chd.profile_photo as chd_photo,s.title,sa.id,s.start_datetime,s.end_datetime');
         $this->db->from('section_attendees sa');
         $this->db->join('users parent', 'parent.id = sa.parent_id', 'left');
         $this->db->join('users teacher', 'teacher.id = sa.teacher_id', 'left');
@@ -278,7 +278,7 @@ class User_model extends CI_Model
     public function get_all_attended_child() {
         // Perform query to get user data by user ID
 
-        $this->db->select('chd.full_name,parent.first_name as p_f_name,parent.last_name as p_l_name,teacher.first_name as t_f_name,teacher.last_name as t_l_name,dfo.first_name as d_f_name,dfo.last_name as d_l_name,chd.profile_photo as chd_photo,s.title,sa.id');
+        $this->db->select('chd.full_name,parent.first_name as p_f_name,parent.last_name as p_l_name,teacher.first_name as t_f_name,teacher.last_name as t_l_name,dfo.first_name as d_f_name,dfo.last_name as d_l_name,chd.profile_photo as chd_photo,s.title,sa.id,s.start_datetime,s.end_datetime');
         $this->db->from('section_attendees sa');
         $this->db->join('users parent', 'parent.id = sa.parent_id', 'left');
         $this->db->join('users teacher', 'teacher.id = sa.teacher_id', 'left');
@@ -298,7 +298,7 @@ class User_model extends CI_Model
     public function get_attended_child_by_parent($parent_id) {
         // Perform query to get user data by user ID
 
-        $this->db->select('chd.full_name,parent.first_name as p_f_name,parent.last_name as p_l_name,teacher.first_name as t_f_name,teacher.last_name as t_l_name,dfo.first_name as d_f_name,dfo.last_name as d_l_name,chd.profile_photo as chd_photo,s.title,sa.id');
+        $this->db->select('chd.full_name,parent.first_name as p_f_name,parent.last_name as p_l_name,teacher.first_name as t_f_name,teacher.last_name as t_l_name,dfo.first_name as d_f_name,dfo.last_name as d_l_name,chd.profile_photo as chd_photo,s.title,sa.id,s.start_datetime,s.end_datetime');
         $this->db->from('section_attendees sa');
         $this->db->join('users parent', 'parent.id = sa.parent_id', 'left');
         $this->db->join('users teacher', 'teacher.id = sa.teacher_id', 'left');
@@ -319,7 +319,7 @@ class User_model extends CI_Model
     public function get_attended_child_by_dfo($dfo_id) {
         // Perform query to get user data by user ID
 
-        $this->db->select('chd.full_name,parent.first_name as p_f_name,parent.last_name as p_l_name,teacher.first_name as t_f_name,teacher.last_name as t_l_name,dfo.first_name as d_f_name,dfo.last_name as d_l_name,chd.profile_photo as chd_photo,s.title,sa.id');
+        $this->db->select('chd.full_name,parent.first_name as p_f_name,parent.last_name as p_l_name,teacher.first_name as t_f_name,teacher.last_name as t_l_name,dfo.first_name as d_f_name,dfo.last_name as d_l_name,chd.profile_photo as chd_photo,s.title,sa.id,s.start_datetime,s.end_datetime');
         $this->db->from('section_attendees sa');
         $this->db->join('users parent', 'parent.id = sa.parent_id', 'left');
         $this->db->join('users teacher', 'teacher.id = sa.teacher_id', 'left');

@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class ParentController extends CI_Controller {
+class Parentcontroller extends CI_Controller {
 
     protected $user_id; 
     protected $circle_id; 
