@@ -34839,3 +34839,45 @@ INFO - 2024-12-04 19:02:50 --> Helper loaded: form_helper
 INFO - 2024-12-04 19:02:50 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\/login.php
 INFO - 2024-12-04 19:02:50 --> Final output sent to browser
 DEBUG - 2024-12-04 19:02:50 --> Total execution time: 0.0760
+INFO - 2024-12-04 19:18:43 --> Config Class Initialized
+INFO - 2024-12-04 19:18:43 --> Hooks Class Initialized
+DEBUG - 2024-12-04 19:18:43 --> UTF-8 Support Enabled
+INFO - 2024-12-04 19:18:43 --> Utf8 Class Initialized
+INFO - 2024-12-04 19:18:43 --> URI Class Initialized
+INFO - 2024-12-04 19:18:43 --> Router Class Initialized
+INFO - 2024-12-04 19:18:43 --> Output Class Initialized
+INFO - 2024-12-04 19:18:43 --> Security Class Initialized
+DEBUG - 2024-12-04 19:18:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-04 19:18:43 --> Input Class Initialized
+INFO - 2024-12-04 19:18:43 --> Language Class Initialized
+INFO - 2024-12-04 19:18:43 --> Loader Class Initialized
+INFO - 2024-12-04 19:18:43 --> Helper loaded: url_helper
+INFO - 2024-12-04 19:18:43 --> Helper loaded: auth_helper
+INFO - 2024-12-04 19:18:43 --> Database Driver Class Initialized
+INFO - 2024-12-04 19:18:43 --> Email Class Initialized
+DEBUG - 2024-12-04 19:18:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-04 19:18:43 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-04 19:18:43 --> Controller Class Initialized
+INFO - 2024-12-04 19:18:43 --> Config Class Initialized
+INFO - 2024-12-04 19:18:43 --> Hooks Class Initialized
+DEBUG - 2024-12-04 19:18:43 --> UTF-8 Support Enabled
+INFO - 2024-12-04 19:18:43 --> Utf8 Class Initialized
+INFO - 2024-12-04 19:18:43 --> URI Class Initialized
+INFO - 2024-12-04 19:18:43 --> Router Class Initialized
+INFO - 2024-12-04 19:18:43 --> Output Class Initialized
+INFO - 2024-12-04 19:18:43 --> Security Class Initialized
+DEBUG - 2024-12-04 19:18:43 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-12-04 19:18:43 --> Input Class Initialized
+INFO - 2024-12-04 19:18:43 --> Language Class Initialized
+INFO - 2024-12-04 19:18:43 --> Loader Class Initialized
+INFO - 2024-12-04 19:18:43 --> Helper loaded: url_helper
+INFO - 2024-12-04 19:18:43 --> Helper loaded: auth_helper
+INFO - 2024-12-04 19:18:43 --> Database Driver Class Initialized
+INFO - 2024-12-04 19:18:43 --> Email Class Initialized
+DEBUG - 2024-12-04 19:18:43 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-12-04 19:18:43 --> Session: Class initialized using 'files' driver.
+INFO - 2024-12-04 19:18:43 --> Controller Class Initialized
+INFO - 2024-12-04 19:18:43 --> Helper loaded: form_helper
+INFO - 2024-12-04 19:18:43 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\/login.php
+INFO - 2024-12-04 19:18:43 --> Final output sent to browser
+DEBUG - 2024-12-04 19:18:43 --> Total execution time: 0.0623

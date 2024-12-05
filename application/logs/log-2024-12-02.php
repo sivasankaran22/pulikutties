@@ -5885,7 +5885,7 @@ INFO - 2024-12-02 11:53:37 --> Security Class Initialized
 DEBUG - 2024-12-02 11:53:37 --> Global POST, GET and COOKIE data sanitized
 INFO - 2024-12-02 11:53:37 --> Input Class Initialized
 INFO - 2024-12-02 11:53:37 --> Language Class Initialized
-ERROR - 2024-12-02 11:53:37 --> 404 Page Not Found: Admin/index.html
+ERROR - 2024-12-02 11:53:37 --> 404 Page Not Found: Admin/#
 ERROR - 2024-12-02 11:53:37 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
 ERROR - 2024-12-02 11:53:37 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
 INFO - 2024-12-02 11:53:39 --> Config Class Initialized

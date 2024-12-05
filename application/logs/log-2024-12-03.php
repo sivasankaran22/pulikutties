@@ -11181,7 +11181,7 @@ INFO - 2024-12-03 14:55:39 --> Security Class Initialized
 DEBUG - 2024-12-03 14:55:39 --> Global POST, GET and COOKIE data sanitized
 INFO - 2024-12-03 14:55:39 --> Input Class Initialized
 INFO - 2024-12-03 14:55:39 --> Language Class Initialized
-ERROR - 2024-12-03 14:55:39 --> 404 Page Not Found: Admin/index.html
+ERROR - 2024-12-03 14:55:39 --> 404 Page Not Found: Admin/#
 ERROR - 2024-12-03 14:55:39 --> Severity: Warning --> include(C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php): Failed to open stream: No such file or directory C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
 ERROR - 2024-12-03 14:55:39 --> Severity: Warning --> include(): Failed opening 'C:\xampp\htdocs\pulikutties\application\views\errors\html\error_404.php' for inclusion (include_path='C:\xampp\php\PEAR') C:\xampp\htdocs\pulikutties\system\core\Exceptions.php 182
 INFO - 2024-12-03 14:55:43 --> Config Class Initialized
@@ -11978,7 +11978,8 @@ INFO - 2024-12-03 15:19:53 --> Model Class Initialized
 INFO - 2024-12-03 15:19:53 --> Model Class Initialized
 INFO - 2024-12-03 15:19:53 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
 INFO - 2024-12-03 15:19:53 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:19:54 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:19:54 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:20:16 --> Config Class Initialized
 INFO - 2024-12-03 15:20:16 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:20:16 --> UTF-8 Support Enabled
@@ -12004,7 +12005,8 @@ INFO - 2024-12-03 15:20:16 --> Model Class Initialized
 INFO - 2024-12-03 15:20:16 --> Model Class Initialized
 INFO - 2024-12-03 15:20:16 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/header.php
 INFO - 2024-12-03 15:20:16 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:20:16 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:20:16 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:20:45 --> Config Class Initialized
 INFO - 2024-12-03 15:20:45 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:20:45 --> UTF-8 Support Enabled
@@ -12036,7 +12038,8 @@ ERROR - 2024-12-03 15:20:45 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:20:45 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:20:45 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:20:45 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:20:45 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:20:45 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:21:02 --> Config Class Initialized
 INFO - 2024-12-03 15:21:02 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:21:02 --> UTF-8 Support Enabled
@@ -12068,7 +12071,8 @@ ERROR - 2024-12-03 15:21:02 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:21:02 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:21:02 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:21:02 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:21:02 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:21:02 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:21:06 --> Config Class Initialized
 INFO - 2024-12-03 15:21:06 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:21:06 --> UTF-8 Support Enabled
@@ -12100,7 +12104,8 @@ ERROR - 2024-12-03 15:21:06 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:21:06 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:21:06 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:21:06 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:21:06 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:21:06 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:21:25 --> Config Class Initialized
 INFO - 2024-12-03 15:21:25 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:21:25 --> UTF-8 Support Enabled
@@ -12132,7 +12137,8 @@ ERROR - 2024-12-03 15:21:25 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:21:25 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:21:25 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:21:25 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:21:25 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:21:25 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:21:26 --> Config Class Initialized
 INFO - 2024-12-03 15:21:26 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:21:26 --> UTF-8 Support Enabled
@@ -12164,7 +12170,8 @@ ERROR - 2024-12-03 15:21:26 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:21:26 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:21:26 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:21:26 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:21:26 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:21:26 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:21:26 --> Config Class Initialized
 INFO - 2024-12-03 15:21:26 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:21:26 --> UTF-8 Support Enabled
@@ -12196,7 +12203,8 @@ ERROR - 2024-12-03 15:21:26 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:21:26 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:21:26 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:21:26 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:21:26 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:21:26 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:21:26 --> Config Class Initialized
 INFO - 2024-12-03 15:21:26 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:21:26 --> UTF-8 Support Enabled
@@ -12228,7 +12236,8 @@ ERROR - 2024-12-03 15:21:26 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:21:26 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:21:26 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:21:26 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:21:26 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:21:26 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:22:42 --> Config Class Initialized
 INFO - 2024-12-03 15:22:42 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:22:42 --> UTF-8 Support Enabled
@@ -12260,7 +12269,8 @@ ERROR - 2024-12-03 15:22:42 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:22:42 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:22:42 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:22:42 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:22:42 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:22:42 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:23:25 --> Config Class Initialized
 INFO - 2024-12-03 15:23:25 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:23:25 --> UTF-8 Support Enabled
@@ -12292,7 +12302,8 @@ ERROR - 2024-12-03 15:23:25 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:23:25 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:23:25 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:23:25 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:23:25 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:23:25 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:23:27 --> Config Class Initialized
 INFO - 2024-12-03 15:23:27 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:23:27 --> UTF-8 Support Enabled
@@ -12324,7 +12335,8 @@ ERROR - 2024-12-03 15:23:27 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:23:27 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:23:27 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:23:27 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:23:27 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:23:27 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:23:29 --> Config Class Initialized
 INFO - 2024-12-03 15:23:29 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:23:29 --> UTF-8 Support Enabled
@@ -12356,7 +12368,8 @@ ERROR - 2024-12-03 15:23:29 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:23:29 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:23:29 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:23:29 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:23:29 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:23:29 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:23:45 --> Config Class Initialized
 INFO - 2024-12-03 15:23:45 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:23:45 --> UTF-8 Support Enabled
@@ -12388,7 +12401,8 @@ ERROR - 2024-12-03 15:23:45 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:23:45 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:23:45 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:23:45 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:23:45 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:23:45 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:23:46 --> Config Class Initialized
 INFO - 2024-12-03 15:23:46 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:23:46 --> UTF-8 Support Enabled
@@ -12420,7 +12434,8 @@ ERROR - 2024-12-03 15:23:46 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:23:46 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:23:46 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:23:46 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:23:46 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:23:46 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:23:46 --> Config Class Initialized
 INFO - 2024-12-03 15:23:46 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:23:46 --> UTF-8 Support Enabled
@@ -12452,7 +12467,8 @@ ERROR - 2024-12-03 15:23:46 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:23:46 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:23:46 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:23:46 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:23:46 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:23:46 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:23:46 --> Config Class Initialized
 INFO - 2024-12-03 15:23:46 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:23:46 --> UTF-8 Support Enabled
@@ -12484,7 +12500,8 @@ ERROR - 2024-12-03 15:23:46 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:23:46 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:23:46 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:23:46 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:23:46 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:23:46 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:24:00 --> Config Class Initialized
 INFO - 2024-12-03 15:24:00 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:24:00 --> UTF-8 Support Enabled
@@ -12516,7 +12533,8 @@ ERROR - 2024-12-03 15:24:00 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:24:00 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:24:00 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:24:00 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:24:00 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:24:00 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:24:13 --> Config Class Initialized
 INFO - 2024-12-03 15:24:13 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:24:13 --> UTF-8 Support Enabled
@@ -12548,7 +12566,8 @@ ERROR - 2024-12-03 15:24:13 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:24:13 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:24:13 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:24:13 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:24:13 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:24:13 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:24:23 --> Config Class Initialized
 INFO - 2024-12-03 15:24:23 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:24:23 --> UTF-8 Support Enabled
@@ -12580,7 +12599,8 @@ ERROR - 2024-12-03 15:24:23 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:24:23 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:24:23 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:24:23 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:24:23 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:24:23 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:24:30 --> Config Class Initialized
 INFO - 2024-12-03 15:24:30 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:24:30 --> UTF-8 Support Enabled
@@ -12612,7 +12632,8 @@ ERROR - 2024-12-03 15:24:30 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:24:30 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:24:30 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:24:30 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:24:30 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:24:30 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:24:30 --> Config Class Initialized
 INFO - 2024-12-03 15:24:30 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:24:30 --> UTF-8 Support Enabled
@@ -12644,7 +12665,8 @@ ERROR - 2024-12-03 15:24:30 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:24:30 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:24:30 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:24:30 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:24:30 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:24:30 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:24:36 --> Config Class Initialized
 INFO - 2024-12-03 15:24:36 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:24:36 --> UTF-8 Support Enabled
@@ -12676,7 +12698,8 @@ ERROR - 2024-12-03 15:24:36 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:24:36 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:24:36 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:24:36 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:24:36 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:24:36 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:24:36 --> Config Class Initialized
 INFO - 2024-12-03 15:24:36 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:24:36 --> UTF-8 Support Enabled
@@ -12708,7 +12731,8 @@ ERROR - 2024-12-03 15:24:36 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:24:36 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:24:36 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:24:36 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:24:36 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:24:36 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:24:37 --> Config Class Initialized
 INFO - 2024-12-03 15:24:37 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:24:37 --> UTF-8 Support Enabled
@@ -12740,7 +12764,8 @@ ERROR - 2024-12-03 15:24:37 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:24:37 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:24:37 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:24:37 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:24:37 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:24:37 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:24:37 --> Config Class Initialized
 INFO - 2024-12-03 15:24:37 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:24:37 --> UTF-8 Support Enabled
@@ -12772,7 +12797,8 @@ ERROR - 2024-12-03 15:24:37 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:24:37 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:24:37 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:24:37 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:24:37 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:24:37 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:24:38 --> Config Class Initialized
 INFO - 2024-12-03 15:24:38 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:24:38 --> UTF-8 Support Enabled
@@ -12804,7 +12830,8 @@ ERROR - 2024-12-03 15:24:38 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:24:38 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:24:38 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:24:38 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:24:38 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:24:38 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:24:38 --> Config Class Initialized
 INFO - 2024-12-03 15:24:38 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:24:38 --> UTF-8 Support Enabled
@@ -12836,7 +12863,8 @@ ERROR - 2024-12-03 15:24:38 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:24:38 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:24:38 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:24:38 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:24:38 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:24:38 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:24:38 --> Config Class Initialized
 INFO - 2024-12-03 15:24:38 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:24:38 --> UTF-8 Support Enabled
@@ -12868,7 +12896,8 @@ ERROR - 2024-12-03 15:24:38 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:24:38 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:24:38 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:24:38 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:24:38 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:24:38 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:24:38 --> Config Class Initialized
 INFO - 2024-12-03 15:24:38 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:24:38 --> UTF-8 Support Enabled
@@ -12900,7 +12929,8 @@ ERROR - 2024-12-03 15:24:38 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:24:38 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:24:38 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:24:38 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:24:38 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:24:38 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:24:39 --> Config Class Initialized
 INFO - 2024-12-03 15:24:39 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:24:39 --> UTF-8 Support Enabled
@@ -12932,7 +12962,8 @@ ERROR - 2024-12-03 15:24:39 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:24:39 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:24:39 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:24:39 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:24:39 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:24:39 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:24:39 --> Config Class Initialized
 INFO - 2024-12-03 15:24:39 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:24:39 --> UTF-8 Support Enabled
@@ -12964,7 +12995,8 @@ ERROR - 2024-12-03 15:24:39 --> Severity: Warning --> foreach() argument must be
 ERROR - 2024-12-03 15:24:39 --> Severity: Warning --> Undefined variable $division C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 ERROR - 2024-12-03 15:24:39 --> Severity: Warning --> foreach() argument must be of type array|object, null given C:\xampp\htdocs\pulikutties\application\views\admin\profile-edit.php 76
 INFO - 2024-12-03 15:24:39 --> File loaded: C:\xampp\htdocs\pulikutties\application\views\admin/profile-edit.php
-ERROR - 2024-12-03 15:24:39 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
+ERROR - 2024-12-03 15:24:39 --> Severity: error --> Exception: syntax error, unexpected single-quoted string ",
+", expecting "," or ";" C:\xampp\htdocs\pulikutties\application\views\admin\footer.php 659
 INFO - 2024-12-03 15:25:24 --> Config Class Initialized
 INFO - 2024-12-03 15:25:24 --> Hooks Class Initialized
 DEBUG - 2024-12-03 15:25:24 --> UTF-8 Support Enabled
