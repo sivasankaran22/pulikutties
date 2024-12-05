@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SB Admin 2 - Login</title>
+    <title>Register Pulikutties</title>
 
     <!-- Custom fonts for this template-->
     <link href="<?php echo base_url('assets/vendor/fontawesome-free/css/all.min.css'); ?>" rel="stylesheet" type="text/css">
@@ -52,7 +52,7 @@
                                                 id="password" placeholder="Password" required>
                                         </div>
                                         <div id="errorMessage" style="color: red; display: none;"></div>
-                                        <button class="btn btn-primary btn-user">
+                                        <button class="btn btn-primary btn-user btn-block">
                                             Login
                                         </button>
                                     </form>

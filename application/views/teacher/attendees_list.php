@@ -40,7 +40,7 @@
                                             <td><?php echo $list['title']; ?></td>
                                             <td><?php echo $list['start_datetime']; ?></td>
                                             <td><?php echo $list['end_datetime']; ?></td>
-                                            <td><a class="btn btn-primary m-1" href="<?php echo site_url('teacher/attendees-details').'/'.$list['id']; ?>">view</a><a class="btn btn-secondary m-1" href="<?php echo site_url('teacher/attendees-edit').'/'.$list['id']; ?>">Edit</a>
+                                            <td><a class="btn btn-primary m-1" href="<?php echo site_url('teacher/attendees-details').'/'.$list['id']; ?>">view</a><a class="btn btn-secondary m-1" href="<?php echo site_url('teacher/attendees-edit').'/'.$list['section_id']; ?>">Edit</a>
                                             <a class="btn btn-danger m-1" href="<?php echo site_url('teacher/attendees-delete').'/'.$list['id']; ?>"   onclick="return confirmDelete();">Delete</a>
                                             </td>
                                         </tr>

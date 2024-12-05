@@ -371,7 +371,7 @@ public function edit_child($child_id) {
 
 public function attendees_edit_profile($section_id){
     $data["attendees_js_script_edit"] = true;
-    $data['attendees'] = $this->User_model->get_attendees_section_details_by_id($section_id);
+    $data['attendees'] = $this->User_model->get_group_attendees_by_section_id($section_id,$this->user_id);
     $data['all_child'] = $this->User_model->get_all_child_by_teacher($this->user_id);
     $data['dfo_id'] = $this->User_model->get_dfo_id_by_teacher_id($this->user_id);
     $data['section'] = $this->Section_model->get_all_sections_id($data['dfo_id']);
@@ -441,16 +441,35 @@ public function save_attendees() {
     }
 
     // Save to database
-    $data = [
-        'section_id' => $this->input->post('section_id'),
-        'dfo_id'     => $this->input->post('dfo_id'),
-        'teacher_id'     => $this->user_id,
-        'parent_id'     => $this->input->post('parent_id'),
-        'child_id'   => $this->input->post('child_id'),
-        'section_details' => json_encode($file_names), // Store file names as JSON
-    ];
+   // Get the input
+    $childParentIds = $this->input->post('child_parent_id'); // Array of "[child_id,parent_id]"
 
-    $result = $this->User_model->insert_attendees($data);
+    $dataToInsert = [];
+
+    foreach ($childParentIds as $childParent) {
+        // Remove brackets and split into child_id and parent_id
+        $childParent = trim($childParent, '[]'); // Remove square brackets
+        $ids = explode(',', $childParent); // Split child_id and parent_id
+
+        if (count($ids) === 2) { // Ensure valid format
+            $dataToInsert[] = [
+                'section_id'      => $this->input->post('section_id'),
+                'dfo_id'          => $this->input->post('dfo_id'),
+                'teacher_id'      => $this->user_id,
+                'parent_id'       => $ids[1], // Parent ID
+                'child_id'        => $ids[0], // Child ID
+                'section_details' => json_encode($file_names), // Store file names as JSON
+            ];
+        }
+    }
+
+    
+    $result = $this->User_model->insert_attendees($dataToInsert);
+
+    $this->User_model->delete_dublicate_attends_record_by_teacher_id($this->user_id);
+
+    // remove dublicate attendies record.
+    //$this->User_model->delete_dublicate_attends_record_by_teacher_id($this->user_id);
 
     if ($result) {
         echo json_encode(['status' => 'success', 'message' => 'Section documents details uploaded successfully']);
@@ -495,21 +514,35 @@ public function edit_attendees($id) {
                 return;
             }
         }
+    }else{
+        $file_names = $this->input->post('section_details_old');
     }
     
-    // Save to database
-    $data = [
-        'section_id' => $this->input->post('section_id'),
-        'dfo_id'     => $this->input->post('dfo_id'),
-        'parent_id'     => $this->input->post('parent_id'),
-        'child_id'   => $this->input->post('child_id')
-    ];
-    if(!empty($file_names)){
+    $childParentIds = $this->input->post('child_parent_id'); // Array of "[child_id,parent_id]"
 
-        $data["section_details"] = json_encode($file_names);
+    $dataToInsert = [];
+
+    foreach ($childParentIds as $childParent) {
+        // Remove brackets and split into child_id and parent_id
+        $childParent = trim($childParent, '[]'); // Remove square brackets
+        $ids = explode(',', $childParent); // Split child_id and parent_id
+
+        if (count($ids) === 2) { // Ensure valid format
+            $dataToInsert[] = [
+                'section_id'      => $this->input->post('section_id'),
+                'dfo_id'          => $this->input->post('dfo_id'),
+                'teacher_id'      => $this->user_id,
+                'parent_id'       => $ids[1], // Parent ID
+                'child_id'        => $ids[0], // Child ID
+                'section_details' => json_encode($file_names), // Store file names as JSON
+            ];
+        }
     }
 
-    $result = $this->User_model->update_attendees($id,$data);
+    
+    $result = $this->User_model->insert_attendees($dataToInsert);
+    // remove dublicate attendies record.
+    $result = $this->User_model->delete_dublicate_attends_record_by_teacher_id($this->user_id);
 
     if ($result) {
         echo json_encode(['status' => 'success', 'message' => 'Section documents details updated successfully']);

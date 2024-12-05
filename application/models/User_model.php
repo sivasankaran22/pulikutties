@@ -256,7 +256,7 @@ class User_model extends CI_Model
     public function get_attended_child_by_teacher($teacher_id) {
         // Perform query to get user data by user ID
 
-        $this->db->select('chd.full_name,parent.first_name as p_f_name,parent.last_name as p_l_name,teacher.first_name as t_f_name,teacher.last_name as t_l_name,dfo.first_name as d_f_name,dfo.last_name as d_l_name,chd.profile_photo as chd_photo,s.title,sa.id,s.start_datetime,s.end_datetime');
+        $this->db->select('chd.full_name,parent.first_name as p_f_name,parent.last_name as p_l_name,teacher.first_name as t_f_name,teacher.last_name as t_l_name,dfo.first_name as d_f_name,dfo.last_name as d_l_name,chd.profile_photo as chd_photo,s.title,sa.id,s.start_datetime,s.end_datetime,s.id as section_id');
         $this->db->from('section_attendees sa');
         $this->db->join('users parent', 'parent.id = sa.parent_id', 'left');
         $this->db->join('users teacher', 'teacher.id = sa.teacher_id', 'left');
@@ -342,12 +342,29 @@ class User_model extends CI_Model
 
         $this->db->select('sa.*');
         $this->db->from('section_attendees sa');
-        $this->db->where('sa.id', $section_id);  // Add where condition to fetch data for a 
+        $this->db->where('sa.section_id', $section_id);  // Add where condition to fetch data for a 
         $query = $this->db->get();  // Execute the query
 
         // Check if the user exists
         if ($query->num_rows() > 0) {
             return $query->row_array();  // Return user data as an associative array
+        }
+
+        return null;  // Return null if no user found
+    }
+
+    public function get_group_attendees_by_section_id($section_id,$teacher_id) {
+        // Perform query to get user data by user ID
+
+        $this->db->select('sa.*');
+        $this->db->from('section_attendees sa');
+        $this->db->where('sa.section_id', $section_id);  // Add where condition to fetch data for a 
+        $this->db->where('sa.teacher_id', $teacher_id);  // Add where condition to fetch data for a 
+        $query = $this->db->get();  // Execute the query
+
+        // Check if the user exists
+        if ($query->num_rows() > 0) {
+            return $query->result_array();  // Return user data as an associative array
         }
 
         return null;  // Return null if no user found
@@ -493,7 +510,7 @@ class User_model extends CI_Model
     }
     public function insert_attendees($data) {
         // Insert user data into the users table
-        $this->db->insert('section_attendees', $data);
+        $this->db->insert_batch('section_attendees', $data);
         return $this->db->insert_id();  // Return the inserted user ID
     }
 
@@ -657,6 +674,25 @@ class User_model extends CI_Model
         // Return the transaction status (true if successful, false otherwise)
         return $this->db->trans_status();
     }
+    
+    public function delete_dublicate_attends_record_by_teacher_id($teacher_id){
+        // Construct the raw SQL query
+        $sql = "
+        DELETE FROM section_attendees 
+        WHERE teacher_id = ? 
+        AND id NOT IN (
+            SELECT MAX(id)
+            FROM section_attendees
+            WHERE teacher_id = ?
+            GROUP BY section_id, dfo_id, parent_id, child_id
+        )";
+    
+        // Execute the query
+        return $this->db->query($sql, array($teacher_id, $teacher_id));
+    }
+    
+    
+    
     
 
 }

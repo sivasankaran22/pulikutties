@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>SB Admin 2 - Login</title>
+    <title>Login Pulikutties</title>
 
     <!-- Custom fonts for this template-->
     <link href="<?php echo base_url('assets/vendor/fontawesome-free/css/all.min.css'); ?>" rel="stylesheet" type="text/css">
@@ -78,22 +78,22 @@
                                         <div class="col-sm-6 mb-3 mb-sm-0">
                                             <input type="password" class="form-control form-control-user" name="password"
                                                 id="password" placeholder="Password" required>
-                                                <span id="togglePassword"  class="fa fa-eye" style="position: absolute; right: 26px; top: 72%; transform: translateY(-50%); cursor: pointer;"></span>
+                                                <span id="togglePassword"  class="fa fa-eye" style="position: absolute; right: 26px; top: 50%; transform: translateY(-50%); cursor: pointer;"></span>
                                         </div>
                                         <div class="col-sm-6">
                                             <input type="password" class="form-control form-control-user"
                                                 id="confirmPassword" placeholder="Repeat Password" required>
-                                                <span id="toggleConfirmPassword"  class="fa fa-eye" style="position: absolute; right: 26px; top: 72%; transform: translateY(-50%); cursor: pointer;"></span>
+                                                <span id="toggleConfirmPassword"  class="fa fa-eye" style="position: absolute; right: 26px; top: 50%; transform: translateY(-50%); cursor: pointer;"></span>
                                         </div>
                                         <div id="passwordError" style="color: red; display: none;"></div>
                                     </div>
-                                        <button class="btn btn-primary btn-user" type="submit">
+                                        <button class="btn btn-primary btn-user btn-block" type="submit">
                                             Sign Up
                                         </button>
                                     </form>
                                     <hr>
                                     <div class="text-center">
-                                        <a class="small" href="register.html">Login</a>
+                                        <a class="small" href="<?php echo site_url("/login"); ?>">Login</a>
                                     </div>
                                 </div>
                             </div>

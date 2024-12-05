@@ -518,7 +518,7 @@
         var formData = new FormData(this); // Serialize form data
 
         $.ajax({
-            url: '<?php echo site_url('teacher/edit_attendees').'/'.$attendees['id']; ?>',
+            url: '<?php echo site_url('teacher/edit_attendees').'/'.$attendees[0]["section_id"]; ?>',
             type: 'POST',
             data: formData,
             dataType: 'json',
@@ -833,6 +833,77 @@ function removeFile(index) {
     fileInput.files = dataTransfer.files;
     document.getElementById('preview-container').children[index].remove();
 }
+
+
+document.addEventListener('DOMContentLoaded', function () {
+    const childSelect = document.getElementById('child_id');
+    const childListContainer = document.getElementById('child-list-container');
+    const noChildMessage = document.getElementById('no-child-message');
+
+    // Function to update the visibility of the "No child" message
+    function updateNoChildMessage() {
+        const hasChildren = childListContainer.querySelectorAll('.child-entry').length > 0;
+        noChildMessage.style.display = hasChildren ? 'none' : 'block';
+    }
+
+    // Function to handle delete functionality for a child entry
+    function handleDelete(event) {
+        const childEntry = event.target.closest('.child-entry');
+        if (childEntry) {
+            childListContainer.removeChild(childEntry);
+            updateNoChildMessage();
+        }
+    }
+
+    // Event listener for the dropdown
+    childSelect.addEventListener('change', function () {
+        const selectedOption = childSelect.options[childSelect.selectedIndex];
+        const childId = selectedOption.value;
+        const parentId = selectedOption.getAttribute('data-parent');
+        const childLabel = selectedOption.text;
+
+        if (!childId) {
+            alert('Please select a valid child.');
+            return;
+        }
+
+        // Check if the child is already in the list
+        const existingEntry = document.querySelector(`div[data-child-id="${childId}"]`);
+        if (existingEntry) {
+            alert(`${childLabel} is already added.`);
+            return;
+        }
+
+        // Create a new entry in the child list
+        const childEntry = document.createElement('div');
+        childEntry.setAttribute('data-child-id', childId);
+        childEntry.classList.add('child-entry');
+
+        // Add label, hidden input, and delete button
+        childEntry.innerHTML = `
+            <label>${childLabel}</label>
+            <input type="hidden" name="child_parent_id[]" value="[${childId},${parentId}]">
+            <label class="delete" style="color:red; cursor:pointer;">X</label>
+        `;
+
+        // Append the new entry to the container
+        childListContainer.appendChild(childEntry);
+
+        // Add event listener to the delete button
+        const deleteButton = childEntry.querySelector('.delete');
+        deleteButton.addEventListener('click', handleDelete);
+
+        updateNoChildMessage();
+    });
+
+    // Attach delete functionality to existing entries
+    document.querySelectorAll('.child-entry .delete').forEach(button => {
+        button.addEventListener('click', handleDelete);
+    });
+
+    // Update the "No child" message initially
+    updateNoChildMessage();
+});
 
 
 </script>
